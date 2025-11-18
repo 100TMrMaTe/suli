@@ -1,0 +1,2882 @@
+[
+    {
+        "ev":2020,
+        "negyedev":1,
+        "nemzetiseg":"ma",
+        "mu":"Szobonya Erzsebet: Sapho 1.",
+        "peldanyszam":20000
+    },
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Szabo Zsolt: Vidam farm",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini Tukor-szigeten",
+		"peldanyszam":15000
+	},
+
+
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Tabori Andrea: Gesztesi - Egy elet ezer szine",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Benedek Elek: Benedek Elek legszebb mesekonyve",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Frei Tamas: 2015 a kaosz eve es a magyar elit haboruja",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Szabo Zsolt: Unikornisok nagy mesekonyve",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Henaq, Victoria Eugenia: Mrs. Escobar",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Francis, Suzanne: Jegvarazs 2.",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Paulsen, Rudiger: Husveti nyuszi es baratai",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Atwood, Margaret: Testamentumok",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Brallier, Max–Holgate, Douglas: Az utolso sracok a foldon",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja–A rideg valo",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja–Az utolso szalmaszal",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja–Negy fal kozott",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Russell, Rachel Renee: Egy Zizi naploja 1.–Mesek nem valami meses eletemrol",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Smith, Wilbur: Kiralyok kiralya",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Nemes harc",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szaraz Miklos Gyorgy: Fajo Trianon",
+		"peldanyszam":120000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Leiner Laura: A Szent Johanna Gimi. Kalauz 2.0",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Sapho. 2. r.",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Emlekezo Magyarorszag, 1. (Gyurgyak Janos szerk.)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Emlekezo Magyarorszag, 2. (Gyurgyak Janos szerk.)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Verzo Magyarorszag. Magyar irok Magyarorszag teruleteert  (Kosztolanyi Dezso szerk.)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Collins, Suzanne: enekesmadarak es kigyok balladaja",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Giordano, Paolo: Jarvany idejen",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Golya viszi a fiat - mondokaskonyv (val.: Orosne Galaczi Edit, Bacskai Csaba, David Ildiko)",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Gyertek, gyertek gyerekek! - mondokaskonyv (val.:  Orosne Galaczi Edit, Bacskai Csaba, David Ildiko)",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Lawrence, Leslie L.: Donovan ezredes trefaja I.",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Lawrence, Leslie L.: Donovan ezredes trefaja II.",
+		"peldanyszam":18000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: A szard szikla",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"R. Kelenyi Angelika: Barcelona, Barcelona",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Vadadi Adrienn: Leszel a baratom?",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Pasztohy Panka: Pitypang es Lili",
+		"peldanyszam":10005
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Benedek Elek: 100 Benedek Elek mese",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"May Szilvia: Orszaghazi tekergo",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Streicher Andras: Itt a nyuszi",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Toth Csaba Tamas: Tenyek es tevhitek - allati X",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: ejszakai muszak",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Az Intezet",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Potter, Beatrix: Nyul Peter es baratai. Beatrix Potter osszes meseje",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja-A nagy kiruccanas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja-Pechszeria",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Leiner Laura: Bizz bennem - II. trilogia - Iskolak versenye elso kotet",
+		"peldanyszam":60000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Kepes Andras: A bolond hulye es az okos depresszios",
+		"peldanyszam":40000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Karinthy Frigyes: Karacsonyi tarsasjatek",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Kosztolanyi Dezso: Csodat nekem",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: A vegzet",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Dezso Andras: Magyar Kola",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini",
+		"peldanyszam":17000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Meseorszag mindenkie (szerk.: Nagy Boldizsar)",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Tomor Anita: Veled egy szigeten",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"3-5-8 perces teli mesek, Szimonidesz Hajnalka rajzaival (szerk.: Ret Viktoria)",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bojte Csaba, Csender Levente: Bojte Csaba fuveskonyve",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Fabian Janka: Julie Konyvkuckoja",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bosnyak Viktoria: A siraly a kiraly?",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"3 eves lettem! - Kedvenc meseink a Pagony szerzoitol (szerk.:Gyori Hanna)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"99 magyar nepmese - Jankovics Marcell rajzaival",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Koleszar Marta: Ciganymesek 4. fejtorok",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Leiner Laura: Maradj velem",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Ruzsa Magdolna, Ordody Eszter: Angyalkert",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Szanto Daniel: Egy pap vallomasa",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja 15. - Mely viz",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Csendes ej",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: A kastely",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Pegazus",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Follett, Ken: Egy uj korszak hajnala - A katedralis elozmenye",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Rowling, J. K.: Az Ickabog",
+		"peldanyszam":17000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Nesbo, Jo: A birodalom",
+		"peldanyszam":17000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Cook, Robin: Genezis",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Trump, Mary L.: Tul sok es sosem eleg - Avagy hogyan teremtette meg a csaladom a vilag legveszelyesebb emberet",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Martin, George R. R.: Tronok harca",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2020,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Moyes, Jojo: arado feny",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bojte Csaba: Bojte Csaba fuveskonyve - oromhoz segito gondolatok",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Szerb Antal: Utas es holdvilag",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca. Honapok mesei",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Dragoman Gyorgy: Fozoskonyv",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Dragoman Gyorgy: Fozoskonyv (utannyomas)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Ablak - Zsiraf (Merei Ferenc - V. Binet Agnes)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Lang es a Szuperverdak - A dicsoseg Langja",
+		"peldanyszam":27000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat: A Kaland-obol kalozai",
+		"peldanyszam":27000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat: Dinoszauruszok nyomaban",
+		"peldanyszam":27000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat: Kosarlabda sztarok",
+		"peldanyszam":27000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat: Legimentesre fel!",
+		"peldanyszam":27000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat: Szuperhos kutyiero",
+		"peldanyszam":27000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Egy tokeletes elet",
+		"peldanyszam":24950
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Lipinska, Blanka: 365 nap",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat: A kutyik megmentik a nyuszikat",
+		"peldanyszam":13000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Peppa malac - Peppa husveti tojasvadaszata",
+		"peldanyszam":13000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Paz, Veronica: Dora husveti nyuszis kalandja",
+		"peldanyszam":13000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja-Lepjunk le!",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja-Regi szep idok",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Obertone, Laurent: Gerilla Barbarok ideje",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Smith, Keri: Nyird ki ezt a konyvet",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Smith, Wilbur: Szellemtuz",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Tapia, Ivan – Linde, Montse: A nagy penzrablas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Leiner Laura: Higgy nekem",
+		"peldanyszam":40000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Gardonyi Geza: Ida regenye",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: A kezdet",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca. Honapok mesei",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Eger,Edith Eva: A dontes",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Lorincz L. Laszlo: Felhoharcosok, 1.",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Lorincz L. Laszlo: Felhoharcosok, 2.",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Jesus Herrera",
+		"peldanyszam":14000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Kepes Andras: A boldog hulye es az okos depresszios",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Fabian Janka: Cholera-naplo",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca az ovodaban",
+		"peldanyszam":11130
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Daniel Andras: A kuflik es a furcsa arnyek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Meszoly Miklos: Nem felelt meg neki",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Varga Katalin: Gogos Gunar Gedeon",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Ablak - Zsiraf (Merei Ferenc - V. Binet Agnes)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca. evszakos konyv",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Steel,Danielle: A tekozlo fiu",
+		"peldanyszam":24950
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"King,Stephen: Minel veresebb",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Rowling,J. K.: Harry Potter es a Titkok Kamraja, Mardekar (jubileumi kiadas)",
+		"peldanyszam":18000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Rowling,J. K.: Harry Potter es a Titkok Kamraja, Griffendel (jubileumi kiadas)",
+		"peldanyszam":18000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Coelho,Paulo: Az ijasz",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Peterson, Jordan B.: Tul a renden - ujabb 12 szabaly az elethez",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"King,Stephen: Carrie",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Smith,Wilbur – Addison,Corban: A hollo szava",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Miler,Zdenek – Miler,Katerina – Doskocilova,Hana: A kisvakond es a tel",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Miler,Zdenek – Miler,Katerina – Doskocilova,Hana: A kisvakond es a tavasz",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Miler,Zdenek – Miler,Katerina – Doskocilova,Hana: A kisvakond es a nyar",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Miler,Zdenek – Katerina Miler – Michal Cernik: Egy het a kisvakonddal",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Steel,Danielle: aldas alruhaban",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Miler,Zdenek: Nagy csuszkalas a kisvakonddal",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Miler,Zdenek: Kukucskalas a kisvakonddal",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney,Jeff: Egy ropi naploja",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney,Jeff: Egy ropi naploja-Rodrick a kiraly",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney,Jeff: Egy ropi naploja-dupla para",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Hernady Zsolt: Kajla 7hatarban",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca - csengettyuk",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno Budapesten - Budapest kornyeke",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Legy(ott) Isztambulban",
+		"peldanyszam":14000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Martens, Sheila (Janoszky Beata) : Aranykalitka",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Martens, Sheila (Janoszky Beata): Nathifa",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Meyerin, Jud (Megyeri Judt): A mult bunei",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Scott, Julie (Nemes Judit): Az ezerkettedik ejszaka",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Scott, Julie (Nemes Judit): Helga tortenete",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Swann, Aneka (Nemes Istvan): Luxushajo",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Mancs orjarat - A film - Mesekonyv a mozifilm alapjan",
+		"peldanyszam":19000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Nesbo, Jo: A feltekenyseg-szakerto",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Lisey tortenet",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Rowling, J. K.: Harry Potter es a bolcsek kove",
+		"peldanyszam":13000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"100 Ezopusz mese [atd. Lovei Maria es Vajda Reka]",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Escobar, Roberto Sendoya: Escobar fia: az elsoszulott",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Az irasrol",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja-a harmadik kerek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Moyes, Jojo: Az utolso szerelmes level",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Babits Mihaly: A golyakalifa",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Naray Tamas: Volt egyszer egy varrodam",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Az Arab oroksege",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Dezso Andras: Fedosztori: kemek es titkos jatszmak Magyarorszagon",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Kohalmi Zoltan: Az utolso 450 ev",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Mesek a pottyos hazbol",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Eger, Edith Eva: A dontes",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Ugron Zsolna: Nincs egy ferfi - irasok es firkak",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Vrtko, Vujity: Aloha",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bosnyak Viktoria: A siraly a kiraly?",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Muller Peter: Anyam titkos konyve",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"100 allatmese: szorakoztato es tanulsagos tortenetek kicsiknek es nagyoknak",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Alex suli",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Banyaine Nagy Judit: Nem akarok beleszolni",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Mesek a pottyos hazbol",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Karady Anna: A furedi foldesur",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Pasztohy Panka: Pitypang jatszik",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Billy Summers",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Hawkins, Paula: Lassan izzo tuz",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Lipinska, Blanka: 365 nap 2.",
+		"peldanyszam":13000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Andersen, Hans Christian: A kis gyufaarus lany",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Osman, Richard: A ferfi, aki ketszer halt meg",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Potter, Beatrix: Nyul Peter adventi kalendariuma",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Smith, Wilbur: A haboru oroksege",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2021,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Gyerekjatek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bodocs Tibor: Mulat a manezs",
+		"peldanyszam":60000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Papp Gergo, Kajdi Csaba: A nagy Cyla sztori",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Krudy Gyula: Szindbad, az almok hajosa",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bosnyak Viktoria: A siraly a kiraly?",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Fabian Janka: Az Anna-bal szerelmesei",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Naray Tamas: Volt egyszer egy varrodam",
+		"peldanyszam":19000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini",
+		"peldanyszam":18000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Jakupcsek Gabriella: Alul semmi?",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Lawrence, Leslie L.: A jakfarkas zaszlo",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Marek Veronika: Boribon karacsonya",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Ban Mor: Hunyadi: a forgeteg hirnoke",
+		"peldanyszam":14200
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Tomor Anita: Imadlak Los Angeles",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Green, Anne L.: Toszkan rejtely",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Boldizsar Ildiko: Amalia almai",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Brody Janos: Sajat hangon",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Eger, Edith Eva: A dontes",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Fejos eva: Athen, vegallomas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Kepes Andras: A boldog hulye es az okos depresszios",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Leiner Laura: allj mellem",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Varga Katalin: Gogos Gunar Gedeon",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Jakob es ezsau (ill. Kort, Kees de ill.)",
+		"peldanyszam":31000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja: a nagy dobas",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Escobar, Juan Pablo: Mr. Escobar - Apam titkai",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Rossmann, Dirk: A polip kilencedik karja: klimakatasztrofa vagy vilagkormany",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Lipinska, Blanka: Meg 365 nap",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Nesbo, Jo: A patkanysziget",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Hazi kedvenceink (szerk. Brezvai Edit)",
+		"peldanyszam":13029
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Russell, Rachel Renee: Zizi naploja: turne",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Rowley Jefferson Bitang Para remtorteneteti",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Kem",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja- Romhalmaz",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Az Arab kiralysaga",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Naray Tamas: Anyam szerint",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca - Mesek a pottyos hazbol",
+		"peldanyszam":21000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Grecso Krisztian: Valami nepi",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Balaton-felvidek - Bruno a Balatonon",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Leslie L. Lawrence: Szemiramisz elefantjai",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Fabian Janka: arvizi naplo",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Green, Anne L. (Libor Erzsebet): Egyszeruen bonyolult",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Jankovics Andrea: ovodai emlekkonyvem",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Ablak - Zsiraf (Merei Ferenc - V. Binet Agnes)",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Nadas Peter: Remtortenetek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Petofi Sandor osszes versei",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Kesobb",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Tuzgyujto",
+		"peldanyszam":19000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja - Az utolso szalmaszal",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja - Hohaboru",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Owens, Delia: Ahol a folyami rakok enekelnek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Smith, Wilbur - Chadbourn, Mark: Az uj kiralysag",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Erkolcsi iranytu",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Szamjatek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Deres Kornelia: Emma es az elefant",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Man-Varhegyi Reka: Kokusz Franci, a fodrasz titkosugynok 1.",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Man-Varhegyi Reka: Kokusz Franci, a fodrasz titkosugynok 2.",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Sepsi Laszlo: Gogol, a szemetmagus",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Gotz Eszter: Kajla a muzeumok nyomaban",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca - Honapok mesei",
+		"peldanyszam":18000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Karady Anna: A furedi gyermek",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bogyo es Baboca - Csengettyuk",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Tomor Anita: Szeretlek Hawaii!",
+		"peldanyszam":10500
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"100 Grimm-mese",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Nemes Nagy agnes: Szilankos fenyjelek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Owens, Delia: Ahol a folyami rakok enekelnek",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Becses ajandekok",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Country",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Eger, Edith Eva: A dontes",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Velunk veget er",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Ugly Love - Csuf szerelem",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno a Balatonon - Deli part",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Fabian Janka: A szabadsag szerelmesei",
+		"peldanyszam":23000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bosnyak Viktoria: A siraly a kiraly?",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: alszemerem",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Fable, Vavyan (Molnar eva): Az elet ocska oromei",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno a Balatonon",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Lawrence, Leslie L.: Bolondok kolostora",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Nyerges Attila: Egy ismeros arc",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini Zuzmaragyarmaton",
+		"peldanyszam":13350
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Marek Veronika: Boribon karacsonya",
+		"peldanyszam":13160
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit - Agocs irisz: Maszat karacsonya",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Anne L. Green (Libor Erzsebet): Keseruen edes",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini es a latouveg",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Csukas Istvan: A teli tucsok mesei",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Edith Eva Eger: A dontes",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Laar Andras: Laaramlas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Lakatos Levente: Tonkreteszlek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Majzik Ilona: Sundorgo",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Nadas Peter: Berlini szurke",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Simon eva: Furfangos mesek az allatokrol",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Hoffmann, E.T.A.: Diotoro es egerkiraly",
+		"peldanyszam":40020
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja 17. - Kiborul a bili",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Rossmann, Dirk - Hoppe, Ralf: A polip haragja",
+		"peldanyszam":16000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff:  Egy ropi naploja. A rideg valo",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff:  Egy ropi naploja. Rodrick a kiraly",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Owens, Delia: Ahol a folyami rakok enekelnek",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Potter, Beatrix: Nyul Peter vilaga - Mesek minden evszakra",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle : Rejtozkodve",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Blue",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Szutyejev, Vlagyimir: Vidam mesek",
+		"peldanyszam":13350
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: All Your Perfects - Minden tokeletesed",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Potter, Beatrix: Nyul Peter adventi kalendariuma",
+		"peldanyszam":10240
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Jonasson, Jonas: A profeta es a hulye",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff:  Egy ropi naploja. A rideg valo",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Martin, George R. R.: Tuz es ver",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Apa lanyai",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2022,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Az eskuvoi ruha",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Anne L. Green (Libor Erzsebet): Hazateres Toszkanaba",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Balog-Toth Bernadett: Hanga, a hangya es baratai nagy kalandja. A hoember",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno Budapesten - Buda tornyai",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno Budapesten - Pest szive",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Duna - Bruno Budapesten 5.",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini kincsei",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"ma",
+		"mu":"Fekete Istvan: Vuk",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Ferguson, Sarah: A sziv iranytuje",
+		"peldanyszam":30000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Minden tokeletesed",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Ugly Love - Csuf szerelem",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff:  Egy ropi naploja. Negy fal kozott",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja. Kutya egy ido",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Verity - Sotet titkok vonzasaban!",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Martin, George R. R. – Garcia, Jr. Elio M. – Antonsson, Linda: A sarkany felemelkedese",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":1,
+		"nemzetiseg":"kf",
+		"mu":"Owens, Delia: Ahol a folyami rakok enekelnek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Leiner Laura: 40 nyari nap",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno a Balatonon 3. Nyugati karej",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Naray Tamas: Barbara - A vegzet",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Marek Veronika: Boribon a jatszoteren",
+		"peldanyszam":15080
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Dezso Andras: Nagyfonok",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Karady Anna: Zserbo. A mult tengeren",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: A csigahaz kincsei",
+		"peldanyszam":13805
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Vedelem",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: A csigahaz kincsei",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Leslie L. Lawrence: Domingos es a halal angyala",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"ma",
+		"mu":"Szily Laszlo: Idegtartas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Harry herceg: Tartalek",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Velunk veget er",
+		"peldanyszam":19000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Mely viz",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja - A nagy kiruccanas",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Rossmann, Dirk: Tintoretto es baratai",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Elrontott eletek",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Rickman, Alan: orulten, melyen - Alan Rickman naploi",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Steel,Danielle: Minden, ami csillog",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":2,
+		"nemzetiseg":"kf",
+		"mu":"Steel,Danielle: Royal",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Ban Mor: Hunyadi - Tizenkettedik konyv - Angyal a kapuk felett",
+		"peldanyszam":14200
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Szobonya Erzsebet: Bajban Dubajban",
+		"peldanyszam":13000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno Budapesten",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"100 magyar nepmese: A Magyar nepmesek sorozat teljes kiadasa",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"ma",
+		"mu":"Berg Judit: Rumini es az ot toll",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Nesbø, Jo: Verhold",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Perrin, Valerie: A vasarnap koldusai",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Kinney, Jeff: Egy ropi naploja - Pechszeria",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Andersen, Hans Christian: 100 Andersen-mese",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":3,
+		"nemzetiseg":"kf",
+		"mu":"Steel, Danielle: Szomszedok",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bodocs Tibor: Primszamok hoesesben",
+		"peldanyszam":50000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Kepes Andras: Ket macska voltam",
+		"peldanyszam":40000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Naray Tamas: Barbara - A talalkozas",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bosnyak Viktoria: A siraly a kiraly?",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Kariko Katalin: attoresek - eletem es a tudomany",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Karady Anna: Zserbo 2. - A haboru tengeren",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Leslie L. Lawrence (Lorincz L. Laszlo): Sindzse es az atkok konyve",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: A csigahaz kincsei",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Csendes Levente: Fenybol es sarbol",
+		"peldanyszam":12000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Bartos Erika: Bruno bemutatja Budapestet",
+		"peldanyszam":10100
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Borbely Szilard: Egyre rovidebb szavak",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Krusovszky Denes: Levelek nelkul",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Lakatos Levente: Kiara Lord erkolcstelen randevui",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Naray Tamas: Barbara - A vegzet",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Pasztohy Panka: Pitypang es Lili, Pitypang es a diotoro",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Tomor Anita: ujra veled almodom",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"ma",
+		"mu":"Varro Daniel: Tul a Maszat-hegyen 2.",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: Tundermese",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Perrin, Valerie: Trio",
+		"peldanyszam":25000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Rowling, J.K.: Harry Potter - Varazsalmanach",
+		"peldanyszam":20000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Reminders of him - Emlekek rola",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Yarros, Rebecca: Negyedik szarny",
+		"peldanyszam":15000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Berrios, Frank: Mancs orjarat. A szuperfilm",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Black, Holly: How the King of Elfhame Learned to Hate Stories - Hogyan gyulolte meg Elfhon kiralya a torteneteket",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Christie, Agatha: oszi borzongas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Grace, Hannah: Icebreaker - Jegtoro",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Hoover, Colleen: Egy nap talan",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"James, E.L.: Missus",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: A harcos",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"King, Stephen: A harmak elhivatasa",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Nesbo, Jo: ejszakai Haz",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Perrin, Valerie: Masodviragzas",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Potter, Beatrix: Nyul Peter, karacsonyi csillag",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Score, Lucy: Amin sosem leszunk tul",
+		"peldanyszam":10000
+	},
+
+	{
+		"ev":2023,
+		"negyedev":4,
+		"nemzetiseg":"kf",
+		"mu":"Stuart, Anna: Az auschwitzi baba",
+		"peldanyszam":10000
+	}
+]

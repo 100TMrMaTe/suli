@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bekerés</title>
+    </head>
+    <body>
+        <h1 id="eredmeny"></h1>
+        <script>
+            let elsoszam  = prompt("Kérem az első számot: ")
+            let masodikszam  = prompt("Kérem a második számot: ")
+            let jel  = prompt("Kérek egy műveleti jelet ")
+
+            if(jel == "+")
+        {
+            document.getElementById("eredmeny").innerHTML = parseInt(elsoszam) + parseInt(masodikszam)
+        }
+        else if(jel == "-")
+        {
+            document.getElementById("eredmeny").innerHTML = parseInt(elsoszam) - parseInt(masodikszam)
+        }
+            
+        </script>
+    </body>
+</html>

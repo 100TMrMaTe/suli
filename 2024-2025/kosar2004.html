@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kosar2004</title>
+  </head>
+  <body>
+    <script>
+      class Mecs {
+        constructor(hazia, idegen, hazaiPont, idegenPont, helyszin, idopont) {
+          this.hazia = hazia;
+          this.idegen = idegen;
+          this.hazaiPont = Number(hazaiPont);
+          this.idegenPont = Number(idegenPont);
+          this.idopont = new Date(idopont);
+          this.helyszin = helyszin
+        }
+      }
+
+      fetch("eredmenyek.csv")
+        .then((response) => response.text())
+        .then((data) => {
+          const sorok = data.split("\n");
+          sorok.shift();
+          const meccsek = [];
+          for (let i = 0; i < sorok.length; i++) {
+            const vag = sorok[i].split(";");
+            meccsek.push(
+              new Mecs(vag[0], vag[1], vag[2], vag[3], vag[4], vag[5])
+            );
+          }
+          //3.feladat
+          let madridHazai = 0;
+          let madridIdegen = 0;
+          for (let i = 0; i < meccsek.length; i++) {
+            if (meccsek[i].hazia == "Real Madrid") {
+              madridHazai += 1;
+            } else if (meccsek[i].idegen == "Real Madrid") {
+              madridIdegen += 1;
+            }
+          }
+          console.log(
+            `3.feladat: A Real Madrid ${madridHazai} hazai és ${madridIdegen} idegenbeli meccset játszott`
+          );
+          console.log(meccsek[0].idegenPont);
+          //4.feladat
+          let volt = false;
+          for (let i = 0; i < meccsek.length; i++) {
+            if (meccsek[i].hazaiPont == meccsek[i].idegenPont) {
+              volt = true;
+            }
+          }
+          if (volt == true) {
+            console.log("4.feladat: Volt döntetlen meccs");
+          } else {
+            console.log("4.feladat: Nem volt döntetlen meccs");
+          }
+          //5.feladat
+          let teljesNev = "";
+          let i = 0;
+          while (teljesNev.length < 1) {
+            if (meccsek[i].hazia.includes("Barcelona")) {
+              teljesNev = meccsek[i].hazia;
+            } else {
+              i++;
+            }
+          }
+          console.log(`5.feladat: A csapat teljes neve: ${teljesNev}`);
+          //6.feladat
+          console.log("6.feladat");
+          for (let i = 0; i < meccsek.length; i++) {
+            if (
+              meccsek[i].idopont.getFullYear() == 2004 &&
+              meccsek[i].idopont.getMonth() == 10 &&
+              meccsek[i].idopont.getDate() == 21
+            ) {
+              console.log(
+                `${meccsek[i].hazia}-${meccsek[i].idegen} (${meccsek[i].hazaiPont}:${meccsek[i].idegenPont})`
+              );
+            }
+          }
+          //7.feladat
+          const helyszinSzamlalo = {};
+
+          for (let meccs of meccsek) {
+            const helyszin = meccs.helyszin;
+            if (helyszinSzamlalo[helyszin]) {
+              helyszinSzamlalo[helyszin]++;
+            } else {
+              helyszinSzamlalo[helyszin] = 1;
+            }
+          }
+
+          for (let helyszin in helyszinSzamlalo) {
+            if (helyszinSzamlalo[helyszin] > 20) {
+              console.log(`${helyszin}: ${helyszinSzamlalo[helyszin]}`);
+            }
+          }
+        });
+    </script>
+  </body>
+</html>

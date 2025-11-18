@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gyakorlás 10. 08.</title>
+    <style>
+        td {
+            border: 0.5px solid black;
+            width: 100px;
+            height: 50px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="kell"></div>
+    Sorok száma: <input type="text" id="oszlop">
+    Oszlopok száma: <input type="text" id="sor">
+    <button onclick="rajz()">Mehet</button>
+    <script>
+        function rajz() {
+            let oszlop = document.getElementById("oszlop").value;
+            let sor = document.getElementById("sor").value;
+            let tabla= document.createElement("table");
+            for (let i = 0; i < oszlop; i++) {
+                let y = document.createElement("tr");
+                for (let z = 0; z < sor; z++) {
+                    let q = document.createElement("td");
+                    q.addEventListener("dblclick", function()
+                    {
+                        q.innerHTML = ""
+                        let bevitel = document.createElement("input");
+                        bevitel.setAttribute("type","text");
+                        bevitel.setAttribute("id","szoveg")
+                        q.appendChild(bevitel)
+                        bevitel.focus();
+                    }
+                    ) 
+                    q.addEventListener("focusout", function()
+                {
+                    q.innerHTML = document.getElementById("szoveg").value 
+                })
+                 
+                    y.appendChild(q);
+                }
+                tabla.appendChild(y);
+            }
+            document.body.appendChild(tabla);
+        }
+    </script>
+</body>
+</html>

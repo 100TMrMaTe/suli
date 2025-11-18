@@ -1,0 +1,34 @@
+td {
+    border: 0.5px solid black;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
+#beKeres
+{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+}
+#gomb{
+    background-color: black;
+    color: white;
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+table {
+    border-collapse: collapse; 
+    margin-top: 20px;
+}

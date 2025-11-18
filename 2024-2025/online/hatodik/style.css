@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+#asztal {
+  display: grid;
+  grid-template-columns: repeat(4, 150px);
+  grid-gap: 10px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.kartya {
+  width: 150px;
+  height: 150px;
+  background-color: lightgray;
+  background-size: cover;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.kartya:hover {
+  transform: scale(1.1);
+}
+
+#ido {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#kattintasok {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 10px;
+}
+#jatekVege {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+}

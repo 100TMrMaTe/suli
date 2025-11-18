@@ -1,0 +1,13 @@
+.triangle {
+    width:0; 
+    border-bottom:120px solid green; 
+    border-left:60px solid white; 
+    border-right:60px solid white;
+}
+#talp
+{
+    background-color: brown;
+    height: 80px;
+    width: 40px;
+    margin-left: 40px
+}

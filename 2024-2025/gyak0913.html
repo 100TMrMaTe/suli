@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dolog</title>
+    </head>
+    <body>
+        <button type="button" onclick="feladat()">Hogy megtudd mikor születtél</button>
+        <h1 id="monitor"></h1>
+        <script>
+            let nev  = prompt("Kérem a nevét: ")
+            let kor = prompt("Adja meg az életkorát: ")
+            function feladat()
+            {
+                let datum  = new Date()
+                let ev = datum.getFullYear()
+
+                document.getElementById("monitor").innerHTML = ev - kor
+            }
+        </script>
+    </body>
+</html>

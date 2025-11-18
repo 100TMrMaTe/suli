@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container" id="signup">
+        <h1 class="form-title">Regisztráció</h1>
+        <form method="post" action="">
+            <div class="inpute-group">
+                <i class="fas fa-user"></i>
+                <input type="text" name="fName" id="fName" placeholder="Keresztnév" required>
+                <label for="fname">Keresztnév</label>
+            </div>
+            <div class="inpute-group">
+                <i class="fas fa-user"></i>
+                <input type="text" name="lName" id="lName" placeholder="Vezetéknév" required>
+                <label for="lName">Vezetéknév</label>
+            </div>
+            <div class="inpute-groupe">
+                <i class="fas fa-envelope"></i>
+                <input type="email" name="email" id="email" placeholder="Email" required>
+                <label for="email">Email</label>
+            </div>
+            <div class="input-group">
+                <i class="fas fa-lock"></i>
+                <input type="password" id="password" placeholder="Password" required>
+                <label for="password">Password</label>
+            </div>
+            <input type="submit" class="btn" value="Regisztráció" name="singUp">
+        </form>
+        <p class="or">
+            ----------vagy----------
+        </p>
+        <div class="icons">
+            <i class="fab fa-google"></i>
+            <i class="fab fa-facebook"></i>
+        </div>
+        <div class="links">
+            <p>Már van fiókja?</p>
+            <button id="singInButton">Belépés</button>
+        </div>
+    </div>
+
+
+
+    <div class="container" id="signin">
+        <h1 class="form-title">Bejelentkezés</h1>
+        <form method="post" action="">
+            <div class="inpute-groupe">
+                <i class="fas fa-envelope"></i>
+                <input type="email" name="email" id="email" placeholder="Email" required>
+                <label for="email">Email</label>
+            </div>
+            <div class="input-group">
+                <i class="fas fa-lock"></i>
+                <input type="password" id="password" placeholder="Password" required>
+                <label for="password">Password</label>
+            </div>
+            <p class="recover">
+                <a href="#">Jelszó visszaállítása</a>
+            </p>
+            <input type="submit" class="btn" value="Bejelentkezés" name="singIn">
+        </form>
+        <p class="or">
+            ----------vagy----------
+        </p>
+        <div class="icons">
+            <i class="fab fa-google"></i>
+            <i class="fab fa-facebook"></i>
+        </div>
+        <div class="links">
+            <p>Még nincs fiókja?</p>
+            <button id="singUpButton">Regisztráció</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

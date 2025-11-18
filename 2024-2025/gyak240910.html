@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SzorzóTábla</title>
+
+</head>
+<body>
+    <form oninput="x.value=parseInt(a.value)">
+        <label>oszlopok: </label>
+        <input type="range" id="a" value="10" min="1" max="20" onchange="alfa()"><br>
+        <label> sorok: </label>
+        <input type="range" id="b" value="10" min="1" max="20" onchange="alfa()">
+        <output name="x" for="a"></output>
+    </form>
+    <table id="table">
+
+    </table>
+    <script>
+        function alfa()
+        {
+            document.getElementById("table").innerHTML=""
+            let a=document.getElementById("a").value;
+            let b=document.getElementById("b").value;
+            for(let i=0;i< b;i++)
+            {
+                let y = document.createElement("tr");
+                         
+                for(let z=0;z<a;z++)
+                {
+                    
+                    
+                        let q = document.createElement("td");
+                        q.innerHTML=(i+1)*(z+1);
+                        q.addEventListener("click",function(){q.style.backgroundColor = "red"})
+                        y.appendChild(q);                  
+                }
+                    
+                
+                document.getElementById("table").appendChild(y);
+            }
+        }
+    </script>
+</body>
+</html>

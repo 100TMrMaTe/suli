@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Titkos tartalom"
+AuthUserFile /xampp/htdocs/HTML/2025-2026/titkos2/.htpasswd
+Require valid-user

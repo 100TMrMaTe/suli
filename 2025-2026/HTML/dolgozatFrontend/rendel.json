@@ -1,0 +1,4857 @@
+[
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 1,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 1,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 1,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 2,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 2,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 2,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 2,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 2,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 2,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 7
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 3,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 3,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 3,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 4,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 4,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 5,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 5,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 6
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 6,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 6,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 7,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 7,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 7,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 7,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 7,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 7,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 8,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 8,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 8,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 8,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 9,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 9,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 9,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 10,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 10,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 11,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 11,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 12,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 12,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 13,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 13,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 14,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 15,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 15,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 15,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 15,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 15,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 8
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 16,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 16,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 17,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 17,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 17,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 18,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 18,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 19,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 19,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 19,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 7
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 20,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 20,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 21,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 21,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 21,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 9
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 22,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 22,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 22,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 23,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 23,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 24,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 24,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 24,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 25,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 25,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 8
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 25,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 25,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 25,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 25,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 25,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 25,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 26,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 26,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 27,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 27,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 28,
+    "varos": "TV",
+    "darab": 8
+  },
+  {
+    "nap": 28,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 28,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 28,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 28,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 28,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 28,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 28,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 1
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 5
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 2
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 5
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 29,
+    "varos": "NR",
+    "darab": 4
+  },
+  {
+    "nap": 29,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 29,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 2
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 4
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 1
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 5
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 3
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 4
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 2
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 3
+  },
+  {
+    "nap": 30,
+    "varos": "PL",
+    "darab": 1
+  },
+  {
+    "nap": 30,
+    "varos": "TV",
+    "darab": 3
+  }
+]

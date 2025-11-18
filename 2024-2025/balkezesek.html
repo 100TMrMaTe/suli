@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Balkezesek</title>
+  </head>
+  <body>
+    <script>
+      class Ember {
+        constructor(nev, elso, utolso, suly, magassag) {
+          this.nev = nev;
+          this.elso = new Date(elso);
+          this.utolso = new Date(utolso);
+          this.suly = Number(suly);
+          this.magassag = Number(magassag);
+        }
+      }
+      let emberek = [];
+      fetch("balkezesek.csv")
+        .then((response) => response.text())
+        .then((data) => {
+          let sorok = data.split("\n");
+          sorok.shift();
+          for (let i = 0; i < sorok.length; i++) {
+            const vag = sorok[i].split(";");
+            emberek.push(new Ember(vag[0], vag[1], vag[2], vag[3], vag[4]));
+          }
+          //3.feladat
+          let db = emberek.length;
+          console.log(`3.feladat: ${db}`);
+
+          //4.feladat
+          console.log("4.feldat: ");
+          for (let i = 0; i < emberek.length; i++) {
+            if (
+              emberek[i].utolso.getFullYear() === 1999 &&
+              emberek[i].utolso.getMonth() === 9
+            ) {
+              console.log(
+                emberek[i].nev +
+                  " " +
+                  (emberek[i].magassag * 2.54).toFixed(1) +
+                  " cm"
+              );
+            }
+          }
+
+          //5.feladat
+          console.log("5.feladat:");
+          let evszam = parseInt(prompt("Kérek egy évszámot 1990 és 1999 között: "));
+          while (evszam < 1990 || evszam > 1999) {
+            evszam = parseInt(prompt(
+              "Hibás adat kérek egy 1990 és 1999 közötti számot!"
+            ));
+          }
+
+          //6.feladat
+          const atlag = [];
+          let sum = 0;
+          for (let i = 0; i < emberek.length; i++) {
+            if (
+              emberek[i].elso.getFullYear() == evszam ||
+              emberek[i].utolso.getFullYear() == evszam
+            ) {
+                atlag.push(emberek[i].suly)
+              sum += emberek[i].suly
+            }
+          }
+          console.log("6.feladat: "+(sum/atlag.length).toFixed(2)+" font")
+        });
+    </script>
+  </body>
+</html>

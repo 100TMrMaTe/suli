@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Könyv kiadás</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <h1>
+        Könyv kiadás
+    </h1>
+    <label for="szerzonev">Szerző:</label>
+    <input type="text" class="" id="szerzonev">
+    <input type="button" onclick="feladat2()" value="Keresés" class="btn btn-info">
+    <div id="eredmeny2"></div>
+
+    <label>Legnagyobb példányszám:</label>
+    <input type="button" onclick="feladat3()" value="Keresés" class="btn btn-info">
+    <div id="eredmeny3"></div>
+
+    <label>4. feladat: 40.000 feletti külföldi író:</label>
+    <input type="button" onclick="feladat4()" value="Keresés" class="btn btn-info">
+    <div id="eredmeny4"></div>
+
+    <label>5. feladat: Statisztika:</label>
+    <input type="button" onclick="feladat5()" value="Keresés" class="btn btn-info">
+    <div id="eredmeny5"></div>
+
+    <label>6. feladat: </label>
+    <input type="button" onclick="feladat6()" value="Keresés" class="btn btn-info">
+    <div id="eredmeny6"></div>
+
+    <script>
+        let adatok = []
+        fetch("kiadas2.json")
+            .then((res) => res.json())
+            .then((json) => adatok = json);
+        console.log(adatok)
+
+        function feladat2() {
+            let nev = document.querySelector("#szerzonev").value
+            let nevdarab = nev.split(" ");
+            let kulfoldiNev = nevdarab.toReversed().join(", ")
+
+            let talalat = adatok.filter(e => (e.mu.includes(nev) || e.mu.includes(kulfoldiNev)))
+            let doboz = document.getElementById("eredmeny2")
+            if (talalat.length == 0) {
+                doboz.innerHTML = "Ninsc találat!"
+            }
+            else {
+                doboz.innerHTML = talalat.length + " könyvkiadás";
+            }
+        }
+
+        function feladat3() {
+            let legnagyobb = adatok.map(e => e.peldanyszam).toSorted(function (a, b) { return b - a })[0]; //b-a Csökkenő a-b Növekvő
+            let legnagyobb2 = Math.max(...adatok.map(e => e.peldanyszam))
+            let talalatok = adatok.filter(e => e.peldanyszam == legnagyobb);
+
+            document.getElementById("eredmeny3").innerHTML = "Legnagyobb példányszám " + talalatok[0].peldanyszam + ", előfordúlt " + talalatok.length;
+        }
+
+        function feladat4() {
+            let talalat = adatok.find(e => e.nemzetiseg == "kf" && e.peldanyszam >= 40000);
+            document.getElementById("eredmeny4").innerHTML = talalat.ev + "/" + talalat.negyedev + ": " + talalat.mu;
+        }
+
+        function feladat5() {
+            let tabla = document.createElement("table");
+
+            /*console.log(["Év","Magyar kiadások","Magyar példányszám","Külföldi kiadások","Külföldi példányszám"]
+             .map(e=>document.createElement("th"))
+             .reduce((tr,e)=>tr.appendChild(e),document.createElement("tr")))
+             */
+            const tr = ["Év", "Magyar kiadások", "Magyar példányszám", "Külföldi kiadások", "Külföldi példányszám"]
+                .map(e => {
+                    const th = document.createElement("th");
+                    th.textContent = e;   // vagy: th.innerHTML = e;
+                    return th;
+                })
+                .reduce((tr, e) => {
+                    tr.appendChild(e);
+                    return tr;
+                }, document.createElement("tr"));
+                tabla.appendChild(tr)
+
+            let talalatok = {};
+            adatok.forEach(e => {
+                if (talalatok[e.ev] === undefined) {
+                    talalatok[e.ev] = { "ma": [], "kf": [] };
+                }
+                talalatok[e.ev][e.nemzetiseg].push(e.peldanyszam);
+            })
+            for (let [ev, kiadasok] of Object.entries(talalatok)) {
+                let sor = document.createElement("tr");
+                let cellaMagyar = document.createElement("td");
+                let cellaEv = document.createElement("td");
+                let cellaMagyarPeldanyszam = document.createElement("td")
+                cellaEv.innerHTML = ev;
+                cellaMagyar.innerHTML = kiadasok.ma.length;
+                cellaMagyarPeldanyszam.innerHTML = kiadasok.ma.reduce((osszeg, e) => osszeg + e);
+                sor.appendChild(cellaEv);
+                sor.appendChild(cellaMagyar);
+                sor.appendChild(cellaMagyarPeldanyszam);
+                let cellaKulfoldi = document.createElement("td");
+                let cellaKulfoldiPeldanyszam = document.createElement("td")
+                cellaKulfoldi.innerHTML = kiadasok.kf.length;
+                cellaKulfoldiPeldanyszam.innerHTML = kiadasok.ma.reduce((osszeg, e) => osszeg + e);
+                sor.appendChild(cellaKulfoldi);
+                sor.appendChild(cellaKulfoldiPeldanyszam);
+                tabla.appendChild(sor);
+            }
+            //console.log(talalatok)
+            document.getElementById("eredmeny5").appendChild(tabla);
+        }
+        function feladat6()
+        {
+            const talalat={};
+            adatok.forEach(elem=>{
+                if(talalat[elem.mu] === undefined)talalat[elem.mu] = [];
+                talalat[elem.mu].push(elem.peldanyszam);
+            })
+            talalat2 = Object.keys(talalat)
+            .filter(e=> talalat[e].length >= 3)
+            .filter(k => talalat[k][0]<talalat[k][1] && talalat[k][0] < talalat[k][2])
+            document.getElementById("eredmeny6").innerHTML = talalat2
+        }
+
+    </script>
+</body>
+
+</html>

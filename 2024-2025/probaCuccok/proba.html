@@ -1,0 +1,132 @@
+// Alap HTML setup // index.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Termékkezelő</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        padding: 20px;
+      }
+      #product-list {
+        flex: 1;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 10px;
+      }
+      .product {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: center;
+      }
+      .product img {
+        max-width: 100%;
+        max-height: 150px;
+      }
+      #product-details {
+        flex: 1;
+        margin-left: 20px;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="product-list"></div>
+    <div id="product-details"></div>
+    <script>
+      // JavaScript setup
+      // app.js
+      const API_URL = "https://fakestoreapi.com/products"; // Használd a megfelelő API URL-t
+
+      const productListEl = document.getElementById("product-list");
+      const productDetailsEl = document.getElementById("product-details");
+
+      // Termékek betöltése
+      async function fetchProducts() {
+        const response = await fetch(API_URL);
+        const products = await response.json();
+        displayProducts(products);
+      }
+
+      // Termékek megjelenítése
+      function displayProducts(products) {
+        productListEl.innerHTML = "";
+        products.forEach((product) => {
+          const productEl = document.createElement("div");
+          productEl.className = "product";
+          productEl.innerHTML = `
+      <img src="${product.image}" alt="${product.name}" />
+      <h3>${product.name}</h3>
+      <p>${product.description}</p>
+    `;
+          productEl.addEventListener("click", () =>
+            showProductDetails(product)
+          );
+          productListEl.appendChild(productEl);
+        });
+      }
+
+      // Termék részleteinek megjelenítése
+      function showProductDetails(product) {
+        productDetailsEl.innerHTML = `
+    <h2>${product.name}</h2>
+    <img src="${product.image}" alt="${product.name}" style="max-width: 300px;" />
+    <p>${product.description}</p>
+    <button id="edit-product">✏️ Szerkesztés</button>
+    <button id="delete-product">🗑️ Törlés</button>
+  `;
+
+        document
+          .getElementById("edit-product")
+          .addEventListener("click", () => editProduct(product));
+        document
+          .getElementById("delete-product")
+          .addEventListener("click", () => deleteProduct(product.id));
+      }
+
+      // Termék szerkesztése
+      function editProduct(product) {
+        productDetailsEl.innerHTML = `
+    <h2>${product.name} szerkesztése</h2>
+    <form id="edit-form">
+      <input type="text" id="product-name" value="${product.name}" />
+      <textarea id="product-description">${product.description}</textarea>
+      <button type="submit">Mentés</button>
+    </form>
+  `;
+
+        document
+          .getElementById("edit-form")
+          .addEventListener("submit", async (event) => {
+            event.preventDefault();
+            const updatedProduct = {
+              name: document.getElementById("product-name").value,
+              description: document.getElementById("product-description").value,
+            };
+            await fetch(`${API_URL}/${product.id}`, {
+              method: "PUT",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify(updatedProduct),
+            });
+            fetchProducts();
+          });
+      }
+
+      // Termék törlése
+      async function deleteProduct(productId) {
+        await fetch(`${API_URL}/${productId}`, { method: "DELETE" });
+        fetchProducts();
+      }
+
+      // Alkalmazás inicializálása
+      fetchProducts();
+    </script>
+  </body>
+</html>

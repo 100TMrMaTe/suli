@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <style>
+      body {
+        background-color: rgb(134, 128, 128);
+      }
+
+      .content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 500px;
+        min-height: 200px;
+        text-align: center;
+        background-color: #e8eae6;
+        box-sizing: border-box;
+        padding: 10px;
+        z-index: 100;
+        display: none;
+        padding-top: 50px;
+      }
+
+      .close-btn {
+        position: absolute;
+        right: 20px;
+        top: 15px;
+        background-color: black;
+        color: white;
+        border-radius: 50%;
+        padding: 4px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <pre>
+a termékekkel (products) kell munkát végeznitöltsétek be a termékeket, és jelenítsétek meg a termékek nevét, képét leírását, valamilyen gyors, egyszerű css-sel megformázva. A képek ne legyenek túl nagyok!a termékekre kattintva az oldalon, a lista mellett mondjuk, jelenjen meg az ÖSSZES olyan adat, ami a felhasználóra tartozik, és semmi olyan ami csak a működéshez kell.a részleteket bemutató oldalon legyen egy ceruza ikon, amivel egy űrlapon lehet szerkeszteni az adatokat majd utána frissítenilegyen ugyanott egy kuka ikon, ami törli a szerverről (nem valós törlés lesz)ha nem mennek az ikonok, akkor sima gomb legyenlegyen egy "új termék" gomb, amivel új elemet lehet hozzáadni</pre
+    >
+    <div class="content container">
+      <div onclick="togglePopup()" class="close-btn">&times</div>
+      <div id="termekAdat" class="row">
+        <div id="termekTitle"></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-8">
+              <div id="termekAr"></div>
+              <div id="termekLeiras"></div>
+              <div id="termekKategoria"></div>
+              <div id="termekErtekeles"></div>
+            </div>
+            <div class="col-4">
+              <div id="termekKep"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row" id="termekLista"></div>
+    </div>
+
+    <script>
+      $.ajax({
+        url: "https://fakestoreapi.com/products",
+        dataType: "json",
+        success: function (data) {
+          console.log(data);
+          data.forEach((product) => {
+            console.log(product);
+            let kartya = termekKartya(
+              product.title,
+              product.image,
+              product.description,
+              product.id
+            );
+            $("#termekLista").append(kartya);
+          });
+        },
+      });
+
+      function togglePopup() {
+        $(".content").toggle();
+      }
+
+      function termekKartya(nev, kepurl, leiras, id) {
+        let keret = jQuery("<div>");
+        keret.prop("class", "card");
+        keret.addClass("col-3");
+        keret.on("click", function () {
+          $.ajax({
+            url: "https://fakestoreapi.com/products/" + id,
+            dataType: "json",
+            success: function (data) {
+              $("#termekKep").html("");
+              $("#termekTitle").html("");
+
+              let cim = jQuery("<h3>")
+              cim.html(data.title)
+              $("#termekTitle").append(cim);
+              $("#termekAr").html("Ár: " + data.price + "€");
+              $("#termekLeiras").html("Leírás: " + data.description);
+              $("#termekKategoria").html("Kategória: " + data.category);
+
+              let kep = jQuery("<img>");
+              kep.prop("src", data.image);
+              $("#termekKep").append(kep);
+
+              $("#termekErtekeles").html("Értékelés: Work in progress");
+              togglePopup();
+            },
+          });
+        });
+
+        let kep = jQuery("<img>");
+        kep.prop("src", kepurl);
+        kep.prop("class", "card-img-top");
+        kep.prop("alt", nev);
+
+        let neve = jQuery("<h5>");
+        neve.html(nev);
+        neve.prop("class", "card-title");
+
+        let leir = jQuery("<p>");
+        leir.html(leiras);
+        leir.prop("class", "card-text");
+
+        let cardBody = jQuery("<div>");
+        cardBody.prop("class", "card-body");
+
+        cardBody.append(neve);
+        cardBody.append(leir);
+        keret.append(kep);
+        keret.append(cardBody);
+
+        return keret;
+      }
+    </script>
+  </body>
+</html>
