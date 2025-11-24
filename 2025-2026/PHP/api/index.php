@@ -1,19 +1,23 @@
-<button onclick="f2()">Click me</button>
-<div id="ide"></div>
 <?php
-phpinfo(32);
-?>
-<script>
-    function f2() {
-        fetch("suliscucc/suli/2025-2026/PHP/api/123/123/123")
-            .then(response => response.text())
-            .then(data => {
-                m(data);
-            });
-    }
+include_once "../fugvenyek.php";
 
-    function m(massage)
-    {
-        document.getElementById("ide").innerHTML = massage;
-    }
-</script>
+if (isset($_GET["path"])) {
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+
+    // Create connection
+    $conn = mysqli_connect($servername, $username, $password);
+
+    $apiParts = explode("/", $_GET["path"]);
+    d($apiParts);
+} else {
+
+
+?>
+
+    <h3>API help</h3>
+
+<?php
+
+} ?>
