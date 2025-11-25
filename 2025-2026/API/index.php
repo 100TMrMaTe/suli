@@ -24,9 +24,11 @@ if (isset($_GET["path"])) {
             {
                 $jsonTomb[] = $row;
             }
-            d(json_encode($jsonTomb));
+            $json=json_encode($jsonTomb);
+            //d($json);
+            echo $json;
         }
-    // var_dump($_SERVER['REQUEST_METHOD']);
+    // d($_SERVER['REQUEST_METHOD']);
     //phpinfo(32);
     }
 } else {
