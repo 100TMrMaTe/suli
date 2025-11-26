@@ -9,7 +9,7 @@ phpinfo(32);
 if(isset($_GET["path"]))
 {
     $apiParts = explode("/",$_GET["path"]);
-    var_dump($apiParts);
+    //var_dump($apiParts);
 }
 ?>
 

@@ -11,7 +11,7 @@ if (isset($_GET["path"])) {
     $conn = mysqli_connect($servername, $username, $password, $db);
     $apiParts = explode("/", $_GET["path"]);
 
-    d($apiParts);
+    //d($apiParts);
     if($apiParts[0] == "todo")
     {
         if($_SERVER['REQUEST_METHOD'] == "GET")
