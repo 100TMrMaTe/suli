@@ -28,6 +28,10 @@ if (isset($_GET["path"])) {
             //d($json);
             echo $json;
         }
+        elseif($_SERVER['REQUEST_METHOD'] == "POST")
+        {
+            phpinfo(32);
+        }
     // d($_SERVER['REQUEST_METHOD']);
     //phpinfo(32);
     }
