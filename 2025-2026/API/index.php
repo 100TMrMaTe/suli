@@ -15,7 +15,7 @@ if (isset($_GET["path"])) {
 
     //d($apiParts);
 
-    if ($apiParts[0] == "todo/") {
+    if ($apiParts[0] == "todo") {
         if ($_SERVER['REQUEST_METHOD'] == "GET") {
             $query = "SELECT id, szoveg, datum, vege FROM todo";
             $results = mysqli_query($conn, $query);
@@ -47,12 +47,11 @@ if (isset($_GET["path"])) {
             }
             //phpinfo(32);
         } else if ($_SERVER['REQUEST_METHOD'] == "DELETE") {
-            phpinfo(32);
-            /*$input = json_decode(file_get_contents('php://input'), true);
+            //phpinfo(32);
+            $input = json_decode(file_get_contents('php://input'), true);
+            //d($input);
             if (isset($input["memberid"])) {
-                $query = "INSERT INTO TODO (szoveg, datum) VALUES ('"
-                    . mysqli_real_escape_string($conn, $input["feladat"])
-                    . "', NOW())";
+                $query = "DELETE FROM TODO WHERE id = " . $input["id"];
 
                 $jsonTomb = [];
                 if (mysqli_query($conn, $query)) {
@@ -65,7 +64,24 @@ if (isset($_GET["path"])) {
 
                 echo json_encode($jsonTomb);
             }
-            //phpinfo(32);*/
+        } else if ($_SERVER['REQUEST_METHOD'] == "PUT") {
+            //phpinfo(32);
+            $input = json_decode(file_get_contents('php://input'), true);
+            //d($input);
+            if (isset($input["memberid"])) {
+                $query = "UPDATE Todo SET vege=NOW() WHERE id=".$input["id"];
+
+                $jsonTomb = [];
+                if (mysqli_query($conn, $query)) {
+                    $jsonTomb["status"] = "success";
+                } else {
+                    $jsonTomb["status"] = "error";
+                    $jsonTomb["errormassage"] = mysqli_error($conn);
+                }
+
+
+                echo json_encode($jsonTomb);
+            }
         }
         // d($_SERVER['REQUEST_METHOD']);
         //phpinfo(32);
