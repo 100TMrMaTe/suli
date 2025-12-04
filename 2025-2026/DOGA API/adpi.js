@@ -166,30 +166,29 @@ function feladat7() {
     })
         .then(x => x.json())
         .then(valasz => {
+            //console.log(valasz);
 
-            // Tánc neve
-            document.getElementById("feladat7text").innerHTML =
-                "Legtöbbször előadott tánc: " + valasz[0].tanc;
+            document.getElementById("feladat7text").innerHTML = "Legtöbbször előadott tánc: " + valasz[0].tanc;
 
             const table = document.getElementById("table");
             table.classList.remove("d-none");
 
-            // fejléc újraírása
+
             table.innerHTML = `
                 <tr>
-                    <th class="border-2">FIÚK</th>
-                    <th class="border-2">LÁNYOK</th>
+                    <th>FIÚK</th>
+                    <th>LÁNYOK</th>
                 </tr>
             `;
 
-            // táblázat kitöltése
-            valasz.forEach(elem => {
+
+            for (let i = 0; i < valasz.length - 1; i++) {
                 table.innerHTML += `
                     <tr>
-                        <td class="border-2">${elem.fiu}</td>
-                        <td class="border-2">${elem.lany}</td>
+                        <td class="border-2">${valasz[i].fiu}</td>
+                        <td class="border-2">${valasz[i].lany}</td>
                     </tr>
                 `;
-            });
+            }
         });
 }

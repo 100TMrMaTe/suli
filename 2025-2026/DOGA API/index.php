@@ -124,6 +124,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             }
         }
 
+        //https://www.geeksforgeeks.org/php/how-to-sort-multi-dimensional-array-by-key-value-in-php/
+        $megoldas[] = array_multisort(array_column($megoldas, 'lany'), SORT_ASC, $megoldas);
 
         $json = json_encode($megoldas);
         echo $json;
