@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\sebesseg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C7D0E7-8088-4890-AE3E-05FA465FBE2D}|sebesseg\\sebesseg.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\c#\\sebesseg\\sebesseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C7D0E7-8088-4890-AE3E-05FA465FBE2D}|sebesseg\\sebesseg.csproj|solutionrelative:sebesseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C7D0E7-8088-4890-AE3E-05FA465FBE2D}|sebesseg\\sebesseg.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\c#\\sebesseg\\sebesseg\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C7D0E7-8088-4890-AE3E-05FA465FBE2D}|sebesseg\\sebesseg.csproj|solutionrelative:sebesseg\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\sebesseg\\sebesseg\\adatok.cs",
+              "RelativeDocumentMoniker": "sebesseg\\adatok.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\sebesseg\\sebesseg\\adatok.cs",
+              "RelativeToolTip": "sebesseg\\adatok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:08:11.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\sebesseg\\sebesseg\\Program.cs",
+              "RelativeDocumentMoniker": "sebesseg\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\sebesseg\\sebesseg\\Program.cs",
+              "RelativeToolTip": "sebesseg\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:07:42.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\bin\Debug\net8.0\sebesseg.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\bin\Debug\net8.0\sebesseg.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\bin\Debug\net8.0\sebesseg.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\bin\Debug\net8.0\sebesseg.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\bin\Debug\net8.0\sebesseg.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\refint\sebesseg.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\sebesseg.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\sebesseg\sebesseg\obj\Debug\net8.0\ref\sebesseg.dll
