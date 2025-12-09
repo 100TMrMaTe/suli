@@ -6,10 +6,10 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 # Minden más kérést az index.php-nek továbbítunk
-RewriteRule ^(.*)$ index.php?path=$1 [L,QSA]
+RewriteRule ^(.*)$ api.php?path=$1 [L,QSA]
 
 # Alapértelmezett fájlok betöltése
-DirectoryIndex index.php index.html
+DirectoryIndex api.php index.html
 
 # XAMPP alatt engedélyezzük a hozzáférést
 <IfModule mod_authz_core.c>
