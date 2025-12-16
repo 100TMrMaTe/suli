@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dolgozat</title>
+    <style>
+        td{
+            padding:0;
+            font-size: 0;
+        }
+        table{
+            border-spacing: 0;
+            margin:auto;
+        }
+    </style>
+</head>
+<body onload="betolt()">
+    
+    <script>
+
+        
+        
+        function betolt()
+        {
+            fetch("images.json")
+            .then(valasz => valasz.json())
+            .then(adat => {
+                    console.log(adat);
+
+
+
+            let table = document.createElement("table");
+
+            table.id = "table";
+            
+
+            let darab = [];
+
+            
+            for(let i=0; i < adat.tableSize.rows; i++)
+            {
+                let tr = document.createElement("tr");
+                for(let j=0; j < adat.tableSize.cols; j++)
+                {
+                    let td = document.createElement("td");
+                    let img = document.createElement("img");
+
+                    img.src = adat.baseurl + adat.data[i * adat.tableSize.cols + j].src;
+
+                    img.style.height = adat.data[i * adat.tableSize.cols + j].size.heigt + "px";
+                    img.style.width = adat.data[i * adat.tableSize.cols + j].size.widt + "px";
+
+
+                    let cols = adat.tableSize.cols;
+                    let rows = adat.tableSize.rows;
+
+                    adat.data.sort(function (a, b) { return parseInt(a.src.split("_")[2]) - parseInt(b.src.split("_")[2]) });
+
+                    console.log(adat);
+
+
+                    let vag = adat.data[i * adat.tableSize.cols + j].src.split("_");
+                    darab.push(vag[2]);
+                    console.log(vag[2]);
+
+                    
+                
+                    td.appendChild(img);
+                    tr.appendChild(td);
+                    
+                }
+                table.appendChild(tr);
+            }   
+            document.body.appendChild(table);
+
+
+
+            });
+            
+        }
+
+
+
+
+        
+        
+    </script>
+</body>
+</html>
