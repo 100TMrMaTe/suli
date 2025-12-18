@@ -1,0 +1,66 @@
+#doboz {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            background: linear-gradient(to bottom right, blue, cyan);
+        }
+
+        .nev {
+            background-color: rgb(50, 50, 50);
+            border-color: white;
+        }
+
+        .nev::placeholder {
+            color: white;
+        }
+
+        .nev:focus {
+            background-color: rgb(50, 50, 50);
+            box-shadow: none;
+            border-color: white;
+        }
+
+        .jelszo {
+            background-color: rgb(50, 50, 50);
+            border-color: white;
+        }
+
+        .jelszo::placeholder {
+            color: white;
+        }
+
+        .jelszo:focus {
+            background-color: rgb(50, 50, 50);
+            box-shadow: none;
+            border-color: white;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+
+        #doboz {
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6)
+        }
+
+        .btn-link {
+            text-decoration: none;
+        }
+
+        @media screen and (max-width: 842px) {
+            #doboz {
+                width: 420.58px;
+            }
+        }
+
+        @media screen and (max-width: 450px) {
+            #doboz {
+                width: 90%;
+            }
+        }
