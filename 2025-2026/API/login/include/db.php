@@ -4,4 +4,4 @@ $conn = mysqli_connect($config["db"]["host"], $config["db"]["user"], $config["db
 
 
 
-mysqli_close($conn);
+
