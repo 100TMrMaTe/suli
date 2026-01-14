@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\bin\Debug\net8.0\axcii.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\bin\Debug\net8.0\axcii.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\bin\Debug\net8.0\axcii.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\bin\Debug\net8.0\axcii.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\bin\Debug\net8.0\axcii.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\refint\axcii.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\axcii.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\C#\ascii\axcii\axcii\obj\Debug\net8.0\ref\axcii.dll
