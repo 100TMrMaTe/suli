@@ -17,10 +17,10 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
         if (isset($apiParts[1]) && is_numeric($apiParts[1])) {
             $database = intval($apiParts[1]);
 
-            $query = "SELECT v.id AS vers_id, v.cim, v.megjelenes_eve, k.nev AS kolto_nev, m.megnevezes AS mufaj, GROUP_CONCAT(vs.tartalom ORDER BY vs.sorszam SEPARATOR '\n') AS versszakok FROM versek v JOIN koltok k ON v.kolto_id = k.id LEFT JOIN mufajok m ON v.mufaj_id = m.id LEFT JOIN versszakok vs ON vs.vers_id = v.id GROUP BY v.id ORDER BY RAND() LIMIT $database";
+            $query = "SELECT v.id AS vers_id, v.cim, v.megjelenes_eve, k.nev AS kolto_nev, m.megnevezes AS mufaj, GROUP_CONCAT(vs.tartalom ORDER BY vs.sorszam SEPARATOR ' \n ') AS versszakok FROM versek v JOIN koltok k ON v.kolto_id = k.id LEFT JOIN mufajok m ON v.mufaj_id = m.id LEFT JOIN versszakok vs ON vs.vers_id = v.id GROUP BY v.id ORDER BY RAND() LIMIT $database";
         } else {
 
-            $query = "SELECT  v.id AS vers_id, v.cim, v.megjelenes_eve, k.nev AS kolto_nev, m.megnevezes AS mufaj, GROUP_CONCAT(vs.tartalom ORDER BY vs.sorszam SEPARATOR '\n') AS versszakok FROM versek v JOIN koltok k ON v.kolto_id = k.id LEFT JOIN mufajok m ON v.mufaj_id = m.id LEFT JOIN versszakok vs ON vs.vers_id = v.id GROUP BY v.id ORDER BY RAND() LIMIT 1";
+            $query = "SELECT  v.id AS vers_id, v.cim, v.megjelenes_eve, k.nev AS kolto_nev, m.megnevezes AS mufaj, GROUP_CONCAT(vs.tartalom ORDER BY vs.sorszam SEPARATOR ' \n ') AS versszakok FROM versek v JOIN koltok k ON v.kolto_id = k.id LEFT JOIN mufajok m ON v.mufaj_id = m.id LEFT JOIN versszakok vs ON vs.vers_id = v.id GROUP BY v.id ORDER BY RAND() LIMIT 1";
         }
     } elseif ($apiParts[0] == "vers" && isset($apiParts[1]) && is_numeric($apiParts[1])) {
         $id = intval($apiParts[1]);
@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
         $query = "SELECT versek.*, koltok.* FROM versek JOIN koltok ON versek.kolto_id = koltok.id WHERE versek.id = $id";
 
 
-        $query = "SELECT  v.id AS vers_id, v.cim, v.megjelenes_eve, k.nev AS kolto_nev, m.megnevezes AS mufaj, GROUP_CONCAT(vs.tartalom ORDER BY vs.sorszam SEPARATOR '\n') AS versszakok FROM versek v JOIN koltok k ON v.kolto_id = k.id LEFT JOIN mufajok m ON v.mufaj_id = m.id LEFT JOIN versszakok vs ON vs.vers_id = v.id WHERE v.id = $id GROUP BY v.id";
+        $query = "SELECT  v.id AS vers_id, v.cim, v.megjelenes_eve, k.nev AS kolto_nev, m.megnevezes AS mufaj, GROUP_CONCAT(vs.tartalom ORDER BY vs.sorszam SEPARATOR ' \n ') AS versszakok FROM versek v JOIN koltok k ON v.kolto_id = k.id LEFT JOIN mufajok m ON v.mufaj_id = m.id LEFT JOIN versszakok vs ON vs.vers_id = v.id WHERE v.id = $id GROUP BY v.id";
     } elseif ($apiParts[0] == "kolto") {
         if (isset($apiParts[1]) && is_numeric($apiParts[1])) {
             $id = intval($apiParts[1]);

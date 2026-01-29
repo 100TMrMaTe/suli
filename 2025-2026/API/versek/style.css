@@ -1,7 +1,16 @@
 @font-face {
     font-family: "sajat";
-    src: url("fonts/Montserrat-Regular.ttf") format("truetype");
+    src: url(nexa/Nexa-ExtraLight.ttf);
 }
 body {
-    font-family: "sajat";
+    font-family: "sajat" !important;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
 }
