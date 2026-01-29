@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\dinamikusszorzas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED4605-18A2-473C-9D1E-5C4978BCED1B}|dinamikusszorzas\\dinamikusszorzas.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\c#\\dinamikusszorzas\\dinamikusszorzas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EED4605-18A2-473C-9D1E-5C4978BCED1B}|dinamikusszorzas\\dinamikusszorzas.csproj|solutionrelative:dinamikusszorzas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\dinamikusszorzas\\dinamikusszorzas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "dinamikusszorzas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\C#\\dinamikusszorzas\\dinamikusszorzas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "dinamikusszorzas\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:55:10.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
