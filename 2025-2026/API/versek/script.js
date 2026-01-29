@@ -66,9 +66,8 @@ function jobb(adatok) {
         let elsoVersszak = "Nincs szöveg";
         if (e.versszakok != null) {
             elsoVersszak = e.versszakok.split(" \n ")[0];
-            console.log(elsoVersszak);
             if (elsoVersszak.includes("/")) {
-                elsoVersszak = elsoVersszak.trim().replaceAll("/", "\n\r");
+                elsoVersszak = elsoVersszak.replaceAll("/", "\n\r");
             }
         }
         vissza += `<div class="p-2 m-2 bg-dark rounded-3">
@@ -161,7 +160,7 @@ function mutatVers(id) {
             .then((data) => {
                 let v = data[0];
                 let nyers = v.versszakok ? String(v.versszakok) : "Nincs szöveg";
-                div.innerHTML = nyers.split("\n").join("<br>");
+                div.innerHTML = nyers.split("\n").join("<br>").replaceAll("/", "<br>");
                 div.style.display = "block";
             });
     }
