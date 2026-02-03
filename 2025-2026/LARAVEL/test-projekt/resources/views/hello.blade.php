@@ -8,11 +8,7 @@
 <body>
     <h1>Hello, World!</h1>
     <?php
-
-use Symfony\Component\VarDumper\VarDumper;
-
-    echo "This is a simple Blade template in Laravel.";
-    VarDumper::dump(['message' => 'This is a debug message from VarDumper.']);
+    vard
     ?>
 </body>
 </html>
