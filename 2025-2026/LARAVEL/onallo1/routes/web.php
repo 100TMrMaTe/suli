@@ -5,3 +5,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/hello', function () {
     return view('hello');
 });
+
+Route::view('/dashboard', 'dashboard');
+
+Route::view("/osszeadas", "osszeadas");
