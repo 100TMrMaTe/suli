@@ -1,0 +1,130 @@
+
+laravel cucc létrehozása
+composer create-project laravel/laravel pelda-projekt2
+
+
+
+mappa megnyitása
+cd pelda-projekt2
+
+
+
+szerver elindítása
+php artisan serve
+
+
+
+.env fileban kommentek kivétele
+DB_CONNECTION=sqlite
+# DB_HOST=127.0.0.1
+# DB_PORT=3306
+# DB_DATABASE=laravel
+# DB_USERNAME=root
+# DB_PASSWORD=
+
+    |
+    V
+
+DB_CONNECTION=sqlite
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
+
+
+
+web.php kibővítés
+Route::get('/hello', function () {
+    return view('hello');
+});
+
+
+
+resources > views
+hello.blade.php
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sajat</title>
+</head>
+<body>
+    <h1>hello</h1>
+    <p>Működik?</p>
+</body>
+</html>
+
+
+
+api létrehozása
+php artisan make:controller Api/TestController.php
+
+
+
+api.php létrehozása
+<?php
+use App\Http\Controllers\Api\TestController;
+use Illuminate\Support\Facades\Route;
+Route::get("/test", [TestController::class, "index"]);
+
+
+
+bootstrap > app.php kibővítése
+        api: __DIR__."/../routes/api.php",
+
+
+
+app > Http > Controllers > Api > TestController.php kibövítése
+    public function index()
+    {
+        return response()->json(["message" => "API is working"]);
+    }
+
+
+
+routes > web.php kibővítése
+Route::view("/dashboard", "dashboard");
+
+
+
+dashboard.blade.php létrehozása resources > views
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>API test</h1>
+    <button onclick="load()">meghiv</button>
+    <p id="eredmeny"></p>
+    <script>
+        function load() {
+            fetch("/api/test")
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    document.getElementById("eredmeny").innerText = data.message;
+                });
+        }
+    </script>
+</body>
+</html>
+
+
+
+uj api létrehozása összead néven
+kapjon 2 számot, adja vissza a két számot és az eredményt is jsonben
+weburl létrehozása amivel ki lehet probálni
+2 beviteli mező, gomb, eredmény mező
+
+
+
+
+
+
+
+
