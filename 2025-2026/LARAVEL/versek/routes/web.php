@@ -9,3 +9,15 @@ Route::get('/', function () {
 Route::get('/elsooldal', function () {
     return view('elsooldal');
 });
+
+Route::get('/koltok', function () {
+    return view('koltok');
+});
+
+Route::get('/koltokversei/{id}', function ($id) {
+    return view('koltokversei', ['id' => $id]);
+});
+
+Route::get('/koltokeszit', function () {
+    return view('koltokeszit');
+});

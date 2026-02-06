@@ -14,8 +14,8 @@
         <div class="container-fluid">
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active" aria-current="page" href="elsooldal">elsooldal</a>
-                    <a class="nav-link" href="koltok">koltok</a>
+                    <a class="nav-link" href="elsooldal">elsooldal</a>
+                    <a class="nav-link active" aria-current="page" href="koltok">koltok</a>
                     <a class="nav-link" href="koltokversei">koltokversei</a>
                     <a class="nav-link" href="koltokeszit">koltocsinal</a>
                     <a class="nav-link" href="verscsinal">vers csinal</a>
@@ -23,7 +23,39 @@
             </div>
         </div>
     </nav>
-    <h1>Üdvözöllek az első oldalon!</h1>
+    <h1>Költők</h1>
+    <ul id="koltok">
+        <li>Ady Endre</li>
+        <li>József Attila</li>
+        <li>Petőfi Sándor</li>
+        <li>Arany János</li>
+        <li>Babits Mihály</li>
+    </ul>
+    <script>
+        function atiranyitas(id) {
+            window.location.href = `/koltokversei/${id}`;
+        }
+
+        function licsinal(id, kolto) {
+            return `
+            <li onclick="atiranyitas(${id})">${kolto}</li>
+            `
+        }
+
+        fetch('/api/koltok', {
+                method: 'GET',
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);
+                const koltokList = document.getElementById('koltok');
+                koltokList.innerHTML = '';
+
+                data.forEach(kolto => {
+                    koltokList.innerHTML += licsinal(kolto.id, kolto.nev);
+                });
+            })
+    </script>
 </body>
 
 </html>
