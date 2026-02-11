@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\bin\Debug\net8.0\belepteto.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\bin\Debug\net8.0\belepteto.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\bin\Debug\net8.0\belepteto.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\bin\Debug\net8.0\belepteto.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\bin\Debug\net8.0\belepteto.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\refint\belepteto.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\belepteto.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24maj_fl\Forras\3_Belepteto_rendszer\belepteto\belepteto\obj\Debug\net8.0\ref\belepteto.dll
