@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\bin\Debug\net10.0\autok.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\bin\Debug\net10.0\autok.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\bin\Debug\net10.0\autok.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\bin\Debug\net10.0\autok.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\bin\Debug\net10.0\autok.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\refint\autok.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\autok.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_24okt_fl\Digitalis_kultura_Forras_Egy2312\3_Autok_mozgasa\autok\autok\obj\Debug\net10.0\ref\autok.dll
