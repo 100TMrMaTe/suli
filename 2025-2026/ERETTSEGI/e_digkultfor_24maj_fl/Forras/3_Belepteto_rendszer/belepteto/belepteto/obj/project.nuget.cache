@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d25ymujk9zE=",
+  "dgSpecHash": "lqez5JZrWcs=",
   "success": true,
   "projectFilePath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\ERETTSEGI\\e_digkultfor_24maj_fl\\Forras\\3_Belepteto_rendszer\\belepteto\\belepteto\\belepteto.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Konyhási Máté\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Konyhási Máté\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Konyhási Máté\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Konyhási Máté\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }
