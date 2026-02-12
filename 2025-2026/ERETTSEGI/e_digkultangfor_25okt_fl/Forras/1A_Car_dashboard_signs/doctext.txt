@@ -1,0 +1,23 @@
+Dashboard warning lights in cars
+The dashboard contains a series of indicators and warning lights that inform the driver about the vehicle's status, engine operation and driving parameters.
+For a long time, the way warning lights were displayed on the dashboard varied from manufacturer to manufacturer. However, by now international standards such as United Nations Economic Commission for Europe (UNECE) Regulation No. 121 or ISO 2575:2004 now define most warning lights, their shape and colour, leaving little room to manoeuvre for manufacturers and suppliers.
+Dashboard lights can basically be divided into three categories, which are also indicated by their colour:
+Red warning lights require immediate action. They usually indicate serious problems or dangerous situations that could affect the safe operation of the car.
+Yellow warning lights are usually of warning nature and may indicate that there is a problem or fault in the car's systems. Although yellow lights do not usually pose an immediate danger, it is important for the driver to pay attention to them and have the car checked as soon as possible. Examples include ABS faults, problems with the control electronics or faults in the exhaust system.
+Green or blue indicators are informative and indicate that the car's systems are operating normally. They mainly have convenience and informative functions, such as the active status of the lighting system.
+Some indicator light symbols and their functions
+Red indicator lights
+Engine oil pressure: The oil pressure is too low or the oil level is so low that it can damage the engine.
+Coolant temperature: The engine temperature is too high, the coolant has boiled. The car should be stopped immediately, then the ignition should be turned back on and the heater turned on, this will help to cool the engine.
+Electrical charge status: Indicates a battery or generator failure. It is not recommended to drive on.
+Hood open sign: driving with the hood not properly closed is extremely dangerous, it can even break the windshield, one should stop as soon as possible and close it after checking.
+Trunk open sign: Stop and close the trunk as soon as possible, as the trunk may open and any luggage falling onto the road could be hazardous.
+Parking brake: The handbrake is applied. It must be released before starting.
+Yellow indicator lights
+Rear fog light: the rear fog light is on, if there is no fog, it should be turned off as it may be distracting to the driver behind the vehicle.
+On-board engine diagnostics or engine failure: several things can cause the error. To determine cause of the error, the vehicle should be taken to a specialist garage as soon as possible.
+Low tyre pressure: may indicate that the tyre pressure is too low; or the TPMS sensor is faulty.
+Green or blue indicator lights
+Low beam: indicates the switched-on status and the use of the low beam on the dashboard.
+High beam: The blue indicator shows that the high beam or reflector is on. This can be distracting to oncoming traffic, so it should be switched off when approaching oncoming traffic.
+Start-stop system indicator: indicates when the vehicle stops while moving slowly in queue. The start-stop system can be deactivated if desired.
