@@ -1,0 +1,1 @@
+SELECT feladatsor.nevado,feladatsor.ag,SUM(feladat.pontszam) as pontszam FROM feladatsor,feladat WHERE feladat.feladatsorid = feladatsor.id  GROUP BY feladatsorid HAVING pontszam !=150;

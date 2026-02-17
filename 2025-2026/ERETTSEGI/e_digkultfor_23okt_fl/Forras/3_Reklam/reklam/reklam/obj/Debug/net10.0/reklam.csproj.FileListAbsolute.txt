@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\bin\Debug\net10.0\reklam.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\bin\Debug\net10.0\reklam.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\bin\Debug\net10.0\reklam.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\bin\Debug\net10.0\reklam.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\bin\Debug\net10.0\reklam.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\refint\reklam.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\reklam.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23okt_fl\Forras\3_Reklam\reklam\reklam\obj\Debug\net10.0\ref\reklam.dll
