@@ -1,0 +1,1 @@
+SELECT cim,eredeti from film where magyarszoveg = "Heltai Olga"

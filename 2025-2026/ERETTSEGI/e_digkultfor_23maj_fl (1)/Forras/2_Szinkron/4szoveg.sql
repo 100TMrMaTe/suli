@@ -1,0 +1,1 @@
+SELECT film.magyarszoveg, cim from film WHERE rendezo = "Christopher Nolan" and studio = "Mafilm Audio Kft." order by rendezo ASC

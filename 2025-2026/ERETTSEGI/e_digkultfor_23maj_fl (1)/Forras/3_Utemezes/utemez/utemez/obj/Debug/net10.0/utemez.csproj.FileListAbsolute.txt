@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\refint\utemez.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\ERETTSEGI\e_digkultfor_23maj_fl (1)\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\ref\utemez.dll

@@ -1,0 +1,1 @@
+SELECT eredeti,cim,COUNT(*) as szam from film,szinkron WHERE film.filmaz = szinkron.filmaz GROUP BY szinkron.filmaz 

@@ -1,0 +1,1 @@
+SELECT szinkron.szinesz,szinkron.hang,COUNT(*) from szinkron,film WHERE szinkron.filmaz = film.filmaz GROUP BY szinkron.szinesz ORDER BY 3 DESC;

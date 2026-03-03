@@ -1,0 +1,1 @@
+SELECT DISTINCT rendezo,szinkronrendezo from film WHERE ev >2000

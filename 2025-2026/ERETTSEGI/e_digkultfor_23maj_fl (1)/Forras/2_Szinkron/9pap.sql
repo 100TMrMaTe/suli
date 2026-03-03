@@ -1,0 +1,1 @@
+SELECT hang, cim from film,szinkron WHERE szinkron.filmaz = film.filmaz and szinkron.filmaz = (SELECT szinkron.filmaz from szinkron WHERE szinkron.hang = "Pap Kati") and hang != "Pap Kati" order BY cim,hang ASC

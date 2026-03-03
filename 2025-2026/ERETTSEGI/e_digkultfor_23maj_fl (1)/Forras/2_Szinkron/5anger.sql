@@ -1,0 +1,1 @@
+SELECT cim,eredeti,szinesz,szerep from film,szinkron WHERE film.filmaz = szinkron.filmaz and hang = "Anger Zsolt"
