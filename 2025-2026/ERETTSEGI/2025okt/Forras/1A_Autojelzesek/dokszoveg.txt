@@ -1,0 +1,23 @@
+A személygépkocsik figyelmeztető jelzései
+A műszerfal egy sor mutató és figyelmeztető lámpát tartalmaz, amely tájékoztatja a vezetőt a gépjármű állapotáról, a motor működéséről és a vezetési paraméterekről.
+Sokáig a jelzések megjelenítése a műszerfalon gyártónként változott. Azonban mára az olyan nemzetközi szabványok, mint az Egyesült Nemzetek Európai Gazdasági Bizottságának (ENSZ EGB) 121. sz. előírása vagy az ISO 2575:2004 szabvány, meghatározzák a legtöbb jelzőfényt, azok alakját és színét, kevés mozgásteret hagyva a gyártónak és beszállítójának.
+A műszerfaljelzések alapvetően három kategóriába sorolhatóak, amelyeket színük is jelez:
+A vörös színű hibajelzések azonnali cselekvést igényelnek. Ezek általában súlyos problémákat vagy veszélyhelyzeteket jeleznek, amelyek befolyásolhatják az autó biztonságos működését.
+A sárga színű hibajelzések általában figyelmeztető jellegűek, és azt jelezhetik, hogy az autó rendszerében valamilyen probléma vagy hiba merült fel. Bár a sárga jelzések általában nem jelentenek azonnali veszélyt, fontos, hogy a vezető figyelmet fordítson rájuk, és mielőbb ellenőriztesse az autót. Például az ABS hiba, a vezérlő elektronika problémái vagy a kipufogógáz-rendszer hibái is ide tartoznak.
+A zöld vagy kék színű jelzések informatív jellegűek, és azt mutatják, hogy az autó rendszerei normális működésben vannak. Főként a kényelmi és informatív funkciókat jelzik, például a világítási rendszer aktív állapotát.
+Néhány visszajelzőlámpa-szimbólum és azok funkciója
+Vörös színű jelzőlámpák
+Motorolajnyomás: Az olaj nyomása túl alacsony, vagy az olajszint annyira kevés, hogy az már károsíthatja a motort.
+Hűtőközeg hőmérséklete: A motor hőmérséklete túl magas, a hűtőfolyadék felforrt. Azonnal le kell állítani az autót, majd visszakapcsolni a gyújtást, a fűtést pedig bekapcsolni, ez segít lehűteni a motort.
+Elektromos töltés állapota: Az akkumulátor vagy a generátor meghibásodására utaló jelzés. Nem javasolt továbbmenni.
+Motorháztető nyitva jel: életveszélyes nem megfelelően zárt motorháztetővel menni, akár kitörheti a szélvédőt, ezért mielőbb le kell húzódni, és ellenőrzés után be kell zárni.
+Csomagtartó nyitva jel: mielőbb meg kell állni és be kell zárni, hiszen a csomagtartó felnyílhat és az útra kieső csomagok életveszélyesek lehetnek.
+Rögzítőfék: A kézifék be van húzva. Indulás előtt ki kell engedni.
+Sárga színű jelzőlámpák
+Hátsó ködlámpa: a hátsó ködlámpa be van kapcsolva, ha nincs köd, ki kell kapcsolni, mivel zavaró lehet a gépjármű mögött haladó gépjárművezető számára.
+A fedélzeti motordiagnosztika vagy a motor meghibásodása: több tényező okozhatja a hibát. A hiba megállapításához a járművet minél előbb szakszervizbe kell vinni.
+Alacsony gumiabroncsnyomás: jelezheti, hogy a gumiabroncsok nyomása túl alacsony, vagy a TPMS szenzor meghibásodott.
+Zöld vagy kék jelzőlámpák
+Tompított fényszóró: a tompított fényszórók bekapcsolt állapotát, használatát jelzi a műszerfalon.
+Távolsági fényszóró: A kék színű jelzés azt mutatja, hogy fel van kapcsolva a távolsági fényszóró vagy reflektor. Ez a szembejövőket zavarhatja, ezért kapcsolja le szembejövő forgalom esetén!
+Start-stop rendszer visszajelző: akkor jelez, ha a gépjármű araszolás közben leáll. A start-stop rendszer igény szerint kikapcsolható.
