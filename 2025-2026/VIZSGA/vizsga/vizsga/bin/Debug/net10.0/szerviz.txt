@@ -1,0 +1,1200 @@
+AA-VM-899	elektromos	2018.09.04	Tóth Zoé	2020.01.03
+YXP 916	dízel	2013.04.28	Kiss Dominik	2020.01.06
+AA-GC-409	gáz	2002.04.23	Nagy Dániel	2020.01.07
+SGP 275	dízel	2007.12.05	Oláh Dániel	2020.01.09
+GBR 642	dízel	2007.12.10	Varga Boglárka	2020.01.11
+RCM 680	dízel	2012.07.24	Varga Nóra	2020.01.15
+AA-XB-459	elektromos	2003.10.03	Fekete László	2020.01.15
+YWQ 474	benzin	2000.01.09	Balogh Magdolna	2020.01.21
+GIQ 359	gáz	2007.04.22	Horváth László	2020.01.27
+AA-DF-660	benzin	2018.05.09	Oláh Sándor	2020.01.30
+HAI 011	benzin	2012.06.28	Horváth Olivér	2020.01.30
+AA-TE-229	gáz	2004.04.20	Lakatos Zoé	2020.02.01
+KUB 637	benzin	2013.07.03	Varga Marcell	2020.02.15
+EKS 462	elektromos	2012.07.13	Farkas Dominik	2020.02.20
+AA-BG-035	gáz	2006.02.13	Szilágyi Máté	2020.02.21
+AA-CA-369	gáz	2004.07.09	Nagy Péter	2020.02.28
+AA-AB-129	benzin	2006.05.22	Rácz István	2020.02.29
+AA-YD-991	benzin	2013.07.15	Németh Dominik	2020.02.29
+AA-RN-444	benzin	2009.12.05	Lakatos Noel	2020.03.01
+LRR 015	benzin	2004.10.20	Farkas Ilona	2020.03.02
+AA-AM-276	dízel	2002.12.16	Horváth Máté	2020.03.02
+AA-BM-424	gáz	2014.08.06	Szilágyi Ilona	2020.03.05
+YXS 137	benzin	2005.08.28	Mészáros Marcell	2020.03.09
+YWE 305	elektromos	2008.01.22	Nagy Irén	2020.03.10
+HUZ 609	gáz	2018.09.05	Molnár Péter	2020.03.10
+AA-QB-008	elektromos	2015.10.22	Papp Zoltán	2020.03.11
+AJM 462	gáz	2003.08.13	Nagy Zsófia	2020.03.14
+EUV 135	dízel	2010.05.26	Török Gábor	2020.03.16
+LCZ 313	dízel	2003.05.17	Mészáros Ádám	2020.03.18
+YUM 144	gáz	2018.05.02	Kiss Noel	2020.03.18
+AA-AG-294	elektromos	2012.09.07	Farkas Léna	2020.03.18
+AA-LF-207	dízel	2008.03.09	Molnár Noel	2020.03.27
+AA-RM-989	gáz	2017.01.10	Nagy Edit	2020.03.28
+YTX 058	dízel	2004.04.04	Nagy Zalán	2020.04.01
+TRK 922	elektromos	2014.12.21	Oláh Boglárka	2020.04.02
+CMS 400	elektromos	2012.06.23	Szabó Boglárka	2020.04.10
+AA-RS-595	dízel	2014.07.19	Tóth Boglárka	2020.04.18
+SGP 275	dízel	2007.12.05	Varga Péter	2020.04.19
+UXN 813	dízel	2004.02.04	Oláh Léna	2020.04.22
+AA-RM-476	dízel	2014.11.26	Molnár Gábor	2020.04.22
+NYP 149	dízel	2007.09.02	Szabó Marcell	2020.04.29
+AA-HM-014	elektromos	2013.05.06	Lakatos Katalin	2020.04.30
+AA-HL-984	gáz	2007.05.22	Török Attila	2020.05.01
+AA-JP-761	gáz	2010.06.11	Török Éva	2020.05.06
+PPT 490	gáz	2014.03.21	Balogh Levente	2020.05.09
+JLI 733	dízel	2002.04.01	Farkas Gábor	2020.05.11
+AA-QB-008	elektromos	2015.10.22	Papp Zoltán	2020.05.13
+CLF 453	benzin	2008.10.30	Balogh Noel	2020.05.14
+JTT 544	elektromos	2016.07.10	Horváth Sándor	2020.05.15
+AA-YT-645	benzin	2018.03.09	Molnár Levente	2020.05.15
+EBW 552	gáz	2010.01.12	Kovács Erzsébet	2020.05.23
+UVS 497	gáz	2011.02.05	Tóth Tamás	2020.05.23
+AA-RU-174	gáz	2006.01.01	Fekete Tamás	2020.05.27
+OLI 592	benzin	2014.04.15	Oláh Erzsébet	2020.05.28
+TSX 827	benzin	2007.09.14	Papp Zoltán	2020.06.04
+NCM 278	dízel	2007.02.11	Szabó Jázmin	2020.06.06
+AA-DO-945	gáz	2014.02.26	Mészáros Éva	2020.06.14
+AA-RJ-777	dízel	2000.05.03	Tóth Julianna	2020.06.18
+AA-XL-881	benzin	2005.05.04	Nagy Tamás	2020.06.25
+AA-NI-980	dízel	2009.09.30	Kovács László	2020.06.26
+XNY 374	dízel	2004.01.04	Fekete Zalán	2020.06.27
+EXQ 371	benzin	2011.05.10	Varga Léna	2020.06.29
+AA-SO-322	dízel	2017.06.16	Szabó Attila	2020.07.01
+BSD 315	gáz	2014.07.05	Varga Nóra	2020.07.01
+AJJ 269	benzin	2004.05.29	Fekete Zsófia	2020.07.02
+SKD 910	gáz	2009.09.18	Szilágyi Katalin	2020.07.06
+VUO 173	elektromos	2016.04.28	Lakatos Ádám	2020.07.07
+FQJ 048	benzin	2002.03.31	Szabó Anna	2020.07.10
+AA-UW-003	benzin	2009.08.29	Papp Ádám	2020.07.10
+AA-UO-360	benzin	2006.08.12	Török Olivér	2020.07.13
+AA-WW-804	dízel	2001.04.19	Török Boglárka	2020.07.15
+AA-DM-447	dízel	2002.10.07	Kiss Magdolna	2020.07.17
+OLP 837	dízel	2003.08.01	Szilágyi Marcell	2020.07.18
+AA-TZ-884	benzin	2007.06.05	Nagy Bence	2020.07.19
+AA-QK-879	benzin	2007.09.26	Varga Nóra	2020.07.20
+WSV 654	elektromos	2008.04.20	Németh Attila	2020.07.21
+BXW 367	elektromos	2006.01.30	Farkas Attila	2020.07.22
+AA-UQ-176	gáz	2010.05.10	Rácz Emma	2020.07.26
+AA-QK-879	benzin	2007.09.26	Varga Nóra	2020.07.26
+GLW 342	benzin	2017.10.10	Balogh Éva	2020.07.29
+AZQ 363	gáz	2017.11.28	Oláh Zsófia	2020.07.30
+SKD 910	gáz	2009.09.18	Szilágyi Katalin	2020.08.08
+VUO 173	elektromos	2016.04.28	Lakatos Ádám	2020.08.08
+XUP 063	elektromos	2019.03.19	Török Hanna	2020.08.10
+AA-LO-198	elektromos	2008.01.31	Szilágyi Ádám	2020.08.11
+NJQ 756	dízel	2000.12.17	Simon Mária	2020.08.12
+KUY 092	dízel	2004.02.18	Varga Hanna	2020.08.12
+AA-GI-973	gáz	2010.10.16	Török János	2020.08.15
+AA-FI-681	dízel	2011.08.25	Lakatos Zoé	2020.08.18
+QER 152	dízel	2008.09.26	Simon Gábor	2020.08.19
+AA-QA-569	benzin	2017.05.08	Kovács Noel	2020.08.19
+OJZ 340	benzin	2001.02.21	Kiss András	2020.08.22
+AA-BD-793	gáz	2013.11.21	Kovács Gábor	2020.08.28
+RCW 064	elektromos	2020.08.12	Simon Erzsébet	2020.08.28
+DRU 353	dízel	2011.04.22	Simon Irén	2020.08.30
+AA-OL-134	gáz	2005.07.11	Kiss Gábor	2020.08.30
+AA-UU-933	elektromos	2016.01.20	Szilágyi Ádám	2020.08.30
+SUN 052	elektromos	2002.10.30	Fekete Julianna	2020.09.01
+WUD 404	elektromos	2010.02.16	Szabó Irén	2020.09.03
+ABZ 577	dízel	2017.09.19	Farkas Léna	2020.09.05
+AA-BP-736	gáz	2001.03.08	Farkas Noel	2020.09.05
+AA-MX-772	benzin	2016.10.19	Kovács János	2020.09.11
+AA-RZ-110	gáz	2010.03.16	Szabó Marcell	2020.09.15
+DPO 754	benzin	2008.08.31	Papp Léna	2020.09.16
+AA-ZF-662	benzin	2020.06.19	Varga Zsuzsanna	2020.09.18
+AA-GH-578	benzin	2015.09.18	Németh Noel	2020.09.25
+HRP 437	benzin	2016.07.10	Horváth Bence	2020.09.25
+AA-WZ-743	elektromos	2015.11.21	Szabó Tamás	2020.09.26
+AA-GE-417	dízel	2014.08.15	Mészáros Zsuzsanna	2020.09.26
+AA-YV-844	benzin	2015.09.19	Farkas Zoé	2020.09.28
+AA-EX-667	elektromos	2004.06.25	Szilágyi Ádám	2020.09.30
+YJO 667	dízel	2019.01.02	Horváth Gábor	2020.10.01
+AA-UP-042	elektromos	2015.07.14	Mészáros Péter	2020.10.04
+AA-NL-810	elektromos	2014.07.01	Kovács Tamás	2020.10.08
+AA-HI-345	benzin	2006.12.02	Mészáros Gábor	2020.10.08
+SZB 856	dízel	2011.01.03	Németh Nóra	2020.10.09
+AA-CH-627	elektromos	2002.04.04	Fekete Attila	2020.10.09
+AA-TM-043	benzin	2004.08.26	Lakatos Ilona	2020.10.09
+RAU 218	gáz	2013.06.04	Simon Bence	2020.10.10
+ADP 356	gáz	2009.12.06	Szilágyi Hanna	2020.10.13
+OBN 777	dízel	2010.01.26	Simon Zalán	2020.10.13
+WPT 278	elektromos	2007.05.02	Balogh János	2020.10.17
+OJG 287	gáz	2011.03.26	Fekete Zoé	2020.10.18
+AA-TH-333	elektromos	2007.05.25	Lakatos Máté	2020.10.20
+YAY 895	dízel	2016.06.10	Szabó Marcell	2020.10.23
+WCP 752	dízel	2007.08.09	Török Bence	2020.10.24
+AA-QT-345	benzin	2005.09.03	Balogh Levente	2020.11.01
+AA-ST-484	benzin	2011.10.02	Simon Boglárka	2020.11.08
+AA-TP-038	elektromos	2004.02.16	Török Nóra	2020.11.08
+AA-IB-982	benzin	2019.11.25	Horváth László	2020.11.13
+AA-II-089	dízel	2004.11.27	Balogh Zsófia	2020.11.14
+AA-MV-525	dízel	2015.04.22	Mészáros Zsófia	2020.11.17
+ACL 604	elektromos	2006.09.28	Szilágyi Zalán	2020.11.20
+XPH 249	benzin	2019.04.16	Oláh Noel	2020.11.24
+AA-RC-180	dízel	2006.12.07	Rácz Anna	2020.11.26
+BGV 424	dízel	2016.02.27	Fekete Hanna	2020.11.26
+AA-FU-480	dízel	2007.07.06	Molnár Dániel	2020.11.29
+JLE 165	dízel	2008.07.13	Varga Irén	2020.11.30
+AA-OF-706	gáz	2006.10.06	Kiss Éva	2020.12.05
+AA-RW-504	benzin	2000.11.25	Fekete Edit	2020.12.05
+AA-RE-213	elektromos	2013.12.26	Szilágyi Edit	2020.12.19
+AA-OP-677	dízel	2020.07.22	Nagy Irén	2020.12.24
+WSP 203	dízel	2010.09.05	Németh Levente	2020.12.25
+KRJ 476	dízel	2000.10.31	Kiss Zalán	2020.12.27
+AA-WT-959	elektromos	2015.11.29	Molnár Anna	2020.12.29
+ZAC 361	benzin	2010.07.12	Rácz Gábor	2020.12.29
+QGA 190	elektromos	2012.01.23	Papp Dániel	2021.01.01
+UNV 180	gáz	2001.08.19	Rácz Sándor	2021.01.07
+GNQ 239	gáz	2003.05.06	Németh Magdolna	2021.01.07
+AA-YZ-118	dízel	2006.08.23	Oláh Emma	2021.01.08
+RRV 506	benzin	2005.08.04	Lakatos Zoé	2021.01.14
+AA-RW-532	gáz	2010.10.15	Tóth Nóra	2021.01.22
+PWT 609	gáz	2007.08.05	Farkas Dániel	2021.02.02
+FTS 032	elektromos	2015.05.29	Tóth Irén	2021.02.04
+AA-PS-370	dízel	2001.05.07	Papp Hanna	2021.02.06
+XUD 980	benzin	2006.09.14	Simon Noel	2021.02.11
+AA-ZJ-733	benzin	2020.12.05	Tóth Zsuzsanna	2021.02.12
+UAL 900	benzin	2020.08.24	Mészáros Dániel	2021.02.14
+ULY 558	gáz	2004.07.08	Szilágyi Bence	2021.02.23
+AA-BF-409	dízel	2017.10.30	Török Léna	2021.02.23
+KXX 643	elektromos	2003.10.23	Török Éva	2021.02.27
+HJA 170	elektromos	2006.08.08	Molnár Nóra	2021.03.01
+AA-DK-311	elektromos	2018.05.14	Oláh Zoltán	2021.03.04
+MPL 484	gáz	2004.09.01	Török Olivér	2021.03.06
+UOK 271	elektromos	2017.05.19	Németh Sándor	2021.03.07
+AA-PQ-889	dízel	2018.05.29	Rácz Zsófia	2021.03.09
+AA-BY-052	benzin	2000.05.16	Szilágyi Zsófia	2021.03.13
+AA-DO-512	gáz	2010.10.08	Tóth Zoé	2021.03.14
+OXH 702	elektromos	2014.03.06	Tóth István	2021.03.18
+AA-MG-711	dízel	2014.11.07	Kiss Péter	2021.03.19
+WAJ 968	benzin	2013.07.23	Németh Irén	2021.03.21
+AA-IT-758	elektromos	2011.06.16	Horváth Olivér	2021.03.21
+KDG 076	gáz	2011.03.09	Rácz Éva	2021.03.21
+SEK 294	dízel	2019.02.19	Mészáros Emma	2021.03.25
+AA-TB-366	gáz	2009.10.31	Nagy Luca	2021.03.27
+AA-NG-070	benzin	2012.09.02	Simon Levente	2021.04.02
+AA-JJ-827	dízel	2005.01.13	Mészáros Bence	2021.04.03
+TFN 545	elektromos	2015.03.13	Tóth Hanna	2021.04.05
+AA-BO-110	benzin	2011.01.04	Rácz Máté	2021.04.06
+AA-NV-153	elektromos	2002.04.06	Fekete Máté	2021.04.10
+CBS 478	elektromos	2012.11.23	Varga Gábor	2021.04.13
+AA-EE-538	gáz	2011.08.26	Kovács Tamás	2021.04.19
+NAK 550	gáz	2001.09.29	Simon Levente	2021.04.22
+AA-IK-555	benzin	2013.12.25	Horváth Dániel	2021.04.22
+AA-VX-246	gáz	2009.05.13	Horváth János	2021.04.24
+AA-DP-480	benzin	2013.09.27	Nagy Sándor	2021.04.26
+AA-FE-462	gáz	2015.10.14	Kovács Marcell	2021.05.03
+NJU 318	dízel	2015.03.07	Varga Olivér	2021.05.03
+AA-PZ-255	benzin	2003.02.25	Németh Olivér	2021.05.04
+AA-BG-703	elektromos	2012.08.06	Balogh András	2021.05.13
+AA-BH-705	dízel	2006.02.11	Papp Noel	2021.05.15
+AA-OM-305	elektromos	2005.08.12	Molnár Mária	2021.05.19
+UWL 691	dízel	2002.05.22	Mészáros Marcell	2021.05.20
+AA-VK-813	benzin	2004.07.05	Rácz Olivér	2021.05.21
+AA-DX-786	elektromos	2005.01.25	Papp Marcell	2021.05.29
+RCM 953	gáz	2007.07.31	Balogh Nóra	2021.05.29
+SEY 580	gáz	2009.08.16	Németh Luca	2021.06.05
+AA-PD-054	dízel	2000.12.08	Papp András	2021.06.06
+QYG 051	elektromos	2007.03.28	Lakatos Jázmin	2021.06.08
+AA-MH-818	dízel	2015.07.02	Kiss Hanna	2021.06.11
+AA-YO-277	elektromos	2018.01.08	Papp Jázmin	2021.06.16
+ROM 954	gáz	2012.06.07	Kovács Luca	2021.06.22
+HFW 685	dízel	2003.11.13	Varga Éva	2021.06.23
+AA-TW-176	benzin	2020.04.24	Szilágyi Jázmin	2021.06.23
+AA-RA-344	gáz	2010.10.15	Fekete Levente	2021.06.24
+ISB 682	elektromos	2014.06.15	Németh Zalán	2021.06.28
+XSI 121	elektromos	2020.10.12	Varga Katalin	2021.07.01
+AA-MA-133	gáz	2006.08.11	Kovács Hanna	2021.07.05
+AA-GI-022	benzin	2018.10.13	Török Erzsébet	2021.07.05
+AA-YI-900	benzin	2009.10.09	Varga Katalin	2021.07.05
+AA-ZK-252	gáz	2004.04.21	Szilágyi Péter	2021.07.08
+AA-RJ-121	benzin	2016.09.23	Fekete Boglárka	2021.07.10
+AA-TW-717	gáz	2008.08.20	Varga Éva	2021.07.11
+FFB 544	elektromos	2004.09.09	Fekete Gábor	2021.07.11
+FGU 948	dízel	2006.01.14	Molnár Levente	2021.07.25
+AA-YB-284	gáz	2016.01.20	Mészáros Éva	2021.07.28
+AA-YA-867	dízel	2004.12.30	Horváth Zalán	2021.07.29
+IOW 430	elektromos	2017.02.20	Balogh Péter	2021.07.30
+CXR 172	gáz	2009.06.16	Farkas János	2021.08.01
+SJS 041	benzin	2007.06.23	Nagy Julianna	2021.08.04
+AA-PD-249	elektromos	2007.08.12	Török Zsófia	2021.08.05
+AA-KP-718	benzin	2013.03.23	Oláh Máté	2021.08.09
+AA-SU-285	benzin	2007.11.30	Szilágyi János	2021.08.15
+AA-UE-736	dízel	2001.03.09	Fekete Dominik	2021.08.20
+OLI 592	benzin	2014.04.15	Oláh Erzsébet	2021.08.31
+AA-ML-402	benzin	2000.01.26	Szabó Péter	2021.09.01
+AA-NO-683	benzin	2019.05.11	Simon Boglárka	2021.09.01
+WSZ 979	elektromos	2013.10.09	Lakatos Zoltán	2021.09.08
+JCG 178	gáz	2000.01.15	Mészáros Emma	2021.09.08
+AA-OI-792	benzin	2005.04.28	Szilágyi János	2021.09.10
+AA-CW-287	benzin	2010.05.02	Fekete Bence	2021.09.11
+QXD 985	dízel	2017.01.11	Oláh Zsófia	2021.09.15
+LLV 498	gáz	2005.05.20	Szilágyi Tamás	2021.09.15
+AA-AS-934	gáz	2009.12.12	Tóth Sándor	2021.09.15
+AA-CV-149	dízel	2001.09.12	Kovács Julianna	2021.09.22
+AA-BC-011	gáz	2019.02.26	Varga Ilona	2021.09.24
+AA-ZD-958	dízel	2011.04.04	Szabó János	2021.09.25
+QGA 786	gáz	2001.06.01	Papp Máté	2021.09.25
+AA-GW-271	gáz	2004.04.09	Oláh Sándor	2021.09.25
+RYE 541	dízel	2004.08.11	Nagy Éva	2021.10.04
+EMW 743	gáz	2011.04.19	Fekete András	2021.10.08
+HRQ 215	dízel	2010.07.02	Molnár Tamás	2021.10.10
+JYQ 399	elektromos	2018.06.12	Kiss Tamás	2021.10.15
+AA-CK-540	gáz	2014.10.27	Mészáros Noel	2021.10.21
+FSB 929	dízel	2017.02.28	Mészáros Olivér	2021.10.23
+AA-OJ-270	dízel	2021.09.14	Varga István	2021.10.25
+AKB 366	elektromos	2016.09.02	Török Hanna	2021.11.03
+AA-GX-652	benzin	2016.06.29	Szabó Boglárka	2021.11.06
+AA-AF-276	dízel	2015.11.09	Mészáros László	2021.11.06
+AA-LC-422	elektromos	2021.04.16	Szabó Boglárka	2021.11.07
+AA-MX-481	dízel	2018.05.19	Kiss Zoltán	2021.11.07
+AA-DS-976	elektromos	2011.01.11	Horváth Hanna	2021.11.07
+NFF 176	benzin	2011.07.22	Tóth Luca	2021.11.08
+FQG 442	benzin	2013.02.27	Horváth András	2021.11.12
+VIK 100	gáz	2003.02.16	Balogh Irén	2021.11.13
+WDH 238	gáz	2001.04.25	Simon Boglárka	2021.11.16
+HAI 011	benzin	2012.06.28	Horváth Olivér	2021.11.16
+AA-BM-424	gáz	2014.08.06	Szilágyi Ilona	2021.11.24
+AA-ED-155	elektromos	2007.08.13	Nagy Dániel	2021.11.28
+QGA 786	gáz	2001.06.01	Papp Máté	2021.11.30
+AA-MN-310	gáz	2010.08.03	Rácz Boglárka	2021.12.03
+AA-GI-973	gáz	2010.10.16	Török János	2021.12.04
+AA-JH-310	benzin	2005.06.01	Lakatos Zsuzsanna	2021.12.06
+XDL 133	elektromos	2014.05.10	Farkas Dániel	2021.12.06
+UHW 852	elektromos	2002.05.17	Oláh Gábor	2021.12.09
+GYC 892	elektromos	2009.02.03	Kovács Mária	2021.12.10
+UGL 408	gáz	2017.01.02	Rácz Marcell	2021.12.12
+AA-FX-936	dízel	2014.07.11	Horváth Anna	2021.12.12
+AZK 769	benzin	2018.01.06	Lakatos Ilona	2021.12.14
+XBD 615	elektromos	2014.11.23	Németh Noel	2021.12.14
+AA-BI-734	benzin	2003.12.09	Papp János	2021.12.17
+YQA 629	elektromos	2013.01.11	Oláh Zsuzsanna	2021.12.19
+XRK 895	dízel	2009.01.07	Kovács Emma	2021.12.19
+AA-ED-155	elektromos	2007.08.13	Nagy Dániel	2021.12.26
+BID 701	benzin	2000.07.03	Török János	2021.12.31
+AA-WB-473	benzin	2008.11.19	Tóth Edit	2022.01.01
+AA-VM-930	elektromos	2004.06.20	Lakatos Irén	2022.01.10
+AA-KD-370	gáz	2015.04.19	Török Máté	2022.01.19
+AA-ZS-666	benzin	2009.12.15	Mészáros Hanna	2022.01.20
+AA-JU-326	gáz	2021.12.25	Szilágyi Irén	2022.01.21
+AA-AJ-084	elektromos	2006.08.06	Kiss András	2022.01.27
+XCS 803	benzin	2017.01.20	Szilágyi Léna	2022.01.29
+AA-WO-248	gáz	2021.02.05	Mészáros Emma	2022.02.08
+AA-YG-244	gáz	2007.04.07	Simon Katalin	2022.02.09
+AA-UY-001	gáz	2018.06.13	Balogh Erzsébet	2022.02.11
+RJB 879	benzin	2018.10.11	Balogh Tamás	2022.02.11
+AA-FS-301	elektromos	2000.09.12	Farkas Dániel	2022.02.12
+SVH 227	gáz	2001.12.01	Török Edit	2022.02.13
+AA-SB-369	dízel	2004.08.12	Mészáros Zoltán	2022.02.19
+BAZ 283	dízel	2006.02.23	Kovács Dániel	2022.02.21
+AA-RW-375	dízel	2020.02.10	Molnár István	2022.02.22
+YGV 021	elektromos	2002.05.13	Oláh Sándor	2022.02.26
+AA-WU-716	dízel	2021.03.01	Szabó Éva	2022.02.26
+AA-FS-932	benzin	2001.11.06	Horváth Sándor	2022.02.27
+WAJ 968	benzin	2013.07.23	Németh Irén	2022.03.01
+UNV 180	gáz	2001.08.19	Rácz Sándor	2022.03.02
+AA-XU-947	benzin	2019.12.03	Török Sándor	2022.03.04
+AA-WM-446	benzin	2017.02.14	Papp László	2022.03.06
+MHP 573	benzin	2021.07.31	Kovács Sándor	2022.03.08
+AA-AF-275	dízel	2001.02.23	Lakatos Zoé	2022.03.08
+QDA 733	dízel	2009.08.31	Németh Julianna	2022.03.14
+PFX 975	gáz	2015.12.20	Farkas Péter	2022.03.14
+AA-CX-232	dízel	2010.05.14	Balogh Boglárka	2022.03.22
+AA-YR-344	elektromos	2003.03.09	Mészáros Zalán	2022.03.22
+FRS 557	benzin	2011.11.01	Nagy Tamás	2022.03.23
+AA-BY-180	elektromos	2017.08.02	Horváth Katalin	2022.03.26
+AA-DN-468	gáz	2017.05.08	Molnár Marcell	2022.03.28
+AA-WY-154	elektromos	2004.01.14	Kiss Máté	2022.03.29
+AA-LQ-720	benzin	2009.02.08	Török Irén	2022.04.01
+AA-HJ-491	elektromos	2009.10.07	Kovács Zalán	2022.04.02
+AA-IR-631	benzin	2016.01.09	Simon Zsófia	2022.04.05
+VFR 496	gáz	2019.11.07	Balogh Máté	2022.04.09
+NRW 425	gáz	2021.07.15	Török Gábor	2022.04.12
+GHK 216	benzin	2009.05.24	Tóth Levente	2022.04.13
+AA-SH-287	elektromos	2002.08.24	Papp Jázmin	2022.04.14
+NVL 315	gáz	2009.12.03	Tóth Irén	2022.04.17
+ZWM 864	benzin	2009.08.02	Rácz Ádám	2022.04.17
+ZUG 591	elektromos	2022.03.10	Török Luca	2022.04.18
+AA-HV-612	benzin	2010.03.20	Molnár Éva	2022.04.22
+AA-RS-974	elektromos	2021.07.24	Tóth Gábor	2022.04.23
+VSG 016	elektromos	2010.03.06	Tóth Gábor	2022.04.25
+AA-IZ-631	gáz	2012.01.12	Oláh Dániel	2022.04.25
+AA-FD-298	elektromos	2008.04.11	Nagy Zoltán	2022.04.26
+QJX 237	benzin	2012.03.04	Papp Luca	2022.04.29
+AA-RG-479	dízel	2013.07.13	Molnár Dominik	2022.04.30
+AA-SQ-563	benzin	2003.05.03	Varga Marcell	2022.05.02
+AA-QV-516	benzin	2003.10.04	Oláh Mária	2022.05.02
+DMO 104	elektromos	2001.09.16	Farkas Olivér	2022.05.07
+BCP 243	benzin	2007.12.10	Lakatos Zalán	2022.05.07
+AA-UN-320	benzin	2013.12.16	Kiss Julianna	2022.05.10
+AA-PQ-741	benzin	2009.01.04	Török Zoé	2022.05.11
+OSJ 734	gáz	2012.07.02	Kovács Tamás	2022.05.14
+JJS 092	gáz	2015.04.02	Horváth Gábor	2022.05.15
+AA-VJ-086	dízel	2007.12.05	Lakatos Attila	2022.05.16
+AA-XW-975	dízel	2019.03.07	Németh Katalin	2022.05.26
+AA-VE-974	gáz	2010.10.19	Török Nóra	2022.05.27
+HJB 774	gáz	2009.03.19	Rácz István	2022.05.28
+AA-CS-015	gáz	2017.03.18	Mészáros Anna	2022.06.03
+KIX 999	benzin	2016.07.02	Lakatos Ilona	2022.06.07
+GVH 973	benzin	2021.03.05	Simon Irén	2022.06.10
+BIN 327	gáz	2011.07.09	Kovács Éva	2022.06.11
+WJV 751	elektromos	2016.12.03	Varga Zsuzsanna	2022.06.15
+IOC 403	benzin	2016.10.01	Fekete Zalán	2022.06.21
+AA-BH-705	dízel	2006.02.11	Papp Noel	2022.06.21
+EQR 645	benzin	2016.03.31	Horváth Magdolna	2022.06.28
+XQA 162	elektromos	2009.07.15	Horváth Katalin	2022.07.02
+JIV 642	elektromos	2001.06.28	Oláh János	2022.07.03
+JDB 865	dízel	2016.06.28	Lakatos Zsuzsanna	2022.07.03
+AA-IB-444	dízel	2022.04.06	Szilágyi Dániel	2022.07.08
+JSQ 924	dízel	2000.03.24	Horváth Zsuzsanna	2022.07.10
+RNS 662	elektromos	2002.01.16	Molnár Sándor	2022.07.12
+HFW 685	dízel	2003.11.13	Simon Zoltán	2022.07.17
+AA-WZ-508	dízel	2010.01.11	Szabó Ilona	2022.07.20
+AA-GF-948	elektromos	2007.04.12	Oláh Gábor	2022.07.21
+AA-KG-796	gáz	2021.12.30	Rácz Máté	2022.07.21
+AA-VM-930	elektromos	2004.06.20	Lakatos Irén	2022.07.21
+FYL 510	dízel	2011.02.28	Balogh Péter	2022.07.22
+AA-XN-710	dízel	2021.04.08	Török Zoltán	2022.07.23
+AA-AA-839	elektromos	2016.12.20	Németh Zalán	2022.07.26
+AA-HO-226	gáz	2005.05.15	Szilágyi Zalán	2022.07.27
+AA-BS-337	gáz	2011.03.25	Kovács Levente	2022.07.28
+HWF 480	elektromos	2014.09.20	Tóth Nóra	2022.07.31
+YJP 772	dízel	2022.01.18	Fekete Erzsébet	2022.07.31
+IMR 923	elektromos	2021.08.22	Horváth Zoé	2022.08.05
+AA-HU-807	gáz	2014.10.03	Fekete Nóra	2022.08.12
+AA-CE-657	dízel	2020.01.02	Tóth Marcell	2022.08.15
+AA-EC-582	elektromos	2006.10.03	Kiss Ádám	2022.08.17
+BIX 954	elektromos	2008.06.16	Balogh Bence	2022.08.18
+MHP 573	benzin	2021.07.31	Kovács Sándor	2022.08.19
+AA-RV-375	gáz	2010.03.31	Németh Zalán	2022.08.23
+AA-YP-437	benzin	2019.07.19	Török Zsófia	2022.08.24
+OLI 592	benzin	2014.04.15	Oláh Erzsébet	2022.08.26
+JTJ 648	dízel	2009.03.30	Szilágyi Levente	2022.08.28
+XEB 097	gáz	2022.02.13	Szabó Máté	2022.09.01
+ODZ 426	elektromos	2014.02.25	Horváth Bence	2022.09.05
+AA-PC-811	gáz	2018.12.21	Nagy János	2022.09.10
+UOE 746	benzin	2014.11.21	Lakatos Olivér	2022.09.10
+ERA 393	elektromos	2010.02.12	Fekete Ádám	2022.09.10
+OXL 518	gáz	2011.02.24	Mészáros Zoé	2022.09.10
+HGU 128	gáz	2004.12.08	Szilágyi László	2022.09.11
+AA-ZY-356	benzin	2012.07.30	Kovács Katalin	2022.09.12
+LAV 162	benzin	2020.07.08	Lakatos Hanna	2022.09.17
+SFQ 998	benzin	2020.02.05	Horváth Dominik	2022.09.19
+HPR 157	benzin	2000.10.04	Fekete Julianna	2022.09.20
+AA-WU-716	dízel	2021.03.01	Szabó Éva	2022.09.20
+GQY 433	benzin	2017.12.15	Horváth János	2022.09.23
+AA-FU-766	elektromos	2012.07.28	Varga Ilona	2022.09.24
+XOY 445	elektromos	2007.01.19	Török Tamás	2022.09.26
+AA-OA-218	gáz	2013.04.30	Varga Olivér	2022.09.30
+VCY 031	elektromos	2013.12.21	Fekete Éva	2022.09.30
+AA-UD-146	gáz	2021.06.16	Oláh Emma	2022.10.01
+AA-JK-124	gáz	2000.08.13	Lakatos Sándor	2022.10.04
+XTP 401	dízel	2002.01.12	Balogh László	2022.10.04
+KUB 637	benzin	2013.07.03	Varga Marcell	2022.10.04
+AA-CQ-165	gáz	2002.06.18	Fekete Hanna	2022.10.05
+AA-TG-419	dízel	2006.09.10	Szilágyi Péter	2022.10.09
+AA-ZX-610	benzin	2001.05.17	Németh Attila	2022.10.10
+AA-UK-932	benzin	2017.06.26	Papp Ilona	2022.10.11
+PEE 927	benzin	2014.05.25	Varga László	2022.10.20
+AA-UQ-176	gáz	2010.05.10	Rácz Emma	2022.10.21
+AA-PI-101	dízel	2001.11.21	Oláh Boglárka	2022.10.26
+AA-AN-630	dízel	2011.10.05	Fekete Zoltán	2022.11.08
+AA-JZ-242	gáz	2012.12.07	Szilágyi László	2022.11.10
+MDQ 631	dízel	2017.05.04	Kiss Mária	2022.11.14
+AA-IY-715	benzin	2015.09.08	Papp Levente	2022.11.20
+KUT 016	gáz	2022.06.19	Fekete Éva	2022.11.21
+JMW 902	gáz	2000.01.18	Tóth Marcell	2022.12.05
+FWC 422	benzin	2000.06.12	Török János	2022.12.10
+AJY 369	benzin	2015.12.09	Szilágyi Tamás	2022.12.17
+GUF 964	gáz	2009.03.16	Nagy Zalán	2022.12.17
+QXD 985	dízel	2017.01.11	Oláh Zsófia	2023.01.01
+BXZ 322	gáz	2019.08.30	Papp Attila	2023.01.13
+JJE 380	benzin	2012.01.31	Lakatos Noel	2023.01.16
+UEI 343	benzin	2002.10.11	Horváth Péter	2023.01.17
+GUF 964	gáz	2009.03.16	Nagy Zalán	2023.01.19
+BXK 944	dízel	2004.11.01	Szilágyi Mária	2023.01.20
+AA-PQ-889	dízel	2018.05.29	Horváth Tamás	2023.01.20
+JDB 865	dízel	2016.06.28	Lakatos Zsuzsanna	2023.01.20
+AA-OD-872	gáz	2011.02.03	Molnár Sándor	2023.01.22
+AA-ZY-961	benzin	2021.07.24	Németh Éva	2023.01.23
+IDS 724	benzin	2022.09.30	Papp Irén	2023.01.23
+YJP 772	dízel	2022.01.18	Fekete Erzsébet	2023.01.27
+TCS 432	benzin	2009.08.06	Kiss Attila	2023.01.28
+AA-XF-908	dízel	2022.02.26	Németh Edit	2023.01.28
+HKP 232	dízel	2009.08.15	Farkas Mária	2023.01.28
+AA-FQ-711	gáz	2021.01.17	Papp Dániel	2023.01.31
+PXA 985	dízel	2005.08.12	Balogh Emma	2023.02.04
+LVA 867	elektromos	2003.09.12	Varga Attila	2023.02.06
+COJ 252	dízel	2001.12.14	Szabó Ilona	2023.02.08
+AA-YB-368	gáz	2018.11.30	Simon Dominik	2023.02.09
+WJG 512	elektromos	2013.11.30	Molnár Hanna	2023.02.13
+AA-PF-872	gáz	2014.07.05	Mészáros László	2023.02.16
+AA-AR-310	gáz	2010.07.26	Lakatos Hanna	2023.02.17
+AA-OS-140	benzin	2006.10.10	Fekete Olivér	2023.02.17
+AA-FP-868	gáz	2000.01.10	Szabó Attila	2023.02.20
+PRK 516	elektromos	2016.06.08	Mészáros Emma	2023.02.21
+HML 502	gáz	2013.04.02	Mészáros Anna	2023.02.23
+AA-GI-022	benzin	2018.10.13	Török Erzsébet	2023.02.25
+AA-NN-647	dízel	2002.08.04	Fekete Zsófia	2023.02.28
+AA-ZX-272	dízel	2003.09.17	Kiss Péter	2023.03.07
+ZZN 862	gáz	2004.01.24	Török András	2023.03.09
+AA-FY-698	gáz	2005.08.03	Kiss Noel	2023.03.13
+NTD 129	benzin	2022.01.06	Kovács Zoltán	2023.03.14
+BKJ 291	gáz	2001.12.30	Szabó Bence	2023.03.15
+AA-GN-410	elektromos	2003.09.16	Molnár Dominik	2023.03.16
+AA-HG-304	gáz	2000.05.17	Kovács Bence	2023.03.21
+HKH 382	benzin	2018.11.11	Balogh Nóra	2023.03.23
+FOD 967	gáz	2004.01.17	Farkas Olivér	2023.03.25
+AA-QV-621	gáz	2003.09.01	Szabó Erzsébet	2023.03.25
+XCZ 268	elektromos	2021.07.26	Nagy Hanna	2023.03.26
+GHH 803	benzin	2013.03.24	Balogh Hanna	2023.03.31
+AA-GN-864	dízel	2001.09.24	Farkas Julianna	2023.04.01
+AA-FV-855	elektromos	2011.12.23	Oláh Levente	2023.04.02
+JIV 642	elektromos	2001.06.28	Oláh János	2023.04.02
+YWE 305	elektromos	2008.01.22	Nagy Irén	2023.04.03
+QQR 600	dízel	2007.04.02	Nagy Nóra	2023.04.06
+AA-OI-792	benzin	2005.04.28	Szilágyi János	2023.04.07
+AA-LO-198	elektromos	2008.01.31	Szilágyi Ádám	2023.04.07
+DMU 189	benzin	2022.04.23	Papp Edit	2023.04.11
+AA-FE-459	elektromos	2016.12.08	Horváth Katalin	2023.04.11
+AA-WC-607	benzin	2011.06.08	Németh Zoé	2023.04.15
+WGP 490	elektromos	2017.11.03	Varga Éva	2023.04.16
+AA-DN-729	gáz	2005.08.11	Szilágyi Noel	2023.04.19
+TSC 517	dízel	2007.08.12	Lakatos Bence	2023.04.20
+MFG 978	dízel	2018.10.01	Papp Luca	2023.04.26
+AA-IN-755	gáz	2014.05.25	Lakatos László	2023.04.26
+JHS 490	gáz	2022.05.22	Balogh Zsófia	2023.04.27
+AA-WB-924	benzin	2021.09.13	Tóth Boglárka	2023.05.02
+AA-WR-230	dízel	2003.09.01	Farkas Zalán	2023.05.04
+AA-YZ-793	gáz	2010.08.17	Tóth Edit	2023.05.05
+AA-JL-069	gáz	2008.08.27	Mészáros Léna	2023.05.07
+AA-ZE-709	benzin	2003.05.11	Török István	2023.05.08
+AA-HJ-933	dízel	2020.01.07	Molnár Dániel	2023.05.13
+YXS 137	benzin	2005.08.28	Mészáros Marcell	2023.05.13
+AA-MG-181	dízel	2012.02.05	Oláh Marcell	2023.05.16
+AA-HL-939	benzin	2022.07.28	Kovács Irén	2023.05.21
+ZIY 679	dízel	2003.08.06	Kovács Péter	2023.05.22
+AA-HC-382	elektromos	2007.10.13	Balogh Magdolna	2023.05.23
+AA-QI-579	dízel	2009.08.24	Balogh Ilona	2023.05.27
+BWJ 789	dízel	2022.05.23	Török István	2023.05.28
+QUB 089	dízel	2013.08.08	Farkas Máté	2023.06.01
+HYT 643	dízel	2020.07.25	Mészáros Irén	2023.06.04
+AA-KC-499	elektromos	2008.04.05	Farkas Dániel	2023.06.05
+UBX 544	benzin	2006.05.08	Rácz Katalin	2023.06.10
+YGA 765	elektromos	2003.10.07	Oláh Gábor	2023.06.10
+AA-WM-031	dízel	2007.11.20	Horváth Nóra	2023.06.19
+AA-HK-358	dízel	2000.01.08	Németh Bence	2023.06.22
+AA-GA-488	benzin	2001.04.24	Mészáros András	2023.06.29
+TYH 374	elektromos	2004.02.08	Farkas László	2023.06.30
+MVU 320	dízel	2009.01.27	Lakatos András	2023.06.30
+AA-DG-875	dízel	2022.04.09	Szabó János	2023.07.01
+AA-MK-114	benzin	2023.06.22	Horváth Marcell	2023.07.04
+FAA 329	gáz	2019.05.29	Rácz Attila	2023.07.08
+AA-GS-187	elektromos	2013.05.16	Mészáros Sándor	2023.07.10
+AA-XP-354	benzin	2010.08.05	Tóth Dániel	2023.07.12
+MPH 331	dízel	2022.07.15	Szilágyi Ádám	2023.07.13
+AA-CA-596	dízel	2008.03.18	Molnár Attila	2023.07.16
+QEF 255	gáz	2007.04.16	Tóth Magdolna	2023.07.19
+CQT 050	benzin	2006.04.28	Török Ádám	2023.07.22
+AA-CK-493	elektromos	2005.07.25	Török Gábor	2023.07.23
+PFO 105	elektromos	2012.06.29	Balogh Attila	2023.07.23
+LWI 445	benzin	2002.02.18	Molnár Edit	2023.07.23
+PFE 566	benzin	2015.12.06	Oláh Dániel	2023.07.29
+AA-BV-175	gáz	2007.03.16	Varga Zsuzsanna	2023.07.30
+AA-GN-273	dízel	2021.03.30	Török Levente	2023.07.31
+IRO 198	gáz	2017.11.07	Farkas Marcell	2023.08.01
+AA-BV-175	gáz	2007.03.16	Varga Zsuzsanna	2023.08.02
+CDV 903	benzin	2011.10.17	Németh Marcell	2023.08.03
+AA-BM-665	dízel	2001.10.09	Molnár László	2023.08.07
+TGI 173	elektromos	2016.01.28	Rácz Katalin	2023.08.11
+AA-LE-195	gáz	2004.02.09	Török Zoé	2023.08.12
+AA-HK-322	elektromos	2005.02.20	Balogh Erzsébet	2023.08.17
+AA-IN-755	gáz	2014.05.25	Fekete János	2023.08.20
+OAZ 839	dízel	2009.08.25	Horváth Zalán	2023.08.22
+HHQ 718	gáz	2018.12.14	Németh Dániel	2023.08.22
+IGQ 128	elektromos	2019.05.15	Nagy Katalin	2023.08.24
+NMW 072	dízel	2007.09.19	Fekete Gábor	2023.08.27
+HSK 223	gáz	2014.06.20	Simon Máté	2023.08.29
+AA-PW-332	gáz	2022.04.02	Horváth Jázmin	2023.08.30
+TTQ 738	dízel	2022.08.20	Szabó Levente	2023.09.03
+AA-ZY-961	benzin	2021.07.24	Németh Éva	2023.09.04
+AA-LB-711	elektromos	2018.01.19	Németh Magdolna	2023.09.05
+DXG 501	gáz	2019.08.29	Fekete Ádám	2023.09.06
+CSD 039	dízel	2008.02.05	Oláh Erzsébet	2023.09.08
+XJW 688	elektromos	2001.11.16	Rácz Máté	2023.09.10
+YGA 765	elektromos	2003.10.07	Oláh Gábor	2023.09.10
+AA-HH-709	dízel	2007.05.19	Rácz Tamás	2023.09.13
+GFU 425	dízel	2003.06.17	Szilágyi János	2023.09.13
+AA-HE-993	dízel	2006.07.25	Papp Jázmin	2023.09.14
+MVU 320	dízel	2009.01.27	Lakatos András	2023.09.14
+AA-HJ-933	dízel	2020.01.07	Molnár Dániel	2023.09.19
+VDC 046	dízel	2019.08.14	Horváth János	2023.09.20
+PPT 490	gáz	2014.03.21	Balogh Levente	2023.09.24
+RNC 334	elektromos	2023.05.23	Molnár Bence	2023.10.07
+AA-NQ-510	gáz	2000.03.28	Molnár Hanna	2023.10.09
+AA-PT-744	elektromos	2005.08.08	Szabó László	2023.10.10
+EOX 084	benzin	2001.04.12	Oláh Hanna	2023.10.10
+AA-MV-844	benzin	2003.05.12	Balogh Gábor	2023.10.10
+AA-GD-281	benzin	2012.12.25	Németh Emma	2023.10.10
+ZYF 936	dízel	2001.04.12	Török Zoltán	2023.10.12
+AA-YH-569	benzin	2016.04.21	Simon Attila	2023.10.14
+AA-LK-940	dízel	2015.05.04	Kovács Emma	2023.10.15
+AA-HA-266	dízel	2001.02.03	Lakatos János	2023.10.16
+RNC 334	elektromos	2023.05.23	Molnár Bence	2023.10.16
+HMV 702	gáz	2008.11.11	Simon Ádám	2023.10.17
+XJD 649	gáz	2006.05.20	Oláh Noel	2023.10.17
+RJC 348	dízel	2008.01.07	Nagy Olivér	2023.10.17
+NHC 946	elektromos	2018.08.04	Varga Edit	2023.10.23
+AA-RM-674	elektromos	2011.03.18	Farkas Erzsébet	2023.10.27
+QCD 599	elektromos	2019.01.07	Török Ádám	2023.10.31
+BTQ 167	elektromos	2008.12.18	Molnár Zalán	2023.11.05
+XYF 785	benzin	2017.12.18	Lakatos Mária	2023.11.07
+AA-MV-758	dízel	2009.05.22	Fekete Levente	2023.11.13
+OOF 991	benzin	2005.01.15	Oláh Nóra	2023.11.13
+AA-VX-246	gáz	2009.05.13	Horváth János	2023.11.13
+NQQ 335	elektromos	2000.04.26	Németh Irén	2023.11.14
+AA-RJ-546	dízel	2012.04.24	Szabó Julianna	2023.11.15
+AA-IL-603	gáz	2007.07.16	Németh Emma	2023.11.16
+EUV 135	dízel	2010.05.26	Török Gábor	2023.11.19
+AA-SO-322	dízel	2017.06.16	Szabó Attila	2023.11.22
+AA-ZR-699	benzin	2013.09.30	Simon Éva	2023.11.23
+AA-ZR-147	dízel	2014.07.22	Farkas Léna	2023.11.23
+AA-ZS-897	gáz	2015.09.06	Török Zoé	2023.11.25
+AA-LX-206	benzin	2002.03.24	Rácz Léna	2023.11.28
+JWX 431	dízel	2001.03.24	Simon János	2023.11.28
+AA-GR-627	elektromos	2014.03.08	Farkas Luca	2023.12.01
+AA-YV-844	benzin	2015.09.19	Farkas Zoé	2023.12.02
+VNT 420	gáz	2013.04.29	Szilágyi Magdolna	2023.12.04
+AA-GD-144	elektromos	2014.06.15	Balogh Anna	2023.12.04
+DBR 239	benzin	2001.02.06	Nagy Attila	2023.12.05
+AA-JZ-364	gáz	2011.08.27	Fekete Emma	2023.12.05
+AA-YM-081	elektromos	2001.09.12	Simon Julianna	2023.12.07
+LQA 608	gáz	2019.07.15	Németh Tamás	2023.12.07
+AA-TR-545	dízel	2015.04.06	Nagy Boglárka	2023.12.12
+CGR 516	elektromos	2016.03.11	Molnár Julianna	2023.12.13
+AON 574	benzin	2021.05.11	Molnár Katalin	2023.12.15
+AA-WS-263	benzin	2022.07.11	Horváth Tamás	2023.12.17
+SVH 227	gáz	2001.12.01	Török Edit	2023.12.19
+PEE 927	benzin	2014.05.25	Molnár Anna	2023.12.24
+AA-YH-569	benzin	2016.04.21	Simon Attila	2023.12.25
+CMS 400	elektromos	2012.06.23	Németh Dominik	2023.12.26
+AA-IO-927	elektromos	2021.11.05	Oláh Hanna	2023.12.28
+AA-HU-807	gáz	2014.10.03	Fekete Nóra	2023.12.28
+AA-ON-256	benzin	2010.02.12	Lakatos Marcell	2023.12.30
+FCQ 532	elektromos	2006.09.21	Török László	2023.12.31
+KXI 732	benzin	2005.07.27	Tóth Emma	2024.01.02
+AA-YI-471	gáz	2004.08.10	Molnár Máté	2024.01.02
+AA-MW-659	elektromos	2005.02.27	Horváth Sándor	2024.01.03
+RKO 838	dízel	2022.12.29	Balogh Emma	2024.01.10
+AA-XR-260	gáz	2016.06.18	Balogh Noel	2024.01.13
+AA-BM-276	benzin	2015.12.01	Farkas Zalán	2024.01.15
+LWI 445	benzin	2002.02.18	Varga Zalán	2024.01.19
+IAC 195	gáz	2023.12.01	Tóth András	2024.01.21
+AA-JB-982	elektromos	2008.10.28	Balogh Nóra	2024.01.25
+AA-OQ-943	elektromos	2012.03.26	Mészáros Luca	2024.01.27
+AA-EG-816	dízel	2000.03.07	Kovács Ádám	2024.01.28
+QVW 413	gáz	2010.09.04	Papp Zalán	2024.01.28
+AA-BA-157	elektromos	2004.03.16	Rácz István	2024.01.29
+WFT 065	dízel	2023.05.26	Molnár Attila	2024.01.30
+XNK 857	dízel	2011.11.03	Németh Zoltán	2024.01.31
+AA-EX-667	elektromos	2004.06.25	Szabó Jázmin	2024.01.31
+WGV 111	gáz	2010.08.14	Simon Dominik	2024.02.01
+AA-UG-991	dízel	2019.04.01	Horváth Léna	2024.02.01
+FHD 219	gáz	2000.04.09	Fekete Zsófia	2024.02.04
+AA-JB-796	benzin	2003.10.13	Papp Jázmin	2024.02.06
+AA-US-503	benzin	2022.08.26	Lakatos András	2024.02.06
+AA-DE-273	gáz	2004.12.26	Rácz Edit	2024.02.11
+AA-BA-449	dízel	2009.09.02	Németh Magdolna	2024.02.14
+AA-MC-908	elektromos	2023.03.10	Balogh Emma	2024.02.14
+AA-HE-551	benzin	2020.06.24	Kovács Éva	2024.02.15
+KOG 153	benzin	2008.01.20	Simon Olivér	2024.02.19
+QKV 642	gáz	2020.05.01	Varga Zsuzsanna	2024.02.19
+AA-JU-107	gáz	2018.11.10	Németh Léna	2024.02.20
+GSF 918	dízel	2006.06.08	Horváth Zoltán	2024.02.21
+AA-JA-125	benzin	2009.12.27	Simon Péter	2024.02.22
+ZSV 882	benzin	2000.10.22	Fekete Erzsébet	2024.02.29
+AA-KI-029	elektromos	2014.11.28	Török János	2024.03.03
+YXS 137	benzin	2005.08.28	Mészáros Marcell	2024.03.04
+AA-AW-414	elektromos	2005.11.09	Rácz László	2024.03.11
+KFQ 509	gáz	2020.10.12	Oláh Zoé	2024.03.13
+AA-WO-248	gáz	2021.02.05	Mészáros Emma	2024.03.14
+AA-UO-636	gáz	2024.01.01	Varga Zoltán	2024.03.16
+FFB 544	elektromos	2004.09.09	Fekete Gábor	2024.03.16
+AA-DP-150	gáz	2017.07.20	Varga Éva	2024.03.20
+FVP 154	dízel	2001.05.04	Oláh Tamás	2024.03.25
+AA-DM-195	benzin	2003.01.30	Oláh Boglárka	2024.03.29
+AA-XS-293	gáz	2015.09.29	Balogh Nóra	2024.03.29
+AA-HU-936	elektromos	2008.11.29	Németh Tamás	2024.03.30
+AA-DN-530	gáz	2023.07.19	Simon Attila	2024.03.31
+AA-AD-606	gáz	2006.05.12	Mészáros Luca	2024.03.31
+RYE 541	dízel	2004.08.11	Nagy Éva	2024.04.01
+DVF 542	dízel	2015.08.15	Szabó Marcell	2024.04.04
+WLA 293	dízel	2004.10.19	Fekete Ádám	2024.04.13
+AA-VN-642	elektromos	2016.06.11	Szabó Sándor	2024.04.20
+ZVK 350	benzin	2020.03.07	Rácz Magdolna	2024.04.20
+AA-YT-615	benzin	2022.12.26	Török Anna	2024.04.21
+YXQ 536	elektromos	2019.10.21	Simon Máté	2024.04.21
+AA-PS-496	benzin	2010.03.25	Tóth Tamás	2024.04.28
+AA-YG-012	gáz	2007.01.26	Oláh Mária	2024.04.30
+ERW 249	dízel	2012.01.11	Szabó Luca	2024.05.02
+AA-CX-232	dízel	2010.05.14	Balogh Boglárka	2024.05.02
+AA-ED-303	elektromos	2000.10.09	Kiss Noel	2024.05.07
+LZV 013	benzin	2019.05.30	Szabó Boglárka	2024.05.09
+AA-OS-103	dízel	2011.11.18	Lakatos Marcell	2024.05.12
+CWW 830	dízel	2001.04.16	Lakatos Dominik	2024.05.12
+AA-NG-070	benzin	2012.09.02	Simon Levente	2024.05.13
+ILG 708	elektromos	2020.12.20	Balogh Éva	2024.05.14
+AA-XE-587	elektromos	2012.08.01	Farkas Zalán	2024.05.16
+QSP 215	gáz	2002.01.03	Mészáros Dominik	2024.05.16
+NHC 946	elektromos	2018.08.04	Varga Edit	2024.05.16
+AA-OJ-353	benzin	2004.02.20	Mészáros Irén	2024.05.18
+AA-PQ-234	elektromos	2016.02.11	Oláh Anna	2024.05.20
+AA-SK-072	gáz	2001.10.04	Lakatos Marcell	2024.05.20
+TLS 885	elektromos	2013.09.23	Németh Tamás	2024.05.20
+LNV 598	elektromos	2000.05.11	Török Léna	2024.05.23
+AA-GA-488	benzin	2001.04.24	Mészáros András	2024.05.25
+AA-KI-172	gáz	2023.05.24	Kiss Éva	2024.05.26
+FRW 953	dízel	2017.06.05	Török Jázmin	2024.05.26
+QTU 269	benzin	2016.03.12	Lakatos Mária	2024.05.27
+AA-UO-755	dízel	2000.10.30	Simon János	2024.05.30
+PKY 370	elektromos	2009.10.29	Balogh Attila	2024.05.31
+AA-QO-363	benzin	2002.07.23	Mészáros Bence	2024.06.01
+GCI 086	benzin	2004.08.27	Rácz Noel	2024.06.02
+AA-BN-778	gáz	2006.02.04	Balogh Tamás	2024.06.04
+KFQ 509	gáz	2020.10.12	Oláh Zoé	2024.06.04
+OHG 692	benzin	2007.04.04	Szabó Sándor	2024.06.06
+SAQ 880	benzin	2023.04.17	Rácz Léna	2024.06.07
+AA-AN-612	elektromos	2023.10.16	Horváth Boglárka	2024.06.07
+AA-BF-684	elektromos	2014.08.21	Horváth Katalin	2024.06.09
+AA-NI-644	elektromos	2021.09.21	Simon Tamás	2024.06.09
+AA-PL-833	elektromos	2012.09.28	Tóth Hanna	2024.06.16
+AA-HL-262	elektromos	2015.04.06	Nagy Zsófia	2024.06.17
+AA-GH-380	elektromos	2003.12.28	Németh Irén	2024.06.17
+ALP 759	benzin	2009.10.08	Kiss Péter	2024.06.19
+JDC 654	gáz	2001.08.04	Kovács Zoé	2024.06.21
+AA-VQ-767	dízel	2010.01.15	Fekete Gábor	2024.06.21
+TVL 637	dízel	2017.02.06	Németh Ádám	2024.06.23
+AA-YR-796	benzin	2004.10.31	Balogh Zsuzsanna	2024.06.25
+QSZ 420	gáz	2022.03.20	Rácz Zsófia	2024.06.26
+XNS 371	benzin	2022.07.31	Molnár Katalin	2024.06.28
+IXZ 539	benzin	2006.01.01	Farkas Mária	2024.06.30
+AA-UG-991	dízel	2019.04.01	Horváth Léna	2024.06.30
+EJO 446	elektromos	2010.06.13	Nagy Zoltán	2024.07.01
+AA-EP-652	gáz	2011.11.19	Szilágyi Olivér	2024.07.01
+VXY 225	elektromos	2016.09.18	Horváth Katalin	2024.07.01
+AA-MN-310	gáz	2010.08.03	Rácz Boglárka	2024.07.06
+TTY 149	dízel	2005.04.30	Szabó Mária	2024.07.08
+BEW 439	dízel	2013.11.03	Rácz Noel	2024.07.09
+LMM 196	dízel	2011.05.22	Szabó Magdolna	2024.07.10
+GCI 086	benzin	2004.08.27	Rácz Noel	2024.07.10
+KPT 846	dízel	2000.06.02	Farkas Marcell	2024.07.13
+YLV 462	dízel	2021.11.02	Tóth Máté	2024.07.15
+AA-FG-223	dízel	2024.02.12	Tóth Dominik	2024.07.16
+PFO 105	elektromos	2012.06.29	Balogh Attila	2024.07.16
+AA-GE-214	gáz	2013.01.06	Simon Julianna	2024.07.18
+CST 842	gáz	2003.08.27	Balogh Máté	2024.07.19
+AA-OJ-778	dízel	2000.09.24	Balogh István	2024.07.20
+AON 574	benzin	2021.05.11	Molnár Katalin	2024.07.20
+CVJ 346	benzin	2021.10.21	Balogh Péter	2024.07.21
+DDC 015	dízel	2018.03.08	Balogh Noel	2024.07.24
+BDI 962	gáz	2011.09.04	Nagy Emma	2024.07.27
+QFY 308	dízel	2006.03.06	Szilágyi Luca	2024.07.27
+AA-KS-767	elektromos	2012.03.07	Simon Bence	2024.07.27
+WJR 780	gáz	2024.06.01	Szilágyi Erzsébet	2024.07.28
+AA-TN-060	benzin	2006.04.07	Németh András	2024.07.28
+AA-HC-457	benzin	2006.11.07	Simon Emma	2024.07.30
+AA-GD-144	elektromos	2014.06.15	Balogh Anna	2024.07.30
+IGQ 128	elektromos	2019.05.15	Nagy Katalin	2024.08.06
+AA-JL-069	gáz	2008.08.27	Balogh Levente	2024.08.07
+AKB 366	elektromos	2016.09.02	Török Hanna	2024.08.14
+UDW 717	elektromos	2023.04.27	Kovács Máté	2024.08.15
+AA-EV-335	benzin	2024.05.03	Kiss Erzsébet	2024.08.17
+WCP 752	dízel	2007.08.09	Török Bence	2024.08.17
+TSG 337	elektromos	2012.04.01	Kovács Olivér	2024.08.19
+KWA 606	gáz	2021.08.26	Horváth Sándor	2024.08.20
+GHK 216	benzin	2009.05.24	Lakatos Zalán	2024.08.20
+PLV 795	gáz	2009.11.19	Tóth Jázmin	2024.08.27
+OLQ 665	gáz	2010.08.08	Fekete Luca	2024.08.28
+AA-YD-476	dízel	2013.06.02	Fekete Bence	2024.08.30
+MFH 856	benzin	2004.01.20	Mészáros Bence	2024.08.30
+OIC 272	dízel	2021.11.11	Farkas Katalin	2024.09.01
+LCT 768	dízel	2023.03.02	Tóth Emma	2024.09.01
+CSE 273	dízel	2012.07.14	Papp Ádám	2024.09.05
+AA-DO-635	gáz	2010.09.08	Varga Zalán	2024.09.06
+AA-GE-214	gáz	2013.01.06	Simon Julianna	2024.09.06
+BRB 317	gáz	2014.01.09	Fekete István	2024.09.09
+AA-EP-652	gáz	2011.11.19	Szilágyi Olivér	2024.09.09
+AA-OD-715	dízel	2021.10.20	Fekete Dániel	2024.09.10
+OPQ 332	dízel	2009.07.17	Oláh Attila	2024.09.11
+FHZ 106	benzin	2011.01.12	Molnár Noel	2024.09.14
+NVG 272	elektromos	2012.10.23	Farkas Nóra	2024.09.15
+SYX 777	benzin	2010.06.03	Török Julianna	2024.09.17
+AA-SB-459	benzin	2018.06.23	Török Emma	2024.09.19
+FOX 099	benzin	2001.03.30	Németh Katalin	2024.09.25
+AA-IH-531	dízel	2004.02.11	Oláh Julianna	2024.09.27
+RWQ 511	dízel	2022.05.03	Fekete Péter	2024.09.27
+QSP 215	gáz	2002.01.03	Mészáros Dominik	2024.09.28
+RCM 953	gáz	2007.07.31	Balogh Nóra	2024.09.29
+AA-AW-414	elektromos	2005.11.09	Rácz László	2024.10.01
+UVT 715	gáz	2007.05.10	Lakatos Magdolna	2024.10.02
+AA-KW-112	elektromos	2004.11.02	Kovács Nóra	2024.10.02
+MWZ 870	gáz	2008.06.04	Mészáros Zoltán	2024.10.04
+AA-OR-095	benzin	2021.04.15	Szabó János	2024.10.05
+AA-OT-783	elektromos	2008.05.06	Mészáros László	2024.10.06
+AA-CZ-997	gáz	2023.01.30	Szilágyi Attila	2024.10.08
+AA-HR-150	gáz	2008.09.08	Kiss Magdolna	2024.10.11
+AA-AH-991	benzin	2014.02.21	Török Dominik	2024.10.11
+JHR 683	gáz	2003.12.25	Lakatos Marcell	2024.10.11
+TOM 862	gáz	2007.10.24	Kovács Jázmin	2024.10.13
+JBJ 565	dízel	2004.05.01	Balogh Olivér	2024.10.16
+WWJ 169	elektromos	2003.06.18	Kiss Éva	2024.10.17
+AA-MT-488	benzin	2001.08.20	Papp Noel	2024.10.23
+ZSM 287	elektromos	2016.04.22	Rácz Zalán	2024.10.25
+AA-SM-257	benzin	2021.02.28	Oláh Ilona	2024.10.26
+AA-OV-372	benzin	2020.12.19	Rácz Zoé	2024.10.28
+UEI 343	benzin	2002.10.11	Horváth Péter	2024.10.28
+FOX 099	benzin	2001.03.30	Németh Katalin	2024.10.29
+HQD 903	elektromos	2010.07.06	Lakatos Léna	2024.11.01
+WSZ 979	elektromos	2013.10.09	Lakatos Zoltán	2024.11.03
+RUJ 312	gáz	2008.09.09	Papp Zsuzsanna	2024.11.07
+AA-OJ-778	dízel	2000.09.24	Molnár Olivér	2024.11.08
+VWU 589	gáz	2022.06.20	Németh Noel	2024.11.09
+ZBQ 155	elektromos	2012.09.19	Mészáros Luca	2024.11.09
+ULH 882	gáz	2010.12.16	Papp Zoé	2024.11.12
+JQU 154	elektromos	2021.05.27	Oláh Zalán	2024.11.18
+AA-DP-146	elektromos	2002.03.01	Oláh Nóra	2024.11.18
+HVS 356	elektromos	2013.12.05	Varga Ilona	2024.11.19
+AA-WI-165	dízel	2007.08.07	Lakatos Ilona	2024.11.20
+JHS 490	gáz	2022.05.22	Balogh Zsófia	2024.11.24
+FYL 510	dízel	2011.02.28	Balogh Péter	2024.11.24
+WSC 881	elektromos	2000.07.15	Kiss Léna	2024.11.25
+BSY 808	benzin	2024.02.26	Nagy Noel	2024.11.26
+AA-MS-907	dízel	2024.02.28	Lakatos Levente	2024.11.26
+AA-ZO-178	gáz	2021.04.05	Rácz András	2024.11.26
+AA-HR-195	dízel	2023.06.01	Nagy Dániel	2024.12.02
+JDC 654	gáz	2001.08.04	Kovács Zoé	2024.12.02
+WBK 004	elektromos	2016.10.01	Simon Katalin	2024.12.04
+AA-UZ-180	elektromos	2009.08.18	Lakatos András	2024.12.06
+AA-GU-668	dízel	2024.01.09	Lakatos Zsuzsanna	2024.12.16
+AA-XN-169	dízel	2001.12.24	Rácz István	2024.12.16
+XID 903	dízel	2023.08.06	Simon Edit	2024.12.16
+XZZ 493	gáz	2017.07.24	Lakatos Dominik	2024.12.17
+AA-RI-254	dízel	2021.07.08	Lakatos István	2024.12.18
+RJB 879	benzin	2018.10.11	Balogh Tamás	2024.12.18
+AA-WP-628	elektromos	2024.08.06	Farkas Mária	2024.12.21
+AA-RX-096	benzin	2002.01.25	Varga János	2024.12.23
+AA-OI-893	gáz	2000.08.23	Farkas László	2024.12.25
+GUY 023	dízel	2012.08.04	Kovács Dániel	2024.12.25
+JKJ 798	benzin	2024.03.31	Mészáros Erzsébet	2024.12.26
+AA-GH-380	elektromos	2003.12.28	Németh Irén	2024.12.27
+AA-QO-237	gáz	2019.11.21	Farkas Jázmin	2024.12.28
+AA-BP-693	gáz	2022.11.19	Lakatos Olivér	2024.12.29
+AHV 654	gáz	2023.10.06	Horváth Gábor	2024.12.29
+UFS 158	benzin	2008.10.07	Tóth Luca	2025.01.04
+AA-QH-349	dízel	2024.05.25	Kiss Zsuzsanna	2025.01.04
+BWJ 789	dízel	2022.05.23	Nagy Luca	2025.01.04
+ZSM 287	elektromos	2016.04.22	Rácz Zalán	2025.01.06
+AA-MW-384	benzin	2019.09.19	Tóth Noel	2025.01.07
+AA-SI-286	elektromos	2000.02.19	Kovács Marcell	2025.01.09
+PDC 999	dízel	2024.08.14	Kovács Sándor	2025.01.11
+AA-XW-544	elektromos	2019.04.17	Nagy Léna	2025.01.11
+QPI 355	gáz	2010.03.22	Molnár Sándor	2025.01.13
+AA-QC-756	benzin	2012.05.14	Németh Julianna	2025.01.14
+AA-BA-157	elektromos	2004.03.16	Papp Katalin	2025.01.14
+HML 968	elektromos	2009.12.12	Tóth Mária	2025.01.20
+AA-TV-032	dízel	2012.04.20	Horváth Ádám	2025.01.21
+KAM 733	elektromos	2021.02.18	Varga Noel	2025.01.23
+MBG 564	elektromos	2010.10.05	Rácz Éva	2025.01.23
+CXM 575	dízel	2023.02.01	Lakatos Erzsébet	2025.01.25
+YRQ 608	gáz	2022.12.21	Oláh Emma	2025.01.28
+AA-GU-668	dízel	2024.01.09	Lakatos Zsuzsanna	2025.01.30
+AA-IB-982	benzin	2019.11.25	Mészáros Ilona	2025.01.31
+AA-ZR-699	benzin	2013.09.30	Simon Éva	2025.02.01
+SEC 714	benzin	2014.09.28	Lakatos Emma	2025.02.02
+HQD 903	elektromos	2010.07.06	Lakatos Léna	2025.02.03
+AA-VL-284	benzin	2006.10.14	Papp Péter	2025.02.05
+UMX 046	benzin	2010.04.27	Rácz Zoé	2025.02.08
+ETH 762	dízel	2000.04.19	Török Mária	2025.02.08
+HQD 903	elektromos	2010.07.06	Lakatos Léna	2025.02.08
+FYJ 950	dízel	2020.07.27	Török Dániel	2025.02.09
+AA-JU-107	gáz	2018.11.10	Horváth Dániel	2025.02.14
+AA-BK-109	elektromos	2007.04.14	Kiss Olivér	2025.02.15
+AA-JS-724	elektromos	2023.12.20	Török Zalán	2025.02.15
+HOD 157	gáz	2006.12.08	Szilágyi Dominik	2025.02.15
+JKJ 798	benzin	2024.03.31	Mészáros Erzsébet	2025.02.15
+SEZ 243	dízel	2022.07.01	Kovács Zoé	2025.02.16
+ZHM 462	elektromos	2013.07.26	Balogh Anna	2025.02.19
+AA-ER-892	gáz	2010.12.18	Farkas Luca	2025.02.22
+KGE 047	benzin	2020.11.27	Tóth Éva	2025.02.24
+VNT 420	gáz	2013.04.29	Szilágyi Magdolna	2025.02.26
+AA-CR-226	elektromos	2010.09.18	Nagy Irén	2025.02.28
+AA-IH-531	dízel	2004.02.11	Oláh Julianna	2025.03.01
+ALZ 684	elektromos	2007.05.29	Varga Erzsébet	2025.03.06
+NMW 072	dízel	2007.09.19	Fekete Gábor	2025.03.07
+AA-QX-118	elektromos	2014.05.16	Oláh János	2025.03.09
+AA-NF-941	dízel	2000.03.16	Németh Mária	2025.03.13
+JQU 154	elektromos	2021.05.27	Oláh Zalán	2025.03.13
+PON 120	benzin	2019.05.06	Papp Dominik	2025.03.16
+AA-UO-755	dízel	2000.10.30	Simon János	2025.03.16
+AA-CO-895	gáz	2003.05.17	Kovács János	2025.03.18
+LMX 713	dízel	2013.08.21	Kovács Dániel	2025.03.18
+AA-XB-729	elektromos	2013.03.04	Nagy Boglárka	2025.03.18
+LXG 435	gáz	2013.10.01	Kiss Nóra	2025.03.20
+QGQ 453	dízel	2024.06.25	Kiss Ilona	2025.03.21
+AA-LU-381	elektromos	2022.03.30	Mészáros Léna	2025.03.21
+AJR 964	benzin	2007.09.26	Török Tamás	2025.03.22
+EIV 813	dízel	2018.04.06	Nagy Zoltán	2025.03.23
+AA-XM-547	dízel	2021.10.24	Farkas Gábor	2025.03.23
+AA-NF-514	benzin	2023.11.19	Szabó Máté	2025.03.26
+JYZ 024	gáz	2016.02.19	Simon Máté	2025.03.29
+CVN 805	dízel	2021.08.27	Rácz István	2025.03.30
+AA-KD-370	gáz	2015.04.19	Török Máté	2025.03.30
+FBH 773	gáz	2007.07.12	Fekete Sándor	2025.03.31
+AA-NQ-961	gáz	2020.11.05	Rácz Nóra	2025.03.31
+AA-LT-016	benzin	2022.01.07	Tóth Boglárka	2025.03.31
+AA-YB-017	elektromos	2021.05.12	Varga Máté	2025.04.06
+EVV 213	dízel	2011.11.15	Mészáros Emma	2025.04.06
+AA-ME-951	elektromos	2001.12.12	Rácz Éva	2025.04.07
+AA-DL-258	dízel	2007.02.20	Simon Máté	2025.04.08
+IKD 047	elektromos	2022.12.14	Kovács Bence	2025.04.08
+AA-KF-597	benzin	2001.10.13	Kiss Éva	2025.04.08
+BRG 949	dízel	2011.11.17	Kiss Olivér	2025.04.08
+AA-AD-310	dízel	2000.07.08	Farkas Zoé	2025.04.08
+FOA 829	elektromos	2020.09.17	Simon János	2025.04.09
+AA-YK-375	elektromos	2001.10.20	Szabó Ádám	2025.04.09
+AA-HZ-666	elektromos	2008.08.25	Varga Anna	2025.04.09
+AA-FD-298	elektromos	2008.04.11	Nagy Zoltán	2025.04.10
+AA-XM-547	dízel	2021.10.24	Farkas Gábor	2025.04.10
+UBX 544	benzin	2006.05.08	Rácz Katalin	2025.04.11
+AA-VE-974	gáz	2010.10.19	Török Nóra	2025.04.12
+OWH 002	elektromos	2006.07.05	Kovács Katalin	2025.04.13
+QBI 508	gáz	2024.11.01	Molnár Boglárka	2025.04.22
+AA-AU-773	gáz	2012.02.17	Rácz Zsuzsanna	2025.04.23
+AA-YR-179	elektromos	2021.02.03	Simon András	2025.04.24
+AA-CL-964	benzin	2024.12.30	Rácz Magdolna	2025.04.24
+HAT 073	gáz	2008.09.01	Oláh Zalán	2025.04.24
+QSZ 420	gáz	2022.03.20	Rácz Zsófia	2025.04.27
+OBX 606	gáz	2002.10.27	Papp Emma	2025.04.29
+AA-KI-877	elektromos	2024.03.03	Horváth András	2025.05.04
+VME 782	dízel	2014.01.01	Mészáros András	2025.05.08
+AA-WR-230	dízel	2003.09.01	Farkas Zalán	2025.05.11
+ELL 982	elektromos	2021.06.27	Simon Zoé	2025.05.13
+AA-ZX-606	dízel	2024.12.24	Török István	2025.05.14
+LBY 018	elektromos	2000.04.01	Németh Olivér	2025.05.16
+ZBQ 155	elektromos	2012.09.19	Mészáros Luca	2025.05.16
+AA-XL-754	elektromos	2017.05.12	Németh Jázmin	2025.05.20
+AA-SX-975	dízel	2024.11.30	Tóth Olivér	2025.05.22
+AA-SN-397	benzin	2018.11.02	Török Zoé	2025.05.24
+STG 608	gáz	2025.05.05	Szabó Boglárka	2025.05.24
+AA-MS-907	dízel	2024.02.28	Papp Boglárka	2025.05.24
+AA-IN-755	gáz	2014.05.25	Fekete János	2025.05.25
+OCV 726	gáz	2003.09.25	Farkas Péter	2025.05.28
+VXF 248	elektromos	2023.06.02	Molnár Zalán	2025.05.29
+AA-VE-473	benzin	2007.12.23	Rácz Dominik	2025.05.30
+GSF 918	dízel	2006.06.08	Szabó Katalin	2025.06.01
+AA-FQ-666	elektromos	2018.11.20	Farkas János	2025.06.09
+HQE 336	dízel	2007.05.02	Szilágyi Levente	2025.06.11
+IZA 891	benzin	2005.08.17	Varga Máté	2025.06.12
+YXB 063	benzin	2021.05.28	Kovács Ádám	2025.06.12
+AA-KC-499	elektromos	2008.04.05	Farkas Dániel	2025.06.14
+OQX 353	benzin	2025.01.12	Kovács Olivér	2025.06.16
+AA-OO-378	gáz	2006.08.01	Farkas András	2025.06.17
+ZDQ 185	dízel	2020.10.12	Nagy Gábor	2025.06.22
+HAT 073	gáz	2008.09.01	Oláh Zalán	2025.06.23
+SAQ 880	benzin	2023.04.17	Rácz Léna	2025.06.24
+AA-YL-447	dízel	2006.04.25	Simon Magdolna	2025.06.25
+AA-BN-778	gáz	2006.02.04	Balogh Tamás	2025.06.27
+FHZ 106	benzin	2011.01.12	Molnár Noel	2025.06.28
+WLA 293	dízel	2004.10.19	Fekete Ádám	2025.06.28
+AA-XG-364	elektromos	2011.08.28	Mészáros Bence	2025.06.29
+NSX 336	dízel	2020.09.07	Kovács Léna	2025.06.29
+AA-DF-088	dízel	2011.07.04	Horváth Dániel	2025.07.02
+AA-OM-030	elektromos	2019.04.29	Török Dániel	2025.07.02
+FOX 099	benzin	2001.03.30	Németh Katalin	2025.07.02
+AA-VB-581	elektromos	2023.12.20	Mészáros Zsófia	2025.07.06
+HMV 702	gáz	2008.11.11	Simon Ádám	2025.07.07
+AA-RN-444	benzin	2009.12.05	Lakatos Noel	2025.07.08
+AA-QP-065	dízel	2017.02.07	Fekete Dominik	2025.07.11
+AA-GT-090	gáz	2021.01.09	Fekete Magdolna	2025.07.13
+OPQ 332	dízel	2009.07.17	Oláh Attila	2025.07.14
+YNW 772	elektromos	2000.03.31	Rácz Dániel	2025.07.16
+AA-IE-643	gáz	2009.04.05	Lakatos Emma	2025.07.16
+AA-HA-266	dízel	2001.02.03	Lakatos János	2025.07.17
+AA-PP-171	elektromos	2022.11.11	Mészáros Marcell	2025.07.18
+AA-AJ-709	dízel	2016.01.28	Kiss Noel	2025.07.18
+BVI 317	benzin	2001.03.14	Tóth Éva	2025.07.19
+AA-XR-260	gáz	2016.06.18	Balogh Noel	2025.07.19
+AA-IA-747	benzin	2025.01.07	Horváth Erzsébet	2025.07.22
+AA-IA-216	elektromos	2024.06.22	Tóth István	2025.07.23
+AA-HE-993	dízel	2006.07.25	Papp Jázmin	2025.07.23
+AA-RT-360	benzin	2017.11.07	Simon Julianna	2025.07.24
+JMW 162	elektromos	2008.07.06	Mészáros Dominik	2025.07.27
+REX 386	elektromos	2018.02.07	Papp Zoé	2025.07.30
+AA-LA-341	dízel	2020.07.07	Varga Éva	2025.07.31
+AA-BI-645	gáz	2014.10.26	Török Zalán	2025.07.31
+AA-UI-897	benzin	2010.02.09	Simon Mária	2025.08.02
+AA-KW-038	gáz	2020.05.25	Oláh Mária	2025.08.02
+HEC 487	elektromos	2025.01.26	Oláh István	2025.08.02
+XWQ 781	elektromos	2004.10.20	Oláh Hanna	2025.08.06
+FRW 953	dízel	2017.06.05	Török Jázmin	2025.08.06
+MMD 932	elektromos	2023.11.01	Mészáros Máté	2025.08.07
+BVI 317	benzin	2001.03.14	Tóth Éva	2025.08.07
+AA-WB-372	elektromos	2013.06.06	Lakatos Ilona	2025.08.09
+AA-RM-674	elektromos	2011.03.18	Farkas Erzsébet	2025.08.09
+DIG 249	gáz	2025.04.18	Balogh Éva	2025.08.10
+BID 701	benzin	2000.07.03	Balogh Noel	2025.08.10
+AA-RM-674	elektromos	2011.03.18	Farkas Erzsébet	2025.08.10
+WAJ 968	benzin	2013.07.23	Németh Irén	2025.08.11
+BXF 716	gáz	2017.05.16	Török Noel	2025.08.12
+AA-MZ-102	dízel	2001.02.24	Balogh Gábor	2025.08.12
+MIO 930	elektromos	2022.09.18	Szilágyi Levente	2025.08.12
+SCA 303	gáz	2008.07.02	Balogh László	2025.08.13
+CAU 287	benzin	2023.04.05	Varga Boglárka	2025.08.14
+AA-BM-816	gáz	2025.05.22	Simon Jázmin	2025.08.15
+AA-DI-751	elektromos	2008.01.26	Simon Mária	2025.08.17
+REX 386	elektromos	2018.02.07	Papp Zoé	2025.08.17
+PNR 139	gáz	2017.11.20	Molnár Marcell	2025.08.20
+IFU 377	dízel	2021.07.13	Tóth Tamás	2025.08.21
+WFH 060	dízel	2011.04.12	Németh László	2025.08.23
+ZLK 670	gáz	2020.12.07	Kiss Sándor	2025.08.25
+AA-JA-756	elektromos	2025.07.15	Török Katalin	2025.08.25
+ZMZ 511	benzin	2021.11.10	Oláh Dániel	2025.08.27
+YWU 322	dízel	2012.12.14	Németh Zoltán	2025.08.28
+AA-ZA-193	benzin	2001.09.23	Tóth János	2025.08.30
+AA-JA-626	gáz	2015.04.27	Simon Boglárka	2025.08.30
+AA-QE-813	gáz	2023.05.12	Lakatos Dániel	2025.08.31
+AA-XJ-392	dízel	2002.09.04	Szilágyi Magdolna	2025.09.01
+JMY 277	elektromos	2014.08.08	Tóth Attila	2025.09.01
+AA-TV-740	elektromos	2021.10.22	Rácz Zsófia	2025.09.02
+AA-ZX-606	dízel	2024.12.24	Kiss Zalán	2025.09.06
+AA-XS-314	gáz	2017.12.30	Mészáros Tamás	2025.09.08
+OCV 726	gáz	2003.09.25	Farkas Péter	2025.09.09
+AA-XT-365	benzin	2013.10.20	Varga Luca	2025.09.11
+BCH 660	dízel	2025.07.10	Molnár Zsófia	2025.09.14
+CTX 589	elektromos	2015.04.18	Szilágyi János	2025.09.14
+AIT 886	benzin	2023.11.19	Kiss Attila	2025.09.19
+AA-DF-088	dízel	2011.07.04	Horváth Dániel	2025.09.19
+RQA 444	benzin	2005.12.03	Kiss Julianna	2025.09.20
+VCK 452	gáz	2025.06.24	Tóth János	2025.09.21
+AA-IB-982	benzin	2019.11.25	Mészáros Ilona	2025.09.26
+AA-DP-146	elektromos	2002.03.01	Oláh Nóra	2025.09.26
+AA-YA-765	benzin	2002.06.02	Simon Ilona	2025.09.27
+CTX 589	elektromos	2015.04.18	Szilágyi János	2025.09.27
+AA-XG-364	elektromos	2011.08.28	Mészáros Bence	2025.09.28
+NRW 425	gáz	2021.07.15	Török Gábor	2025.09.30
+AA-EI-649	benzin	2023.09.07	Nagy Katalin	2025.10.01
+AA-JH-183	gáz	2024.10.16	Szabó Éva	2025.10.01
+QYK 016	elektromos	2025.05.07	Papp Léna	2025.10.02
+HXN 796	dízel	2012.12.13	Kiss Luca	2025.10.02
+WFH 060	dízel	2011.04.12	Németh László	2025.10.03
+AA-JF-456	dízel	2002.01.27	Rácz Bence	2025.10.06
+AA-XJ-180	benzin	2009.07.26	Horváth János	2025.10.07
+JZX 339	elektromos	2025.03.27	Farkas Zsófia	2025.10.08
+YNK 039	gáz	2022.11.22	Balogh Zoé	2025.10.11
+AA-UH-219	benzin	2022.02.05	Varga Emma	2025.10.11
+HUZ 609	gáz	2018.09.05	Molnár Péter	2025.10.12
+AA-PH-717	dízel	2025.08.19	Balogh Levente	2025.10.15
+ZLK 670	gáz	2020.12.07	Kiss Sándor	2025.10.15
+HBU 205	elektromos	2011.12.02	Horváth Ádám	2025.10.17
+AA-BY-052	benzin	2000.05.16	Szilágyi Zsófia	2025.10.17
+AA-GN-267	dízel	2018.11.05	Török Irén	2025.10.19
+OIC 272	dízel	2021.11.11	Farkas Katalin	2025.10.21
+AA-HV-612	benzin	2010.03.20	Molnár Éva	2025.10.24
+AA-NS-228	dízel	2005.09.28	Kovács Mária	2025.10.25
+DDY 715	gáz	2025.03.19	Török Olivér	2025.10.25
+KAG 410	benzin	2017.11.23	Simon Mária	2025.10.25
+AA-JA-756	elektromos	2025.07.15	Török Katalin	2025.10.26
+GFU 394	gáz	2010.06.27	Papp Péter	2025.10.27
+AA-UW-466	elektromos	2025.05.14	Varga Mária	2025.10.28
+BST 084	benzin	2024.12.05	Szilágyi Máté	2025.10.29
+AA-DF-240	gáz	2017.03.26	Török Zoltán	2025.10.30
+AA-QN-650	elektromos	2003.12.05	Kiss Ilona	2025.10.31
+FMZ 041	dízel	2011.07.31	Varga Levente	2025.10.31
+XWY 837	elektromos	2023.05.10	Farkas Anna	2025.11.02
+UHR 396	benzin	2005.02.19	Varga Julianna	2025.11.02
+CDF 605	benzin	2025.01.02	Lakatos András	2025.11.06
+GXE 008	benzin	2003.07.08	Farkas Ilona	2025.11.07
+KIZ 485	dízel	2025.04.25	Fekete Zsuzsanna	2025.11.08
+AA-RA-374	elektromos	2025.02.22	Horváth Mária	2025.11.09
+ZBB 477	benzin	2023.02.17	Farkas Dániel	2025.11.09
+AA-CV-621	dízel	2025.06.25	Farkas Máté	2025.11.11
+BST 084	benzin	2024.12.05	Szilágyi Máté	2025.11.13
+AA-OW-826	elektromos	2024.11.12	Szilágyi Máté	2025.11.15
+AA-YG-974	dízel	2024.10.17	Tóth Zalán	2025.11.17
+CSZ 330	gáz	2025.10.06	Molnár Levente	2025.11.17
+AYR 211	gáz	2023.08.02	Oláh András	2025.11.19
+AA-BP-068	dízel	2024.11.24	Balogh Ilona	2025.11.19
+DYQ 129	elektromos	2023.08.06	Simon László	2025.11.20
+RFG 076	gáz	2010.01.20	Farkas Máté	2025.11.20
+AA-QE-206	benzin	2008.07.13	Horváth Jázmin	2025.11.21
+AA-XN-794	gáz	2003.12.12	Farkas Zsófia	2025.11.24
+AA-ID-464	dízel	2006.08.21	Simon Zsófia	2025.11.29
+WGN 320	dízel	2023.06.06	Papp Zsuzsanna	2025.11.30
+MBZ 218	gáz	2025.08.13	Oláh Máté	2025.12.01
+VNC 228	benzin	2019.06.14	Kovács Gábor	2025.12.01
+MND 765	gáz	2021.03.02	Papp Dominik	2025.12.02
+EEG 107	gáz	2022.06.02	Papp Nóra	2025.12.03
+VXF 248	elektromos	2023.06.02	Molnár Zalán	2025.12.03
+IXM 202	dízel	2023.04.03	Németh Dominik	2025.12.04
+RTR 766	benzin	2005.12.30	Molnár Tamás	2025.12.06
+AA-MD-324	benzin	2022.08.01	Tóth Magdolna	2025.12.08
+ELD 499	benzin	2025.08.01	Oláh Jázmin	2025.12.09
+XYT 018	benzin	2017.05.05	Papp Péter	2025.12.11
+AA-CV-369	dízel	2025.04.25	Kiss Zoé	2025.12.12
+AA-XZ-933	benzin	2018.05.14	Lakatos Gábor	2025.12.13
+URA 832	elektromos	2008.10.25	Kiss Ilona	2025.12.13
+AA-WZ-743	elektromos	2015.11.21	Szabó Tamás	2025.12.13
+AA-II-089	dízel	2004.11.27	Balogh Zsófia	2025.12.14
+ORS 770	benzin	2024.09.06	Molnár Nóra	2025.12.16
+AA-KG-550	dízel	2019.05.14	Németh Ilona	2025.12.16
+AA-HJ-432	benzin	2025.09.09	Nagy Zoltán	2025.12.17
+XNX 800	dízel	2008.07.16	Farkas Ilona	2025.12.17
+QWP 597	dízel	2022.03.23	Tóth Zsófia	2025.12.18
+AA-ZX-465	dízel	2013.12.27	Szabó Léna	2025.12.18
+AA-HL-939	benzin	2022.07.28	Kovács Irén	2025.12.18
+AA-XQ-211	dízel	2009.04.29	Horváth Olivér	2025.12.20
+AA-PO-892	elektromos	2025.12.02	Kovács Zoltán	2025.12.22
+KST 480	elektromos	2023.10.07	Nagy Marcell	2025.12.24
+GVI 140	dízel	2024.06.03	Rácz Tamás	2025.12.25
+DFE 882	dízel	2008.05.15	Varga Gábor	2025.12.26
+NXH 618	benzin	2022.09.27	Tóth Sándor	2025.12.26
+AA-CD-897	gáz	2000.06.16	Kovács László	2025.12.27
+AA-GX-225	dízel	2025.09.10	Horváth Bence	2025.12.27
+ELD 499	benzin	2025.08.01	Oláh Jázmin	2025.12.27
+AA-TP-432	elektromos	2022.04.19	Balogh Boglárka	2025.12.30
+MND 765	gáz	2021.03.02	Papp Dominik	2025.12.31
+AA-XP-460	gáz	2023.02.05	Fekete Bence	2026.01.01
+AA-JW-030	benzin	2024.03.09	Oláh Zoltán	2026.01.05
+AA-BQ-985	benzin	2004.12.19	Fekete Ádám	2026.01.05
+AA-XU-947	benzin	2019.12.03	Török Sándor	2026.01.05
+SYX 777	benzin	2010.06.03	Török Julianna	2026.01.06
+ILG 708	elektromos	2020.12.20	Balogh Éva	2026.01.07
+AA-VL-284	benzin	2006.10.14	Papp Péter	2026.01.07
+YBW 848	gáz	2006.02.07	Simon Zalán	2026.01.08
+AA-JW-848	gáz	2015.04.13	Papp Ádám	2026.01.12
+AA-ID-464	dízel	2006.08.21	Simon Zsófia	2026.01.13
+AA-DL-258	dízel	2007.02.20	Simon Zoltán	2026.01.13
+AA-MP-884	gáz	2012.02.16	Mészáros Jázmin	2026.01.14
+AA-QP-065	dízel	2017.02.07	Fekete Dominik	2026.01.14
+YBW 848	gáz	2006.02.07	Fekete Zalán	2026.01.14
+LNW 928	gáz	2025.12.02	Farkas Julianna	2026.01.15
+DPQ 906	dízel	2016.01.29	Németh László	2026.01.15
+AA-XJ-392	dízel	2002.09.04	Németh András	2026.01.16
+DKP 843	gáz	2021.10.31	Simon Julianna	2026.01.17
+AA-AR-089	elektromos	2026.01.12	Papp Erzsébet	2026.01.18
+AA-RB-624	gáz	2003.03.19	Szabó Sándor	2026.01.18
+MXW 294	benzin	2025.10.14	Nagy Máté	2026.01.19
+SXI 007	dízel	2025.05.03	Szabó Ádám	2026.01.19
+AA-YG-971	dízel	2003.02.27	Papp Máté	2026.01.20
+AA-ID-464	dízel	2006.08.21	Simon Zsófia	2026.01.20
+GUY 023	dízel	2012.08.04	Kovács Dániel	2026.01.21
+AA-UL-914	gáz	2025.08.04	Papp Péter	2026.01.24
+YLV 462	dízel	2021.11.02	Tóth Máté	2026.01.24
+PHY 462	dízel	2008.03.10	Szilágyi Edit	2026.01.25
+YDZ 237	dízel	2021.09.06	Török Anna	2026.01.28
+YDZ 237	dízel	2021.09.06	Török Anna	2026.01.29
+LNW 928	gáz	2025.12.02	Farkas Julianna	2026.01.30
+AA-SX-975	dízel	2024.11.30	Tóth Olivér	2026.01.30
+YKI 604	gáz	2003.09.02	Mészáros Sándor	2026.01.31
+AA-RO-872	dízel	2003.12.20	Kovács Magdolna	2026.02.02
+HGZ 385	benzin	2025.02.28	Szilágyi Marcell	2026.02.03
+AA-TE-291	dízel	2010.08.21	Nagy Bence	2026.02.04
+SYF 549	benzin	2008.12.11	Németh Nóra	2026.02.06
+PHY 462	dízel	2008.03.10	Szilágyi Edit	2026.02.06
+DPP 109	benzin	2024.06.23	Németh Marcell	2026.02.07
+AA-JB-796	benzin	2003.10.13	Papp Jázmin	2026.02.07
+DYQ 129	elektromos	2023.08.06	Simon László	2026.02.12
+AA-TE-308	benzin	2025.12.31	Kiss Hanna	2026.02.15
+ELD 499	benzin	2025.08.01	Oláh Jázmin	2026.02.15
+AA-FA-883	gáz	2026.01.13	Török Luca	2026.02.16
+GFU 394	gáz	2010.06.27	Papp Péter	2026.02.16
+UKG 125	dízel	2016.10.22	Fekete László	2026.02.17
+TAN 667	elektromos	2008.12.28	Molnár Irén	2026.02.20
+QUL 725	elektromos	2018.08.03	Németh Tamás	2026.02.20
+AA-RV-156	gáz	2002.05.06	Papp Attila	2026.02.20
+AA-AR-089	elektromos	2026.01.12	Papp Erzsébet	2026.02.20
+AA-BT-669	benzin	2024.07.04	Lakatos Gábor	2026.02.21
+CPS 951	dízel	2021.09.22	Nagy Dominik	2026.02.21
+AA-TI-247	dízel	2010.12.19	Szabó Boglárka	2026.02.22
+AA-GP-200	gáz	2025.05.21	Mészáros László	2026.02.22
+AA-MF-376	gáz	2016.05.24	Kiss Ádám	2026.02.22
+QSP 215	gáz	2002.01.03	Lakatos János	2026.02.24
+AA-XP-460	gáz	2023.02.05	Fekete Bence	2026.02.24
+HAX 076	benzin	2024.07.31	Szilágyi Tamás	2026.02.25
+ZQY 778	dízel	2021.05.04	Balogh Hanna	2026.02.25
+AA-CG-557	elektromos	2022.05.23	Varga Nóra	2026.02.25
+AA-WD-221	dízel	2022.07.21	Fekete Noel	2026.02.26
+AA-MI-580	elektromos	2020.02.13	Németh Erzsébet	2026.02.27
+AA-QK-043	benzin	2004.12.10	Papp Irén	2026.02.28
+RMC 492	benzin	2021.11.06	Tóth Zsófia	2026.02.28
+AA-FK-346	elektromos	2025.11.11	Balogh Anna	2026.02.28
+PTV 204	dízel	2024.09.27	Horváth Zoé	2026.02.28
+NXH 618	benzin	2022.09.27	Tóth Sándor	2026.02.28
+MBZ 218	gáz	2025.08.13	Oláh Máté	2026.02.28
+AA-SS-690	benzin	2025.12.16	Fekete Dániel	2026.03.01
+OWH 002	elektromos	2006.07.05	Kovács Katalin	2026.03.01
+RQX 089	benzin	2001.12.31	Rácz Zsuzsanna	2026.03.02
+AA-EK-868	dízel	2022.04.24	Oláh Olivér	2026.03.02
+SFW 889	elektromos	2018.07.27	Horváth Jázmin	2026.03.02
+FZU 438	elektromos	2009.05.31	Török Éva	2026.03.03
+AA-EI-279	dízel	2026.02.02	Németh Zoltán	2026.03.03
+SFW 889	elektromos	2018.07.27	Horváth Jázmin	2026.03.03
+AA-CG-557	elektromos	2022.05.23	Varga Nóra	2026.03.03
+AA-NN-774	elektromos	2003.07.09	Szilágyi Léna	2026.03.05
+JUU 430	dízel	2002.11.06	Papp Éva	2026.03.08
+ITD 622	elektromos	2025.11.05	Török Zalán	2026.03.09
+STY 219	elektromos	2024.10.19	Oláh Noel	2026.03.09
+AA-VN-196	elektromos	2023.08.05	Oláh Zoltán	2026.03.10
+AA-YA-765	benzin	2002.06.02	Simon Ilona	2026.03.10
+PHY 462	dízel	2008.03.10	Szilágyi Edit	2026.03.11
+GJE 828	gáz	2013.12.15	Tóth Boglárka	2026.03.14
+AA-SS-690	benzin	2025.12.16	Farkas András	2026.03.14
+SHC 748	benzin	2020.04.16	Kiss Hanna	2026.03.15
+YDF 367	dízel	2023.10.04	Németh László	2026.03.15
+AA-KG-550	dízel	2019.05.14	Németh Ilona	2026.03.15
+AA-XB-081	dízel	2000.06.17	Farkas Éva	2026.03.16
+TSG 337	elektromos	2012.04.01	Kovács Olivér	2026.03.16
+AA-EE-538	gáz	2011.08.26	Török Zsófia	2026.03.17
+NDL 647	gáz	2002.09.27	Simon László	2026.03.21
+AA-GH-251	dízel	2024.05.04	Rácz Zsuzsanna	2026.03.22
+AA-XH-053	elektromos	2022.10.27	Kovács Edit	2026.03.22
+AA-LE-473	benzin	2008.01.22	Mészáros János	2026.03.23
+VRQ 889	elektromos	2006.09.02	Lakatos István	2026.03.23
+JZN 044	dízel	2025.11.25	Horváth Sándor	2026.03.24
+AA-AH-142	gáz	2005.02.28	Rácz Olivér	2026.03.25
+JKR 564	gáz	2023.12.21	Németh Tamás	2026.03.25
+AA-GH-251	dízel	2024.05.04	Rácz Zsuzsanna	2026.03.25
+AA-JX-079	elektromos	2026.03.04	Farkas Zsófia	2026.03.26
+LEZ 089	benzin	2024.05.31	Oláh Mária	2026.03.27
+AA-YR-179	elektromos	2021.02.03	Simon András	2026.03.27
+AA-LF-207	dízel	2008.03.09	Molnár Noel	2026.03.28
+AA-AF-484	gáz	2008.05.19	Varga Tamás	2026.03.29
+JFR 440	dízel	2024.09.25	Szabó Zsuzsanna	2026.03.30
+BDG 142	dízel	2025.12.11	Szabó Olivér	2026.03.30
+AA-BN-265	benzin	2011.05.02	Fekete Boglárka	2026.03.30
+AA-PB-260	gáz	2015.01.25	Papp Julianna	2026.03.30
+AON 574	benzin	2021.05.11	Molnár Katalin	2026.04.01
+JZN 044	dízel	2025.11.25	Molnár János	2026.04.01
+AA-SI-286	elektromos	2000.02.19	Kovács Marcell	2026.04.01
+JSR 364	benzin	2015.12.09	Török Hanna	2026.04.03
+RHF 965	benzin	2016.04.06	Molnár Boglárka	2026.04.03
+NYW 065	gáz	2025.10.22	Kovács Magdolna	2026.04.03
+AA-TI-247	dízel	2010.12.19	Szabó Boglárka	2026.04.03
+AA-AJ-709	dízel	2016.01.28	Kovács Zsuzsanna	2026.04.04
+AA-AP-235	dízel	2025.10.15	Nagy Máté	2026.04.05
+AA-MZ-102	dízel	2001.02.24	Szabó Olivér	2026.04.05
+AA-TH-827	elektromos	2021.04.27	Lakatos Edit	2026.04.06
+AA-GD-281	benzin	2012.12.25	Németh Emma	2026.04.06
+BDT 942	dízel	2019.05.03	Kovács Péter	2026.04.10
+MNQ 049	dízel	2024.09.04	Németh Dominik	2026.04.10
+HLX 820	gáz	2026.02.14	Balogh Luca	2026.04.10
+LFE 004	elektromos	2024.05.05	Lakatos Zalán	2026.04.11
+WPO 794	benzin	2026.04.05	Kiss László	2026.04.11
+AA-OL-570	benzin	2012.03.12	Rácz János	2026.04.11
+AA-OA-100	dízel	2013.02.11	Lakatos Edit	2026.04.11
+UXB 278	elektromos	2022.06.30	Fekete Zalán	2026.04.11
+HLX 820	gáz	2026.02.14	Balogh Luca	2026.04.11
+AA-UQ-405	dízel	2026.04.08	Szabó Zalán	2026.04.12
+UXB 278	elektromos	2022.06.30	Fekete Zalán	2026.04.12
+LFE 004	elektromos	2024.05.05	Lakatos Zalán	2026.04.12

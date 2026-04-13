@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC86558-1EDD-36C6-BC62-81E62115A806}|vizsga\\vizsga.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\vizsga\\vizsga\\vizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC86558-1EDD-36C6-BC62-81E62115A806}|vizsga\\vizsga.csproj|solutionrelative:vizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsga\\vizsga\\Program.cs",
+              "RelativeDocumentMoniker": "vizsga\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsga\\vizsga\\Program.cs",
+              "RelativeToolTip": "vizsga\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:46:28.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

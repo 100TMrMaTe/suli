@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="vizsga/vizsga.csproj" />
+  <Project Path="vizsgawpf/vizsgawpf.csproj" />
+</Solution>

@@ -1,0 +1,24 @@
+﻿<Window x:Class="vizsgawpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vizsgawpf"
+        mc:Ignorable="d"
+        Title="Szervíz 2026" Height="450" Width="800">
+    <Grid>
+        <Label Content="Szervíz 2026" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="85" Width="260" FontSize="45px"/>
+        <ListBox x:Name="listbox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,116,603,0"/>
+        <TextBox x:Name="rendszambox" HorizontalAlignment="Left" Margin="409,111,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="291" Height="47"/>
+        <TextBox x:Name="fajtabox" HorizontalAlignment="Left" Margin="409,163,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="291" Height="46"/>
+        <TextBox x:Name="tulajbox" HorizontalAlignment="Left" Margin="409,266,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="291" Height="46"/>
+        <TextBox x:Name="szervizbox" HorizontalAlignment="Left" Margin="409,317,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="291" Height="46"/>
+        <TextBox x:Name="uzembebox" HorizontalAlignment="Left" Margin="409,214,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="291" Height="47"/>
+        <Label Content="rendszam" HorizontalAlignment="Left" Margin="290,116,0,0" VerticalAlignment="Top" Height="30" Width="62"/>
+        <Label Content="fajtaja" HorizontalAlignment="Left" Margin="290,171,0,0" VerticalAlignment="Top" Height="30" Width="62"/>
+        <Label Content="uezmbehelyezes" HorizontalAlignment="Left" Margin="290,222,0,0" VerticalAlignment="Top" Height="30" Width="110"/>
+        <Label Content="tulaj" HorizontalAlignment="Left" Margin="290,275,0,0" VerticalAlignment="Top" Height="30" Width="62"/>
+        <Label Content="szerviz" HorizontalAlignment="Left" Margin="290,322,0,0" VerticalAlignment="Top" Height="30" Width="62"/>
+
+    </Grid>
+</Window>

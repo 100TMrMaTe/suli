@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\bin\Debug\net10.0\vizsga.exe
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\bin\Debug\net10.0\vizsga.deps.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\bin\Debug\net10.0\vizsga.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\bin\Debug\net10.0\vizsga.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\bin\Debug\net10.0\vizsga.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\refint\vizsga.dll
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.pdb
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\vizsga.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\2025-2026\VIZSGA\vizsga\vizsga\obj\Debug\net10.0\ref\vizsga.dll
