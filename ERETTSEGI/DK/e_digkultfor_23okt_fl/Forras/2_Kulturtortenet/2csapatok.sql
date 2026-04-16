@@ -1,1 +1,0 @@
-SELECT nev from csapat WHERE nev LIKE "#%";

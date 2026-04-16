@@ -1,1 +1,0 @@
-SELECT szerep,szinesz, hang from szinkron WHERE szerep LIKE "% rab%"
