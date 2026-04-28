@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\bin\Debug\net10.0\sorozatok.exe
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\bin\Debug\net10.0\sorozatok.deps.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\bin\Debug\net10.0\sorozatok.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\bin\Debug\net10.0\sorozatok.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\bin\Debug\net10.0\sorozatok.pdb
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\refint\sorozatok.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.pdb
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\sorozatok.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\2020okt\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\sorozatok\sorozatok\obj\Debug\net10.0\ref\sorozatok.dll

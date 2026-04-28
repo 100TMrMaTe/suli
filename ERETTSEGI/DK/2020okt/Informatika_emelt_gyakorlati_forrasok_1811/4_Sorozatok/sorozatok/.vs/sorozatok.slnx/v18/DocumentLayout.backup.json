@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2020okt\\Informatika_emelt_gyakorlati_forrasok_1811\\4_Sorozatok\\sorozatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDF12C-9256-4BE9-956C-660C29F08AD5}|sorozatok\\sorozatok.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2020okt\\informatika_emelt_gyakorlati_forrasok_1811\\4_sorozatok\\sorozatok\\sorozatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDF12C-9256-4BE9-956C-660C29F08AD5}|sorozatok\\sorozatok.csproj|solutionrelative:sorozatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDF12C-9256-4BE9-956C-660C29F08AD5}|sorozatok\\sorozatok.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2020okt\\informatika_emelt_gyakorlati_forrasok_1811\\4_sorozatok\\sorozatok\\sorozatok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDF12C-9256-4BE9-956C-660C29F08AD5}|sorozatok\\sorozatok.csproj|solutionrelative:sorozatok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2020okt\\Informatika_emelt_gyakorlati_forrasok_1811\\4_Sorozatok\\sorozatok\\sorozatok\\adatok.cs",
+              "RelativeDocumentMoniker": "sorozatok\\adatok.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2020okt\\Informatika_emelt_gyakorlati_forrasok_1811\\4_Sorozatok\\sorozatok\\sorozatok\\adatok.cs",
+              "RelativeToolTip": "sorozatok\\adatok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T08:09:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2020okt\\Informatika_emelt_gyakorlati_forrasok_1811\\4_Sorozatok\\sorozatok\\sorozatok\\Program.cs",
+              "RelativeDocumentMoniker": "sorozatok\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2020okt\\Informatika_emelt_gyakorlati_forrasok_1811\\4_Sorozatok\\sorozatok\\sorozatok\\Program.cs",
+              "RelativeToolTip": "sorozatok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T08:08:31.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
