@@ -1,0 +1,1 @@
+SELECT NEV FROM szemely WHERE elerheto ORDER BY nev;

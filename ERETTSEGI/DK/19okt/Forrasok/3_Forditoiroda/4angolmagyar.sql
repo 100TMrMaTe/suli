@@ -1,0 +1,1 @@
+SELECT terjedelem,szakterulet FROM doku,nyelv WHERE nyelvid=nyelv.id AND fnyelv = "angol" and cnyelv ="magyar" ORDER by terjedelem DESC;

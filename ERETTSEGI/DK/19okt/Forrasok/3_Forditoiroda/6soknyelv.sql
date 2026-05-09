@@ -1,0 +1,1 @@
+SELECT DISTINCT nev from szemely,fordito,nyelv WHERE fnyelv = "magyar" AND szemely.id = fordito.szemelyid AND fordito.nyelvid = nyelv.id GROUP BY nev order by count(nev) desc limit 1;

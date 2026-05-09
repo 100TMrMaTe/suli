@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsga\\vizsga\\vizsga.csproj",
         "projectName": "vizsga",
         "projectPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsga\\vizsga\\vizsga.csproj",
-        "packagesPath": "C:\\Users\\Konyhási Máté\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\konyh_filicoj\\.nuget\\packages\\",
         "outputPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsga\\vizsga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Konyhási Máté\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konyh_filicoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,0 +1,1 @@
+SELECT szakterulet,fnyelv,cnyelv from doku,nyelv WHERE nyelvid = nyelv.id and munkaido BETWEEN 7 and 9 order by 2;

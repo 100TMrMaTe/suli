@@ -1,0 +1,1 @@
+SELECT COUNT(*),SUM(nyelv.egysegar) FROM DOKU,nyelv WHERE doku.nyelvid=nyelv.id AND doku.terjedelem <=5000;
