@@ -7,18 +7,18 @@ namespace konyvek
     internal class adatok
     {
         public int ev;
-        public int negyevev;
-        public string szarmazas;
-        public string mu;
-        public int db;
+        public int negyedev;
+        public string orszag;
+        public string konyv;
+        public int peldanyszam;
 
-        public adatok (int ev, int negyevev, string szarmazas, string mu, int db)
+        public adatok(int ev, int negyedev, string orszag, string konyv, int peldanyszam)
         {
             this.ev = ev;
-            this.negyevev = negyevev;
-            this.szarmazas = szarmazas;
-            this.mu = mu;
-            this.db = db;
+            this.negyedev = negyedev;
+            this.orszag = orszag;
+            this.konyv = konyv;
+            this.peldanyszam = peldanyszam;
         }
     }
 }

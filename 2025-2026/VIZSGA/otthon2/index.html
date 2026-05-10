@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+            crossorigin="anonymous"
+        />
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+            crossorigin="anonymous"
+        ></script>
+        <style>
+            th{
+                border: 1px solid black;
+                padding: 3px;
+            }
+            td{
+                border: 1px solid black;
+                padding: 3px;
+            }
+        </style>
+    </head>
+    <body onload="init()">
+        <div class="container">
+            <div class="row h-100">
+                <div class="col-12 p-2 text-center bg-info border rounded">
+                    <h1>Nyílt nap</h1>
+                </div>
+            </div>
+            <div class="row h-100">
+                <div class="col-12 col-md-4 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">1.feladat</h3>
+                        <p>ez a feladatot igy tudod megoldani</p>
+                        <p>kerek egy telepulest: <input type="text" id="telepules" class=" rounded"></p>
+                        <div class="text-center">
+                            <button class=" bg-warning border rounded" onclick="feladat1()">Küldés</button>
+                        </div> 
+                        <div>Válasz: <div id="valasz1"></div></div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">2.feladat</h3>
+                        <p>ez a feladatot igy tudod megoldani</p>
+                        <p>kerek egy tantargy: <input type="text" id="tantargy" class=" rounded"></p>
+                        <div class="text-center">
+                            <button class=" bg-warning border rounded" onclick="feladat2()">Küldés</button>
+                        </div> 
+                        <div>Válasz: <div id="valasz2"></div></div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">3.feladat</h3>
+                        <p>ez a feladatot igy tudod megoldani</p>
+                        <p>kerek egy tantargyat: <input type="text" id="bet1" class=" rounded"></p>
+                        <p>kerek egy tantargyat: <input type="text" id="bet2" class=" rounded"></p>
+                        <div class="text-center">
+                            <button class=" bg-warning border rounded" onclick="feladat3()">Küldés</button>
+                        </div> 
+                        <div>Válasz: <div id="valasz3"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row h-100">
+                <div class="col-12 col-md-4 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">4.feladat</h3>
+                        <p>ez a feladatot igy tudod megoldani</p>
+                        <p>kerek egy telepulest: <input type="text" id="telep" class=" rounded"></p>
+                        <div class="text-center">
+                            <button class=" bg-warning border rounded" onclick="feladat4()">Küldés</button>
+                        </div> 
+                        <div>Válasz: <div id="valasz4"></div></div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">5.feladat</h3> 
+                        <div>Válasz: <div id="valasz5"></div></div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">6.feladat</h3>
+                        <p>ez a feladatot igy tudod megoldani</p>
+                        <p>kerek egy tanar: <input type="text" id="tanar" class=" rounded"></p>
+                        <p>kerek egy datum: <input type="date" id="date" class=" rounded"></p>
+                        <div class="text-center">
+                            <button class=" bg-warning border rounded"  onclick="feladat6()">Küldés</button>
+                        </div> 
+                        <div>Válasz: <div id="valasz6"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row h-100 text-center">
+                <div class="col-12  p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">7.feladat</h3>
+                        <p>ez a feladatot igy tudod megoldani</p>
+                        <p>kerek egy diak nevét: <input type="text" id="diak" class=" rounded"></p>
+                        <div class="text-center">
+                            <button class=" bg-warning border rounded"  onclick="feladat7()">Küldés</button>
+                        </div> 
+                        <div>Válasz: <div id="valasz7"></div></div>
+                    </div>
+                </div>
+                <div class="col-12 p-1">
+                    <div class="p-1 bg-danger rounded h-100">
+                        <h3 class="text-center">8.feladat</h3>
+                        <table id="table" class="text-center border rounded">
+                            <tr><th>datum</th><th>orsorszam</th><th>targy</th><th>tanar</th><th>szabad</th></tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row h-100">
+                <div class="col-12 p-2 text-center bg-info border rounded">
+                    <h1>Keszitette: Konyhási Máté</h1>
+                </div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

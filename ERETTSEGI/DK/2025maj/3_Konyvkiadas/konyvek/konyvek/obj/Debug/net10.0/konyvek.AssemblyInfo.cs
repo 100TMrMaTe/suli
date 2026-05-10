@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("konyvek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d53b1b1702b95314b94242aca43cb9e5768b625")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb322c60702e1cb0adbf2d91b683ea1d24f4a59")]
 [assembly: System.Reflection.AssemblyProductAttribute("konyvek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("konyvek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2025maj\\3_Konyvkiadas\\konyvek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40FBA5FD-73FF-4EF6-BB95-EFBF61592DE9}|konyvek\\konyvek.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2025maj\\3_konyvkiadas\\konyvek\\konyvek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40FBA5FD-73FF-4EF6-BB95-EFBF61592DE9}|konyvek\\konyvek.csproj|solutionrelative:konyvek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C119253-AE76-4B8A-A99F-4CBD007472E8}|konyvek\\konyvek.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2025maj\\3_konyvkiadas\\konyvek\\konyvek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C119253-AE76-4B8A-A99F-4CBD007472E8}|konyvek\\konyvek.csproj|solutionrelative:konyvek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40FBA5FD-73FF-4EF6-BB95-EFBF61592DE9}|konyvek\\konyvek.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2025maj\\3_konyvkiadas\\konyvek\\konyvek\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40FBA5FD-73FF-4EF6-BB95-EFBF61592DE9}|konyvek\\konyvek.csproj|solutionrelative:konyvek\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C119253-AE76-4B8A-A99F-4CBD007472E8}|konyvek\\konyvek.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2025maj\\3_konyvkiadas\\konyvek\\konyvek\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C119253-AE76-4B8A-A99F-4CBD007472E8}|konyvek\\konyvek.csproj|solutionrelative:konyvek\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "konyvek\\adatok.cs",
               "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2025maj\\3_Konyvkiadas\\konyvek\\konyvek\\adatok.cs",
               "RelativeToolTip": "konyvek\\adatok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:52:38.921Z",
+              "WhenOpened": "2026-05-09T16:25:28.405Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +45,9 @@
               "RelativeDocumentMoniker": "konyvek\\Program.cs",
               "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2025maj\\3_Konyvkiadas\\konyvek\\konyvek\\Program.cs",
               "RelativeToolTip": "konyvek\\Program.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAKUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:52:16.884Z",
+              "WhenOpened": "2026-05-09T16:24:14.56Z",
               "EditorCaption": ""
             }
           ]
