@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\20maj\\Informatika_forrasok_E1921\\4_Meteorologiai_jelentes\\metjelentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C351999-58D8-4DF4-B4AB-0CD118171DD2}|metjelentes\\metjelentes.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\20maj\\informatika_forrasok_e1921\\4_meteorologiai_jelentes\\metjelentes\\metjelentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C351999-58D8-4DF4-B4AB-0CD118171DD2}|metjelentes\\metjelentes.csproj|solutionrelative:metjelentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C351999-58D8-4DF4-B4AB-0CD118171DD2}|metjelentes\\metjelentes.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\20maj\\informatika_forrasok_e1921\\4_meteorologiai_jelentes\\metjelentes\\metjelentes\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C351999-58D8-4DF4-B4AB-0CD118171DD2}|metjelentes\\metjelentes.csproj|solutionrelative:metjelentes\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\20maj\\Informatika_forrasok_E1921\\4_Meteorologiai_jelentes\\metjelentes\\metjelentes\\adatok.cs",
+              "RelativeDocumentMoniker": "metjelentes\\adatok.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\20maj\\Informatika_forrasok_E1921\\4_Meteorologiai_jelentes\\metjelentes\\metjelentes\\adatok.cs",
+              "RelativeToolTip": "metjelentes\\adatok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:41:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\20maj\\Informatika_forrasok_E1921\\4_Meteorologiai_jelentes\\metjelentes\\metjelentes\\Program.cs",
+              "RelativeDocumentMoniker": "metjelentes\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\20maj\\Informatika_forrasok_E1921\\4_Meteorologiai_jelentes\\metjelentes\\metjelentes\\Program.cs",
+              "RelativeToolTip": "metjelentes\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:41:04.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

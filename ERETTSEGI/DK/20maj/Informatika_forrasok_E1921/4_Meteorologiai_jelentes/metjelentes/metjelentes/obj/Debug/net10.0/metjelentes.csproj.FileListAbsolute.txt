@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\net10.0\metjelentes.exe
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\net10.0\metjelentes.deps.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\net10.0\metjelentes.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\net10.0\metjelentes.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\net10.0\metjelentes.pdb
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\refint\metjelentes.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.pdb
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\metjelentes.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\20maj\Informatika_forrasok_E1921\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\net10.0\ref\metjelentes.dll

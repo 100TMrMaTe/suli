@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\bin\Debug\net10.0\cegesauto.exe
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\bin\Debug\net10.0\cegesauto.deps.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\bin\Debug\net10.0\cegesauto.runtimeconfig.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\bin\Debug\net10.0\cegesauto.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\bin\Debug\net10.0\cegesauto.pdb
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.AssemblyInfo.cs
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.sourcelink.json
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\refint\cegesauto.dll
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.pdb
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\cegesauto.genruntimeconfig.cache
+C:\xampp\htdocs\suliscucc\suli\ERETTSEGI\DK\19maj\Forrasok\4_Ceges_autok\cegesauto\cegesauto\obj\Debug\net10.0\ref\cegesauto.dll
