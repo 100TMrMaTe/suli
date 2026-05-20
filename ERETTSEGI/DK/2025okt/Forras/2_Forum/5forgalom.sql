@@ -1,0 +1,1 @@
+SELECT hirfolyam.megnevezes,count(h_id) as UzenetekSzama from hirfolyam,uzenet WHERE uzenet.h_id = hirfolyam.id GROUP BY h_id order by 2 DESC;

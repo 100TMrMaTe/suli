@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "vizsgawpf2/1.0.0": {
+        "runtime": {
+          "vizsgawpf2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vizsgawpf2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

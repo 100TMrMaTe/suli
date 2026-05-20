@@ -1,0 +1,1 @@
+SELECT DISTINCT count(f_id) as hozzaSzolo from uzenet;

@@ -6,13 +6,13 @@ namespace sebesseg
 {
     internal class adatok
     {
-        public int meter;
-        public string jelzes;
+        public int km;
+        public string jel;
 
-        public adatok(int meter, string jelzes)
+        public adatok(int km, string jel)
         {
-            this.meter = meter;
-            this.jelzes = jelzes;
+            this.km = km;
+            this.jel = jel;
         }
     }
 }

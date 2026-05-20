@@ -1,0 +1,1 @@
+SELECT veznev,utonev,count(f_id) from uzenet,felhasznalo,hirfolyam WHERE felhasznalo.id = uzenet.f_id AND hirfolyam.id = uzenet.h_id AND hirfolyam.megnevezes = "e-bike" and kuldido >= "12:00:00" and kuldido <= "16:00:00" GROUP BY f_id;

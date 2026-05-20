@@ -1,0 +1,19 @@
+﻿<Window x:Class="vizsgawpf2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vizsgawpf2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="806">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <ListBox x:Name="listbox" Margin="43,10,59,10" Grid.Column="0" SelectionChanged="listbox_SelectionChanged"/>
+        <Canvas x:Name="canvas" Margin="69,20,154,17" Grid.Column="1"/>
+
+    </Grid>
+</Window>

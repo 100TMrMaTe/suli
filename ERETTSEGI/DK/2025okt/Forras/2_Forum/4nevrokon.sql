@@ -1,0 +1,1 @@
+SELECT DISTINCT veznev,utonev from felhasznalo GROUP BY veznev,utonev having count(*)>1 order by veznev,utonev;

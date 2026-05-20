@@ -1,0 +1,1 @@
+SELECT kuldido from uzenet WHERE f_id = (SELECT f_id from uzenet order by kuldido limit 1) order by kuldido DESC limit 1;

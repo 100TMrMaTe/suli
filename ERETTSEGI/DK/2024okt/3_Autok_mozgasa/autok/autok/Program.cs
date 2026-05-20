@@ -2,70 +2,64 @@
 
 List<adatok> adatok = new List<adatok>();
 
-string[] olvas = File.ReadAllLines("jeladas.txt");
+string[] olvas = File.ReadAllText("jeladas.txt").Split(" ");
 
-foreach (var line in olvas)
+
+for(int i = 0; i < olvas.Length-3; i+=4)
 {
-    string[] tomb = line.Split('\t');
-    adatok.Add(new adatok(tomb[0], int.Parse(tomb[1]), int.Parse(tomb[2]), int.Parse(tomb[3])));
+    adatok.Add(new adatok(olvas[i], int.Parse(olvas[i + 1]), int.Parse(olvas[i + 2]), int.Parse(olvas[i + 3]), int.Parse(olvas[i + 1]) * 60 + int.Parse(olvas[i + 2])));
 }
 Console.WriteLine("2. feladat:");
-Console.WriteLine($"Az utolsó jeladás időpontja {adatok.Last().ora}:{adatok.Last().perc}, a jármű rendszáma {adatok.Last().rendszam}");
+Console.WriteLine($"AZ utolsó jeladás időpontja {adatok.Last().ora}:{adatok.Last().perc}, a jármű rendszáma {adatok.Last().rendszam}");
 Console.WriteLine("3. feladat:");
-Console.WriteLine("Az első jármű: "+ adatok.First().rendszam);
+Console.WriteLine($"Az első jármű: {adatok.First().rendszam}");
 
-var jeladasok = adatok.Where(x => x.rendszam == adatok.First().rendszam).ToList();
-string kiir = "";
-foreach(var s in jeladasok)
+var elsojarmu = adatok.Where(x=> x.rendszam == adatok.First().rendszam).ToList();
+string kiir = "Jeladásainak időpontja:";
+foreach(var x in elsojarmu)
 {
-    kiir += " " + s.ora + ":" + s.perc;
+    kiir += $" {x.ora}:{x.perc}";
 }
-Console.WriteLine("Jeladásainak időpontjai:"+kiir);
-
+Console.WriteLine(kiir);
 Console.WriteLine("4. feladat:");
-Console.Write("Kérem, adja meg az órát:");
-string beora = Console.ReadLine();
-Console.Write("Kérem, adja meg az percet:");
-string beperc = Console.ReadLine();
 
-var mennyi = adatok.Where(x=> x.ora ==int.Parse(beora) && x.perc == int.Parse(beperc)).Count();
-Console.WriteLine("A jeladások száma: "+mennyi);
+Console.Write("Kérem, adja meg az órát: ");
+int beora = int.Parse(Console.ReadLine());
+Console.Write("Kérem, adja meg az percet: ");
+int beperc = int.Parse(Console.ReadLine());
 
-Console.WriteLine("5. feladat:");
-int maxseb = adatok.Max(x => x.sebesseg);
-Console.WriteLine("A legnagyobb sebesség km/h: "+maxseb);
-
-var maxsebrendszam = adatok.Where(x=> x.sebesseg == maxseb);
-kiir = "";
-foreach(var s in maxsebrendszam)
+var jeladasok = adatok.Where(x=> x.ora == beora && x.perc == beperc).ToList();
+if(jeladasok.Count > 0)
 {
-    kiir += " " + s.rendszam;
+    Console.WriteLine($"A jeladások száma: {jeladasok.Count}");
 }
-Console.WriteLine("A járművek:"+kiir);
-
-Console.WriteLine("6. feladat:");
-
-double km = 0.0;
-
-Console.Write("Kérem adja meg a rendszámot: ");
-string rendszambe = Console.ReadLine();
-
-var jelzesei = adatok
-    .Where(x => x.rendszam == rendszambe)
-    .ToList();
-
-
-Console.WriteLine($"{jelzesei.First().ora}:{jelzesei.First().perc} 0.0 km");
-
-for (int i = 0; i < jelzesei.Count - 1; i++)
+else
 {
-    double ora = jelzesei[i].ora + (jelzesei[i].perc / 60.0);
-    double ora1 = jelzesei[i + 1].ora + (jelzesei[i + 1].perc / 60.0);
+    Console.WriteLine("A jeladások száma: 0");
+}
+Console.WriteLine("5. feladat:");
 
-    double elteltido = ora1 - ora;
+Console.WriteLine($"A legnagyobb sebesség km/h: {adatok.Max(x=> x.km)}");
 
-    double megtettut = jelzesei[i].sebesseg * elteltido + km;
-    km = megtettut;
+var leggyorsabbak = adatok.Where(x => x.km == adatok.Max(x => x.km)).ToList();
 
-    Console.WriteLine($"{jelzesei[i + 1].ora}:{jelzesei[i + 1].perc} {megtettut:F2} km");
+string kiir1 = "A járművek:";
+foreach (var x in leggyorsabbak)
+{
+    kiir1 += $" {x.rendszam}";
+}
+Console.WriteLine(kiir1);
+Console.WriteLine("6. feladat:");
+Console.Write("Kérem, adja meg a rendszámot: ");
+string berendszam = Console.ReadLine();
+var jelad = adatok.Where(x=> x.rendszam == berendszam).ToList();
+
+Console.WriteLine($"{jelad.First().ora}:{jelad.First().perc} 0.0 km");
+double eddigmegtettut = 0.0;
+for(int i = 0; i < jelad.Count-1; i++)
+{
+    int elteltido = jelad[i + 1].percben - jelad[i].percben;
+    double km = (Convert.ToDouble(elteltido) / 60) * jelad[i].km;
+    Console.WriteLine($"{jelad[i + 1].ora}:{jelad[i + 1].perc} {(km + eddigmegtettut).ToString("n1")} km");
+    eddigmegtettut += km;
 }

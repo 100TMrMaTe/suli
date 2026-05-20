@@ -1,72 +1,77 @@
 ﻿using sebesseg;
 
-List<adatok> adatoks = new List<adatok>();
+List<adatok> adatok = new List<adatok>();
 
-string[] tomb = File.ReadAllLines("ut.txt");
+string[] olvas = File.ReadAllLines("ut.txt");
 
-int uthossz =int.Parse(tomb[0]);
+int teljeshossz  = int.Parse(olvas[0].Trim());
 
-for(int i = 1; i < tomb.Length; i++)
+foreach (string line in olvas.Skip(1))
 {
-    string[] split = tomb[i].Split(" ");
-    adatoks.Add(new adatok(int.Parse(split[0]),split[1]));
+    string[] tomb = line.Split(" ");
+    adatok.Add(new adatok(int.Parse(tomb[0]), tomb[1]));
 }
-
-Console.WriteLine(adatoks);
-
-var telepulesek = adatoks.Where(x => x.jelzes.StartsWith("Varos")).Distinct().ToList();
-
 Console.WriteLine("2. feladat");
-Console.WriteLine("A települések neve:");
-
-foreach(var x in telepulesek)
+foreach(var x in adatok)
 {
-    Console.WriteLine(x.jelzes);
-}
-
-Console.WriteLine("3. feladat ");
-Console.Write("Adja meg a vizsgált szakasz hosszát km-ben! ");
-double hossz =double.Parse(Console.ReadLine());
-
-var vizsgalt = adatoks.Where(x => x.meter < (hossz * 1000));
-
-int minseb = 90;
-
-foreach(var x in vizsgalt)
-{
-    if(x.jelzes.EndsWith("0") || x.jelzes.StartsWith("Varos"))
+    if(x.jel.StartsWith("Varos"))
     {
-        if (x.jelzes.StartsWith("Varos") && minseb < 50)
-        {
-            minseb = 50;
-            
-        }
-
-        if(x.jelzes.EndsWith("0"))
-        {
-            if (int.Parse(x.jelzes) < minseb)
-            {
-                minseb = int.Parse(x.jelzes);
-            }
-        }
-        
+        Console.WriteLine(x.jel);
     }
-    
 }
 
-Console.WriteLine($"Az első {hossz} km-en {minseb} km/h volt a legalacsonyabb megengedett sebesség. ");
+Console.WriteLine();
+Console.WriteLine("3. feladat");
+Console.Write("Adja meg a vizsgált szakasz hosszát km-ben! ");
+string beker = Console.ReadLine();
 
+int sebesseghatar = 90;
+var adat1 = adatok.Where(x=> x.km <= double.Parse(beker)*1000).ToList();
 
-int telepuleshossz = 0;
-
-var varoskezdo = adatoks.Where(x => x.jelzes.StartsWith("Varos")).Select(y => y.meter).ToList();
-var varosveg = adatoks.Where(x => x.jelzes == "]").Select(y => y.meter).ToList();
-
-for(int i = 0; i < varoskezdo.Count; i++)
+foreach(var x in adat1)
 {
-    telepuleshossz += varosveg[i] - varoskezdo[i];
+    int jel = 90;
+    if(x.jel.StartsWith("Varos"))
+    {
+        jel = 50;
+    }
+    else if(x.jel.EndsWith("0"))
+    {
+        jel = int.Parse(x.jel);
+    }
+
+    if(jel <  sebesseghatar)
+    {
+        sebesseghatar = jel;
+    }
+}
+Console.WriteLine($"AZ első {beker} km-en {sebesseghatar} km/h volt a legalacsonyabb megengedett sebesség.");
+Console.WriteLine();
+Console.WriteLine("4. feladat");
+
+var varosok = adatok.Where(x => x.jel.StartsWith("Varos") || x.jel == "]").ToList();
+
+double telepules = 0;
+for(int i = 0; i < varosok.Count-1; i+=2)
+{
+    telepules += varosok[i + 1].km - varosok[i].km;
 }
 
-double szazalek = (telepuleshossz / (double)uthossz) * 100;
+double teljeshossz1 = Convert.ToDouble(teljeshossz);
 
-Console.WriteLine($"A települések aránya: {szazalek:F2}%");
+double kiir = telepules / teljeshossz1 * 100;
+
+Console.WriteLine($"Az út {kiir.ToString("n2")} százaléka vezet településen belül.");
+Console.WriteLine();
+Console.WriteLine("5. feladat");
+Console.Write("Adja meg egy település nevét! ");
+string varosbe =Convert.ToString(Console.ReadLine());
+
+var kezdokm = adatok.Where(x=> x.jel == varosbe).ToList();
+var vegkmtomb = adatok.Where(x => x.km > Convert.ToInt32(kezdokm.First().km) && x.jel == "]").Select(x => x.km).ToList();
+int vegkm = vegkmtomb.First();
+
+var varosonbelul = adatok.Where(x => x.km > Convert.ToInt32(kezdokm.First().km) && x.km<vegkm && int.TryParse(x.jel,out _)).Count();
+Console.WriteLine($"A sebesességkorlátozó táblák száma: {varosonbelul}");
+Console.WriteLine($"Az út hossza a településen belül {vegkm- Convert.ToInt32(kezdokm.First().km)} mélter");
+

@@ -1,0 +1,1 @@
+SELECT veznev,utonev,tartalom,kuldido from felhasznalo,uzenet,hirfolyam WHERE hirfolyam.id = uzenet.h_id and uzenet.f_id = felhasznalo.id;

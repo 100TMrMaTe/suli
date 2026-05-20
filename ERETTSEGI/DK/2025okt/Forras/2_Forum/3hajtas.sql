@@ -1,0 +1,1 @@
+SELECT tartalom FROM uzenet WHERE (tartalom LIKE "%bike%" or tartalom like "%bicikli%");

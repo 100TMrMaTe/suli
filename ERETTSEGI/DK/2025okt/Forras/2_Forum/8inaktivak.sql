@@ -1,0 +1,1 @@
+SELECT veznev,utonev from felhasznalo WHERE utolso < "2010-01-01" and id not in (SELECT f_id from uzenet);

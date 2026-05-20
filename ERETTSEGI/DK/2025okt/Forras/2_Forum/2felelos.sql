@@ -1,0 +1,1 @@
+SELECT hirfolyam.megnevezes,veznev,utonev,email from hirfolyam,felhasznalo WHERE felhasznalo.id = hirfolyam.moderator;

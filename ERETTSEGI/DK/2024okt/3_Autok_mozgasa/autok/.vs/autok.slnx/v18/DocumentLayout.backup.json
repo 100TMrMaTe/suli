@@ -3,18 +3,18 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2024okt\\3_Autok_mozgasa\\autok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C5F2E60-B3C6-40B7-941A-257C63561665}|autok\\autok.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2024okt\\3_autok_mozgasa\\autok\\autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5F2E60-B3C6-40B7-941A-257C63561665}|autok\\autok.csproj|solutionrelative:autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0A7C81B-94EB-4B10-B717-F7EC25C41EB9}|autok\\autok.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2024okt\\3_autok_mozgasa\\autok\\autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A7C81B-94EB-4B10-B717-F7EC25C41EB9}|autok\\autok.csproj|solutionrelative:autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5F2E60-B3C6-40B7-941A-257C63561665}|autok\\autok.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2024okt\\3_autok_mozgasa\\autok\\autok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5F2E60-B3C6-40B7-941A-257C63561665}|autok\\autok.csproj|solutionrelative:autok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0A7C81B-94EB-4B10-B717-F7EC25C41EB9}|autok\\autok.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\erettsegi\\dk\\2024okt\\3_autok_mozgasa\\autok\\autok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A7C81B-94EB-4B10-B717-F7EC25C41EB9}|autok\\autok.csproj|solutionrelative:autok\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "autok\\adatok.cs",
               "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2024okt\\3_Autok_mozgasa\\autok\\autok\\adatok.cs",
               "RelativeToolTip": "autok\\adatok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:42:09.346Z",
+              "WhenOpened": "2026-05-15T14:50:14.926Z",
               "EditorCaption": ""
             },
             {
@@ -43,11 +43,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2024okt\\3_Autok_mozgasa\\autok\\autok\\Program.cs",
               "RelativeDocumentMoniker": "autok\\Program.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2024okt\\3_Autok_mozgasa\\autok\\autok\\Program.cs*",
-              "RelativeToolTip": "autok\\Program.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\ERETTSEGI\\DK\\2024okt\\3_Autok_mozgasa\\autok\\autok\\Program.cs",
+              "RelativeToolTip": "autok\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:57:36.69Z",
+              "WhenOpened": "2026-05-15T14:49:39.968Z",
               "EditorCaption": ""
             }
           ]

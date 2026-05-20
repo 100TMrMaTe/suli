@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED55C0C-8841-2C50-70C5-28989F4C28C3}|vizsgawpf1\\vizsgawpf1.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\vizsga\\vizsgawpf1\\vizsgawpf1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5ED55C0C-8841-2C50-70C5-28989F4C28C3}|vizsgawpf1\\vizsgawpf1.csproj|solutionrelative:vizsgawpf1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED55C0C-8841-2C50-70C5-28989F4C28C3}|vizsgawpf1\\vizsgawpf1.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\vizsga\\vizsgawpf1\\vizsgawpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED55C0C-8841-2C50-70C5-28989F4C28C3}|vizsgawpf1\\vizsgawpf1.csproj|solutionrelative:vizsgawpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED55C0C-8841-2C50-70C5-28989F4C28C3}|vizsgawpf1\\vizsgawpf1.csproj|c:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\vizsga\\vizsgawpf1\\vizsgawpf1\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED55C0C-8841-2C50-70C5-28989F4C28C3}|vizsgawpf1\\vizsgawpf1.csproj|solutionrelative:vizsgawpf1\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\vizsgawpf1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "vizsgawpf1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\vizsgawpf1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "vizsgawpf1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0cAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:47:54.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\vizsgawpf1\\adatok.cs",
+              "RelativeDocumentMoniker": "vizsgawpf1\\adatok.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\vizsgawpf1\\adatok.cs",
+              "RelativeToolTip": "vizsgawpf1\\adatok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:36:42.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\vizsgawpf1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "vizsgawpf1\\MainWindow.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\suliscucc\\suli\\2025-2026\\VIZSGA\\vizsgawpf1\\vizsgawpf1\\MainWindow.xaml",
+              "RelativeToolTip": "vizsgawpf1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T18:35:55.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
